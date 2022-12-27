@@ -3,6 +3,8 @@ hide:
   - toc
 ---
 
+
+
 ![logo-accueil](https://user-images.githubusercontent.com/99027754/209585047-f1e419f1-8f55-43d2-bfc6-6d51aec13ecf.png){style="max-width: 100%; width: 450px"}
 
 ---
@@ -33,10 +35,10 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
 
 [Continuer](../katalog/){ .md-button .md-button--primary style="float: left; margin-bottom: 30px;"}
 
-[Votre propre site Web ?](../katalog/){ .md-button .md-button--secondary style="float: right; margin-bottom: 15px;"}
 
-[Nous contacter](../informations/#contact){ .md-button .md-button--secondary style="float: right; margin-bottom: 15px;"}
+[Nous contacter](../informations/#contact){ .md-button .md-button--secondary style="float: right; margin: 15px 10px;"}
 
+[Votre propre site Web ?](../katalog/){ .md-button .md-button--secondary style="float: right;"}
 
 
 

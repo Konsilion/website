@@ -1,7 +1,9 @@
 ---
 hide:
-    - toc
+  - toc
 ---
+
+
 
 # Katalog - Plateforme de ressources ouvertes
 
@@ -143,7 +145,7 @@ Diffusez et retrouvez toutes vos ressources dont vous avez besoin. Ainsi accessi
         
         pour éditer, valoriser et contribuer à des données ouvertes partout sur le web.
         
-        [Site officiel](https://datami-docs.multi.coop/?locale=fr){ .md-button target="_blank"}
+        [Site officiel](https://datami.multi.coop/?locale=fr){ .md-button target="_blank"}
 
         ---
 

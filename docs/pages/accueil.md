@@ -33,7 +33,7 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
 <br>
 
 
-[Continuer](../katalog/){ .md-button .md-button--primary style="float: left; margin-bottom: 30px;"}
+[On continue ?](../presentation/){ .md-button .md-button--primary style="float: left; margin-bottom: 30px;"}
 
 
 [Nous contacter](../informations/#contact){ .md-button .md-button--secondary style="float: right; margin-left: 10px; margin-bottom:15px;"}

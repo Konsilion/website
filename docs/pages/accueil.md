@@ -36,7 +36,7 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
 [Continuer](../katalog/){ .md-button .md-button--primary style="float: left; margin-bottom: 30px;"}
 
 
-[Nous contacter](../informations/#contact){ .md-button .md-button--secondary style="float: right; margin: 15px 10px;"}
+[Nous contacter](../informations/#contact){ .md-button .md-button--secondary style="float: right; margin-left: 10px; margin-bottom:15px;"}
 
 [Votre propre site Web ?](../katalog/){ .md-button .md-button--secondary style="float: right;"}
 

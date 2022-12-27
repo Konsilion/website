@@ -54,7 +54,7 @@ theme:
         accent: green
         scheme: default
     logo: https://github.com/Konsilion/katalog-template/blob/master/docs/kloud/img/logo.png?raw=true
-    favicon: https://konsilion.fr/wp/wp-content/uploads/2022/03/Logo_Konsilion_1.png
+    favicon: https://github.com/Konsilion/katalog-template/blob/master/docs/kloud/img/logo.png?raw=true
     name: material
     features:
       - navigation.indexes

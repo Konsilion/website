@@ -54,7 +54,7 @@ theme:
         accent: green
         scheme: default
     logo: https://github.com/Konsilion/katalog-template/blob/master/docs/kloud/img/logo.png?raw=true
-    favicon: https://github.com/Konsilion/katalog-template/blob/master/docs/kloud/img/logo.png?raw=true
+    favicon: https://user-images.githubusercontent.com/99027754/209713825-5a15933f-7a74-45a8-be36-31d40ad08740.png
     name: material
     features:
       - navigation.indexes

@@ -2,9 +2,9 @@
 
 ![Klouds](https://cdn-icons-png.flaticon.com/512/3208/3208676.png){ .md-button .md-button--primary onclick="window.open('../katalog/klouds/home','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
-## Vos premiers pas sur votre plateforme ?
-
 ---
+
+## Vos premiers pas ici ?
 
 <div class="ksln-grid">
     <div class="ksln-cards">
@@ -36,9 +36,9 @@
     </div>
 </div>
 
-## Fonctionnalités
-
 ---
+
+## Fonctionnalités
 
 <div class="ksln-grid">
     <div class="ksln-cards">

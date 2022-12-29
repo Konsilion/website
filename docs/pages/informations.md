@@ -2,6 +2,8 @@
 hide:
   - toc
 ---
+
+
 # À propos
 
 === "Notre motivation"
@@ -9,8 +11,7 @@ hide:
     
     C'est peu dire que le climat et la biodiversité ne sont pas dans une forme olympique 🤒. D'années en années nous n'avons eu de cesse de promouvoir des solutions high-tech qui aboutissent au final au remplacement systématique de modèles précédents jugés obsolètes.
 
-Malheureusement ce schéma, n'a pas de réel avenir pour les raisons suivantes :
-
+    Malheureusement ce schéma, n'a pas de réel avenir pour les raisons suivantes :
 
     📉 De plus en plus compactes et légères, nos high-technologies sont en revanche de moins en moins durables. 
 

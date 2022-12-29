@@ -149,7 +149,5 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
 
 <!-- * Créer votre <a id="PageLink" href="" target="_blank"> nouvelle page</a>. -->
 
----
-
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/admin.js"></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>

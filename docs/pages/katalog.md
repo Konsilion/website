@@ -2,18 +2,9 @@
 hide:
   - toc
 ---
-
-
-
-
-
-
-
-
-
 # Katalog - Plateforme de ressources ouvertes
 
-## L'OpenSource au service du partage et de la Science Ouverte 🤍
+## L'OpenSource au service du partage et de la diffusion des savoirs 🤍
 
 <br>
 
@@ -29,7 +20,7 @@ En tant qu'application open source, Katalog est accessible et modifiable par tou
 
 Alors n'hésitez pas et optez pour Katalog pour une gestion de contenu efficace et évolutive.
 
-<br><br>
+<br>
 
 === "Présentation"
 
@@ -92,7 +83,7 @@ Alors n'hésitez pas et optez pour Katalog pour une gestion de contenu efficace 
         <div class="ksln-cards">
             <b>Paramètrages</b>
             <hr>
-            Une fois les champs vous concernant, ci-dessus, remplis et votre plateforme créée vous devez initialiser certains paramètres.
+            Une fois les champs vous concernant, ci-dessus, remplis et votre plateforme créée, vous devez initialiser certains paramètres.
             <br><br>
             <button class="md-button md-button--primary" onclick="ConfigJson();"> Initialiser ma plateforme</button>
             <br><br>
@@ -100,7 +91,7 @@ Alors n'hésitez pas et optez pour Katalog pour une gestion de contenu efficace 
         <div class="ksln-cards">
             <b>Redirection vers votre site</b>
             <hr>
-            Accédez à votre site web et à bientôt.
+            Accédez à votre plateforme Katalog.
             <br><br><br><br>
             <button class="md-button md-button--secondary" onclick="AccessPlateform();" style=""> Accédez à ma plateforme</button>
             <br><br>

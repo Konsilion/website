@@ -4,6 +4,8 @@ hide:
 ---
 
 
+
+
 # Katalog - Plateforme de ressources ouvertes
 
 ## L'OpenSource au service du partage et de la diffusion des savoirs 🤍
@@ -14,9 +16,11 @@ Avec Katalog, vous pouvez facilement gérer et mettre à jour du contenu en lign
 
 Katalog est basé sur la technologie Mkdocs et Datami et est une solution de gestion de contenu flexible et évolutive pour les entreprises et les organisations. 
 
-* La technologie Mkdocs vous permet de créer du contenu en utilisant un langage de balisage simple et facile à apprendre, le Markdown, 
+* La technologie Mkdocs vous permet de créer du contenu en utilisant un langage de balisage simple et facile à apprendre, le Markdown. 
 
-* tandis que la technologie Datami vous permet de gérer facilement les permissions d'accès et de modification du contenu et de suivre les changements au fil du temps. 
+* La technologie Datami vous permet de gérer facilement les permissions d'accès et de modification du contenu et de suivre les changements au fil du temps.
+
+* En reliant vos catalogues avec ceux de vos proches et partenaires, vous pouvez compléter vos ressources et étendre vos connaissances en évitant de répéter l'existant.
 
 En tant qu'application open source, Katalog est accessible et modifiable par tous, ce qui signifie que vous pouvez personnaliser et adapter votre plateforme Katalog à vos besoins spécifiques. Avec des communautés actives de développeurs et d'utilisateurs, vous pouvez être sûr de bénéficier de mises à jour régulières et de soutien continu. 
 

@@ -4,6 +4,8 @@
 
 ## Vos premiers pas sur votre plateforme ?
 
+---
+
 <div class="ksln-grid">
     <div class="ksln-cards">
         <h3><b>Tour du propriétaire</b></h3>
@@ -43,6 +45,8 @@
 </div>
 
 ## Fonctionnalités
+
+---
 
 <div class="ksln-grid">
     <div class="ksln-cards">

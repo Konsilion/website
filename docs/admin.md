@@ -43,7 +43,7 @@
 
 ---
 
-=== Pages Web
+=== "Pages Web"
 
     <div class="ksln-grid">
         <div class="ksln-cards">
@@ -69,51 +69,51 @@
         </div>
     </div>
 
-=== Catalogues Web
+=== "Catalogues Web"
 
-<div class="ksln-grid">
-    <div class="ksln-cards">
-        <h3><b>Créer</b></h3>
-        <hr>
-        Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
-        <hr>
-        <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+    <div class="ksln-grid">
+        <div class="ksln-cards">
+            <h3><b>Créer</b></h3>
+            <hr>
+            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+            <hr>
+            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+        </div>
+        <div class="ksln-cards">
+            <h3><b>Modifier</b></h3>
+            <hr>
+            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+            <hr>
+            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+        </div>
+        <div class="ksln-cards">
+            <h3><b>Supprimer</b></h3>
+            <hr>
+            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+            <hr>
+            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+        </div>
     </div>
-    <div class="ksln-cards">
-        <h3><b>Modifier</b></h3>
-        <hr>
-        Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
-        <hr>
-        <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
-    </div>
-    <div class="ksln-cards">
-        <h3><b>Supprimer</b></h3>
-        <hr>
-        Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
-        <hr>
-        <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
-    </div>
-</div>
 
 
-### Administration
+=== "Administration"
 
-<div class="ksln-grid">
-    <div class="ksln-cards">
-        <h3><b>Paramètrer la modération</b></h3>
-        <hr>
-        Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
-        <hr>
-        <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+    <div class="ksln-grid">
+        <div class="ksln-cards">
+            <h3><b>Paramètrer la modération</b></h3>
+            <hr>
+            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+            <hr>
+            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+        </div>
+        <div class="ksln-cards">
+            <h3><b>Gérer les modifications</b></h3>
+            <hr>
+            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+            <hr>
+            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+        </div>
     </div>
-    <div class="ksln-cards">
-        <h3><b>Gérer les modifications</b></h3>
-        <hr>
-        Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
-        <hr>
-        <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
-    </div>
-</div>
 
 
 

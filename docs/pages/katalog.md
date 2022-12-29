@@ -5,6 +5,8 @@ hide:
 
 
 
+
+
 # Katalog - Plateforme de ressources ouvertes
 
 ## L'OpenSource au service du partage et de la Science Ouverte 🤍
@@ -20,13 +22,13 @@ Diffusez et retrouvez toutes vos ressources dont vous avez besoin. Ainsi accessi
             <hr>
             Reposant sur la technologie Mkdocs déployez un site web, afin de donner de la visibilité à votre organisation et ses réalisations. 
         </div>
-        <div class="ksln-cards"><b>Presenter vos projets et ressources</b>
+        <div class="ksln-cards"><b>Penser pour la collaboration</b>
             <hr>
             Collaborer autour de vos ressources et projets afin d'aller plus vite et plus loin.
         </div>
         <div class="ksln-cards"><b>Spécifique à vos besoins</b>
             <hr>
-            Disponible en Open Source, documenté et accessible vous pouvez adapter Katalog à vos logiques et besoins.
+            Disponible en Open Source, documenté et accessible, vous pouvez adapter votre plateforme Katalog à vos logiques et besoins.
         </div>
         <div class="ksln-cards"><b>Communauté & Supports</b>
             <hr>
@@ -110,21 +112,21 @@ Diffusez et retrouvez toutes vos ressources dont vous avez besoin. Ainsi accessi
 
 
         <div class="ksln-grid">
-            <div class="ksln-cards"><b>C'est juste Markdown</b>
+            <div class="ksln-cards"><b>C'est juste du Texte - Markdown</b>
                 <hr>
-                Concentrez-vous sur le contenu de votre documentation et créez un site statique professionnel en quelques minutes. Pas besoin de savoir HTML, CSS ou JavaScript – laissez Material for MkDocs faire le gros du travail pour vous.
+                Concentrez-vous sur le contenu de votre documentation et créez un site statique professionnel en quelques minutes. Pas besoin de connaitre les langages HTML, CSS ou JavaScript – laissez Material for MkDocs faire le gros du travail pour vous.
             </div>
-            <div class="ksln-cards"><b>Fonctionne sur tous les appareils</b>
+            <div class="ksln-cards"><b>Fonctionne sur tous les écrans et appareils</b>
                 <hr>
-                Servir votre documentation en toute confiance – Le matériel pour MkDocs s'adapte automatiquement pour s'adapter parfaitement au domaine d'écran disponible, quel que soit le type ou la taille du dispositif de visualisation. Bureau. Tablette. Mobile. Tout va bien.
+                Publier votre documentation en toute confiance – MkDocs material s'adapte automatiquement pour répondre parfaitement aux différents appareils, quel que soit le type ou la taille de l'écran. Bureau. Tablette. Mobile. Tout va bien.
             </div>
             <div class="ksln-cards"><b>Sur mesure</b>
                 <hr>
-                Faites-en le vôtre – changez les couleurs, les polices, la langue, les icônes, le logo, etc. avec quelques lignes de configuration. Le matériel pour MkDocs peut être facilement étendu et offre de nombreuses options pour modifier l'apparence et le comportement.
+                Faites-en le vôtre – changez les couleurs, les polices, la langue, les icônes, le logo, etc. avec quelques lignes de configuration. MkDocs Material peut être facilement étendu et offre de nombreuses options pour modifier l'apparence et le comportement.
             </div>
             <div class="ksln-cards"><b>Rapide et léger</b>
                 <hr>
-                Ne laissez pas vos utilisateurs attendre – obtenir une valeur incroyable avec un faible encombrement en utilisant l'un des thèmes les plus rapides disponibles avec d'excellentes performances, ce qui donne des classements de moteur de recherche optimaux et des utilisateurs heureux qui reviennent.
+                Ne laissez pas vos utilisateurs attendre – une légèreté et une rapidité incroyable avec un faible encombrement, ce qui donne de bons classements dans les moteur de recherche.
             </div>
             <div class="ksln-cards"><b>Construit pour tout le monde</b>
                 <hr>
@@ -132,7 +134,7 @@ Diffusez et retrouvez toutes vos ressources dont vous avez besoin. Ainsi accessi
             </div>
             <div class="ksln-cards"><b>Open source</b>
                 <hr>
-                Faites confiance à 20 000 utilisateurs + – choisissez une solution mature et activement maintenue avec des technologies Open Source de pointe. Gardez la propriété de votre contenu sans crainte de verrouillage du fournisseur. Autorisé en vertu du MIT.
+                Faites confiance à 20 000 utilisateurs, choisissez une solution mature et activement maintenue avec des technologies Open Source de pointe. Gardez la propriété de votre contenu sans crainte de verrouillage du fournisseur. Autorisé en vertu de la Licence MIT.
             </div>    
         </div>
 

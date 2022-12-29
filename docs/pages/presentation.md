@@ -12,6 +12,8 @@ hide:
 
 
 
+
+
 # Développons ensemble les technologies de demain.
 
 Konsilion propose une suite d'outils permettant la production, la diffusion et la collaboration autour des savoirs.
@@ -56,6 +58,7 @@ Konsilion propose une suite d'outils permettant la production, la diffusion et l
 
     <br>
     Avec **Katalog**, équipez-vous dès à présent d’une vitrine permettant le suivi, le partage et l’appropriation de vos réalisations et projets.
+
     <br><br>
     <div class="ksln-grid">
         <div class="ksln-cards"><b>Site Web - En quelques clics</b></div>
@@ -65,6 +68,9 @@ Konsilion propose une suite d'outils permettant la production, la diffusion et l
         <div class="ksln-cards"><b>Pas de serveur à gérer</b></div>
         <div class="ksln-cards"><b>Open source - 100% Gratuit</b></div>   
     </div>
+
+    Cette application vous fournit un espace de stockage en ligne sécurisé pour stocker, synchroniser et partager vos fichiers (pdf, texte, images, codes, tableurs, etc.). Elle vous offre également la possibilité de collaborer et de travailler collaborativement sur des fichiers grâce à des outils de commentaire, de modification et de suivi des changements. Disponible gratuitement, avec des options de stockage supplémentaire proposées en option, cette application open source est accessible et modifiable par tous, ce qui signifie que les développeurs et les utilisateurs peuvent contribuer au code source et l'adapter à leurs besoins.
+
     [En savoir plus sur Katalog](../katalog){ .md-button .md-button--primary style="float: right;"}
     <hr><br>
     ![technologies-konnect](https://user-images.githubusercontent.com/99027754/209567615-94205447-bbe3-408c-aafb-2baa5d9afbf5.png){: style="margin: 20px; max-width: 200px; width: 100%; float: right; opacity: 0.4;"}

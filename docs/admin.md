@@ -11,7 +11,7 @@ Le panneau de configuration vous permet de gérer et de configurer votre site de
 
 Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configuration depuis n'importe où et à tout moment afin de suivre l'état de votre plateforme.
 
-<a class="md-button md-button--secondary" href="#parametrage-de-la-plateforme" target="_self" style="float: right;">Vos premiers pas ici ?</a>
+<a class="md-button md-button--secondary" href="#parametrage-de-la-plateforme" target="_self" style="float: right; margin-bottom: 25px;">Vos premiers pas ici ?</a>
 
 ---
 

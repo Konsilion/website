@@ -2,6 +2,8 @@
 hide:
   - toc
 ---
+
+
 # Développons ensemble les technologies de demain.
 
 Konsilion propose une suite d'outils permettant la production, la diffusion et la collaboration autour des savoirs.
@@ -58,11 +60,13 @@ Konsilion propose une suite d'outils permettant la production, la diffusion et l
         <div class="ksln-cards"><b>Open source - 100% Gratuit</b></div>   
     </div>
 
-    Katalog vous fournit un espace de stockage en ligne sécurisé pour stocker, synchroniser et partager vos fichiers (pdf, texte, images, codes, tableurs, etc.). 
+    Katalog est ce que l’on appelle un *système de gestion de contenu*, conçu pour les utilisateurs qui cherchent à créer et à gérer facilement leur propre site web sans avoir besoin de connaissances techniques approfondies.
 
-    Elle vous offre également la possibilité de collaborer et de travailler ensemble sur des fichiers grâce à des outils de commentaire, de modification et de suivi des changements. 
+    Katalog vous fournit également des espaces de stockage en ligne sécurisé pour stocker, synchroniser et partager vos fichiers (pdf, texte, images, codes, tableurs, etc.). 
 
-    Disponible gratuitement, avec des options de stockage supplémentaire proposées en option, cette application open source est accessible et modifiable par tous, ce qui signifie que les développeurs et les utilisateurs peuvent contribuer au code source et l'adapter à leurs besoins.
+    Ayez également la possibilité de collaborer et de travailler ensemble sur des fichiers grâce à des outils de commentaire, de modification et de suivi des changements. 
+
+    Disponible gratuitement, avec des options de stockage supplémentaire, cette application open source est accessible et modifiable par tous, ce qui signifie que les développeurs et les utilisateurs peuvent contribuer au code source et l'adapter à leurs besoins.
 
     [En savoir plus sur Katalog](../katalog){ .md-button .md-button--primary style="float: right;"}
     <hr><br>

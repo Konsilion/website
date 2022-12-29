@@ -10,6 +10,8 @@ hide:
 
 
 
+
+
 # Développons ensemble les technologies de demain.
 
 Konsilion propose une suite d'outils permettant la production, la diffusion et la collaboration autour des savoirs.
@@ -41,6 +43,13 @@ Konsilion propose une suite d'outils permettant la production, la diffusion et l
         </div>
     </div>
 
+    La recherche et développement collaborative (R&D collaborative) est une méthode  qui implique la participation de plusieurs parties prenantes, comme des entreprises, des universités, des gouvernements et des organisations, sur un aspect ou un projet de recherche et de développement conjoint. 
+
+    Le but de la R&D collaborative est de partager les connaissances, les ressources et les compétences de chaque partie pour atteindre un objectif commun de développement de nouvelles technologies, de produits ou de services. La R&D collaborative peut être bénéfique par rapport à la recherche et développement menée indépendamment par une seule entreprise ou organisation, car elle permet d'accélérer le développement de technologies ou produits en partageant les connaissances et les ressources de chaque partie. 
+
+    Elle offre également une perspective plus large et diverse sur les problèmes à résoudre et donne accès à de nouvelles opportunités et visions de développement. conduisant ainsi à des solutions plus innovantes et durables, tout en renforçant les liens entre les différentes parties prenantes. 
+
+    Il existe de nombreux modèles de R&D collaborative, allant des partenariats public-privé aux consortium de recherche en passant par les projets open source, et la forme la plus adaptée dépendra des objectifs et des ressources de chaque projet de R&D collaborative.
 
 
 === "Katalog"

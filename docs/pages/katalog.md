@@ -6,6 +6,8 @@ hide:
 
 
 
+
+
 # Katalog - Plateforme de ressources ouvertes
 
 ## L'OpenSource au service du partage et de la diffusion des savoirs 🤍
@@ -212,7 +214,7 @@ function AccessPlateform() {
     var repo = document.getElementById("RepoName").value;
     
     if(name != "" && repo != ""){
-        window.open("https://" + name + ".github.io/" + repo);
+        window.open("https://" + name + ".github.io/" + repo + "/admin");
     } else {
         alert("Un ou deux des champs à renseigner sont vides.");
     }

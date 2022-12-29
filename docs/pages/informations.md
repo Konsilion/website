@@ -4,6 +4,8 @@ hide:
 ---
 
 
+
+
 # À propos
 
 === "Notre motivation"
@@ -21,7 +23,7 @@ hide:
 
     ❌ Raréfaction des ressources naturelles, moins de recyclabilité, hausse de la consommation par le renouvellement des équipements obsolètes perpétue un système dont les limites sont connues de tous, presque atteintes pour certaines et déjà dépassées pour d'autres. 
 
-    ✔ Il est donc temps de proposer des solutions utiles, accessibles et durables. Ce sont les Low-tech.
+    Il est donc temps de proposer des solutions utiles, accessibles et durables. Ce sont les Low-tech.
 
 === "Notre proposition"
 

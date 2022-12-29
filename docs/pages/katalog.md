@@ -9,11 +9,26 @@ hide:
 
 
 
+
+
 # Katalog - Plateforme de ressources ouvertes
 
 ## L'OpenSource au service du partage et de la Science Ouverte 🤍
+
 <br>
-Diffusez et retrouvez toutes vos ressources dont vous avez besoin. Ainsi accessibles et stockées de manières distribuées, les connaissances n’ont plus de limites et ne tiens qu’à nous de contribuer et d’en faire bon usage.
+
+Avec Katalog, vous pouvez facilement gérer et mettre à jour du contenu en ligne, comme des articles de blog, des pages et des catalogues de ressources, sans avoir à connaître aucun langage de programmation. 
+
+Katalog est basé sur la technologie Mkdocs et Datami et est une solution de gestion de contenu flexible et évolutive pour les entreprises et les organisations. 
+
+* La technologie Mkdocs vous permet de créer du contenu en utilisant un langage de balisage simple et facile à apprendre, le Markdown, 
+
+* tandis que la technologie Datami vous permet de gérer facilement les permissions d'accès et de modification du contenu et de suivre les changements au fil du temps. 
+
+En tant qu'application open source, Katalog est accessible et modifiable par tous, ce qui signifie que vous pouvez personnaliser et adapter votre plateforme Katalog à vos besoins spécifiques. Avec des communautés actives de développeurs et d'utilisateurs, vous pouvez être sûr de bénéficier de mises à jour régulières et de soutien continu. 
+
+Alors n'hésitez pas et optez pour Katalog pour une gestion de contenu efficace et évolutive.
+
 <br><br>
 
 === "Présentation"
@@ -46,7 +61,6 @@ Diffusez et retrouvez toutes vos ressources dont vous avez besoin. Ainsi accessi
         </div>   
     </div>
 
-    <br>
     Rendre accessibles les résultats de la recherche par le **partage de nos ressources et savoirs**, voici l’enjeu de la **science ouverte**. L’ouverture est le gage d’une recherche mieux documentée, plus étayée et compilée. Diffusez ou retrouvez tout les savoirs dont vous avez besoin. Accessibles, **les connaissances n’ont plus de limites** et ne tiens qu’à nous d’en faire bon usage. 
     
 

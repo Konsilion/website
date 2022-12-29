@@ -2,6 +2,8 @@
 hide:
   - toc
 ---
+
+
 # Katalog - Plateforme de ressources ouvertes
 
 ## L'OpenSource au service du partage et de la diffusion des savoirs 🤍
@@ -81,7 +83,7 @@ Alors n'hésitez pas et optez pour Katalog pour une gestion de contenu efficace 
     <br>    
     <div class="ksln-grid">
         <div class="ksln-cards">
-            <b>Paramètrages</b>
+            <b>Initialisation</b>
             <hr>
             Une fois les champs vous concernant, ci-dessus, remplis et votre plateforme créée, vous devez initialiser certains paramètres.
             <br><br>

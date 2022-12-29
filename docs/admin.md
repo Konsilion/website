@@ -43,10 +43,6 @@ hide:
 </detail>
 
 
-
-
-## Fonctionnalités
-
 ---
 
 === "Pages Web"

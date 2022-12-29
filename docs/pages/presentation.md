@@ -4,20 +4,9 @@ hide:
 ---
 
 
-
-
-
-
-
-
-
-
-
-
 # Développons ensemble les technologies de demain.
 
 Konsilion propose une suite d'outils permettant la production, la diffusion et la collaboration autour des savoirs.
-
 
 === "Pourquoi ?"
 
@@ -44,6 +33,8 @@ Konsilion propose une suite d'outils permettant la production, la diffusion et l
             La documentation permet de traverser les âges et de pérenniser un projet. Utile à la médiation et pouvant être utilisée pour la formation, une documentation de qualité est essentielle pour qu'un projet soit constructif et transmissible.
         </div>
     </div>
+
+    ---
 
     La recherche et développement collaborative (R&D collaborative) est une méthode  qui implique la participation de plusieurs parties prenantes, comme des entreprises, des universités, des gouvernements et des organisations, sur un aspect ou un projet de recherche et de développement conjoint. 
 

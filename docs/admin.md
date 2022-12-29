@@ -5,12 +5,14 @@ hide:
 
 # Panneau de configuration
 
+Le panneau de configuration vous permet de gérer et de configurer votre site de manière efficace. Vous pouvez utiliser le panneau de configuration pour diverses tâches, comme la création de nouvelles pages, la gestion des modifications du contenu existant et la gestion des droits d'administration. 
+Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configuration depuis n'importe où et à tout moment afin de suivre l'état de votre plateforme.
+
 ---
 
 ![Klouds](https://cdn-icons-png.flaticon.com/512/3208/3208676.png){ .md-button .md-button--primary onclick="window.open('../katalog/klouds/home','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
-
-<a class="md-button md-button--primary" href="#parametrage-de-la-plateforme" target="_self">Vos premiers pas ici ?</a>
+<a class="md-button md-button--primary" href="#parametrage-de-la-plateforme" target="_self" style="float: right;">Vos premiers pas ici ?</a>
 
 
 ## Fonctionnalités

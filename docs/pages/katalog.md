@@ -7,6 +7,8 @@ hide:
 
 
 
+
+
 # Katalog - Plateforme de ressources ouvertes
 
 ## L'OpenSource au service du partage et de la Science Ouverte 🤍
@@ -58,9 +60,13 @@ Diffusez et retrouvez toutes vos ressources dont vous avez besoin. Ainsi accessi
             Pour créer votre plateforme, un simple compte GitHub suffit.
             <br><br>
             <button class="md-button md-button--primary" onclick="window.open('https://github.com/Konsilion/katalog-template/generate');"> Créer ma plateforme</button>
-            <br><br>
+            <br>
+            <br>
         </div>
     </div>
+
+    si vous n'avez pas de compte GitHub, vous pouvez en créer un en <a href="https://github.com/signup" target="_blank">suivant ce lien</a>
+
     <hr>
     
     ## **Création faite ?** - Renseignez les informations suivantes :

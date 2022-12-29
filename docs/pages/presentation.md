@@ -4,6 +4,8 @@ hide:
 ---
 
 
+
+
 # Développons ensemble les technologies de demain.
 
 Konsilion propose une suite d'outils permettant la production, la diffusion et la collaboration autour des savoirs.
@@ -67,6 +69,8 @@ Konsilion propose une suite d'outils permettant la production, la diffusion et l
     Ayez également la possibilité de collaborer et de travailler ensemble sur des fichiers grâce à des outils de commentaire, de modification et de suivi des changements. 
 
     Disponible gratuitement, avec des options de stockage supplémentaire, cette application open source est accessible et modifiable par tous, ce qui signifie que les développeurs et les utilisateurs peuvent contribuer au code source et l'adapter à leurs besoins.
+
+    <br>
 
     [En savoir plus sur Katalog](../katalog){ .md-button .md-button--primary style="float: right;"}
     <hr><br>

@@ -83,19 +83,19 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
 
     <div class="ksln-grid">
         <div class="ksln-cards">
-            <h3><b>Gérer les droits d'administration</b></h3>
-            <hr>
-            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
-            <hr>
-            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
-        </div>
-        <div class="ksln-cards">
             <h3><b>Gérer les contributions</b></h3>
             <hr>
             Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
             <hr>
             <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
         </div>
+        <div class="ksln-cards">
+            <h3><b>Gérer les droits d'administration</b></h3>
+            <hr>
+            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+            <hr>
+            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+        </div>        
         <div class="ksln-cards">
             <h3><b>Associer un nom de domaine</b></h3>
             <hr>

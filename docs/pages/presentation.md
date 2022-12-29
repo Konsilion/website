@@ -8,6 +8,8 @@ hide:
 
 
 
+
+
 # Développons ensemble les technologies de demain.
 
 Konsilion propose une suite d'outils permettant la production, la diffusion et la collaboration autour des savoirs.
@@ -68,7 +70,7 @@ Konsilion propose une suite d'outils permettant la production, la diffusion et l
             <h3><img src="https://raw.githubusercontent.com/multi-coop/datami-documentation-content/main/images/logos/logo-DATAMI-rect-colors-03.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
             <b>Datami</b></h3>
             <hr>
-            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui doit pouvoir contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
             <hr>
             <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
         </div>
@@ -92,7 +94,7 @@ Konsilion propose une suite d'outils permettant la production, la diffusion et l
             <h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2zfWDl3CQAww-IWPScALfQ3-J5tqSuPw30fxTGe_gV0GJoxkBgP1a_ELUQGzc3Y6xuS4&usqp=CAU" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
             <b>MkDocs</b></h3>
             <hr>
-            Écrivez votre documentation dans Markdown et créez un site statique professionnel en minutes – consultable, personnalisable, pour tous les appareils.
+            Écrivez votre documentation en Markdown et créez un site statique professionnel en minutes – adapté et personnalisable pour tous les appareils.
             <hr>
             <a class="md-button md-button--primary" href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Lien</a>
         </div>

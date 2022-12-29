@@ -5,6 +5,8 @@ hide:
 
 
 
+
+
 ![logo-accueil](https://user-images.githubusercontent.com/99027754/209585047-f1e419f1-8f55-43d2-bfc6-6d51aec13ecf.png){style="max-width: 100%; width: 450px"}
 
 ---
@@ -33,13 +35,14 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
 <br>
 
 
-[On continue ?](../presentation/){ .md-button .md-button--primary style="float: left; margin-bottom: 50px;"}
+[On continue ?](../presentation/){ .md-button .md-button--primary style="float: left; margin-bottom: 75px;"}
 
 
 [Nous contacter](../informations/#contact){ .md-button .md-button--secondary style="float: right; margin-left: 10px; margin-bottom:15px;"}
 
 [Votre propre site Web ?](../katalog/){ .md-button .md-button--secondary style="float: right;"}
 
+<br><br><br>
 
 
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>

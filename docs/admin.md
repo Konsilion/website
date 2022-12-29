@@ -43,7 +43,7 @@
 
 ---
 
-??? tip "Pages Web"
+=== Pages Web
 
     <div class="ksln-grid">
         <div class="ksln-cards">
@@ -69,7 +69,7 @@
         </div>
     </div>
 
-### Catalogues Web
+=== Catalogues Web
 
 <div class="ksln-grid">
     <div class="ksln-cards">
@@ -94,6 +94,7 @@
         <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
     </div>
 </div>
+
 
 ### Administration
 

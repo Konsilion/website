@@ -13,6 +13,8 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
 
 <a class="md-button md-button--secondary" href="#parametrage-de-la-plateforme" target="_self" style="float: right; margin-bottom: 25px;">Vos premiers pas ici ?</a>
 
+Voici le nom de mon site : {{ site_name }}
+
 ---
 
 ## Fonctionnalités

@@ -9,7 +9,7 @@ hide:
  
 <hr><br>
 
-# Créer une page Web
+# Tout ce qu'il faut savoir sur les pages Web.
 
 ---
 

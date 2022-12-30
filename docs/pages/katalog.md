@@ -5,9 +5,6 @@ hide:
 
 
 
-
-
-
 # Katalog - Plateforme de ressources ouvertes
 
 ## L'OpenSource au service du partage et de la diffusion des savoirs 🤍
@@ -32,7 +29,6 @@ Alors n'hésitez pas et optez pour Katalog pour une gestion de contenu efficace 
 
 === "Présentation"
 
-    <br>
     <div class="ksln-grid">
         <div class="ksln-cards"><b>Site Web - En quelques clics</b>
             <hr>
@@ -65,7 +61,6 @@ Alors n'hésitez pas et optez pour Katalog pour une gestion de contenu efficace 
 
 === "Obtenir une plateforme Katalog"
     
-    <br>
     <div class="ksln-grid">
         <div class="ksln-cards">
             <b>Création</b>

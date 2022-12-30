@@ -46,6 +46,13 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
+            <h3><b>Mettre en place les commentaires</b></h3>
+            <hr>
+            Modifier une page Web existante en toute simplicité.
+            <hr>
+            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+        </div>        
+        <div class="ksln-cards">
             <h3><b>Supprimer une page</b></h3>
             <hr>
             Supprimer ou de-référencer une page Web. 

@@ -72,26 +72,6 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer 
 
         * Menu glissant :
 
-    ### En savoir plus sur l'écriture Markdown
-
-    Le markdown est un langage de balisage léger qui permet de formater du texte de manière simple et rapide. Il a été créé en 2004 par John Gruber et Aaron Swartz dans le but de rendre la mise en forme de documents plus facile et plus rapide. Le markdown est souvent utilisé pour la rédaction de documents sur internet, comme des articles de blog, des documents de documentation, etc.
-
-    Pour utiliser le markdown, il suffit d'ajouter des symboles spéciaux devant ou autour des mots ou des phrases que vous voulez mettre en forme.
-
-    [Débuter avec Markdown](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/){ .md-button .md-button--secondary}
-
-    ### Au besoin, compléter avec du code HTML
-
-    Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en utilisant des balises HTML. Par exemple, pour ajouter une image à votre page suivi d'un saut de ligne, vous pouvez utiliser la balise <img> et <br> comme ceci :
-
-    <div style="max-width: 650px; margin: 50px auto;" markdown>
-        ``` html title="Ajout ponctuel d'éléments HTML"
-        <img src="image.jpg" alt="Description de l'image">
-
-        <br>
-        ```
-    </div>
-
 === "Étape 2" 
  
     ## Référencer votre page
@@ -112,5 +92,28 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer 
           - À propos: pages/contact.md
         ```
     </div>
+
+=== "Aller plus loin"
+
+    ### En savoir plus sur l'écriture Markdown
+
+    Le markdown est un langage de balisage léger qui permet de formater du texte de manière simple et rapide. Il a été créé en 2004 par John Gruber et Aaron Swartz dans le but de rendre la mise en forme de documents plus facile et plus rapide. Le markdown est souvent utilisé pour la rédaction de documents sur internet, comme des articles de blog, des documents de documentation, etc.
+
+    Pour utiliser le markdown, il suffit d'ajouter des symboles spéciaux devant ou autour des mots ou des phrases que vous voulez mettre en forme.
+
+    [Débuter avec Markdown](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/){ .md-button .md-button--secondary}
+
+    ### Au besoin, compléter avec du code HTML
+
+    Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en utilisant des balises HTML. Par exemple, pour ajouter une image à votre page suivi d'un saut de ligne, vous pouvez utiliser la balise <img> et <br> comme ceci :
+
+    <div style="max-width: 650px; margin: 50px auto;" markdown>
+        ``` html title="Ajout ponctuel d'éléments HTML"
+        <img src="image.jpg" alt="Description de l'image">
+
+        <br>
+        ```
+    </div>
+
 
 ---

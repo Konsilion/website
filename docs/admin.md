@@ -12,6 +12,8 @@ hide:
  
  ---
 
+<br><br>
+
 # Configuration
 
 [Premiers pas ici ?](#parametrage-de-la-plateforme){ .md-button .md-button--primary style="float:right; margin: 10px;" target="_self"}

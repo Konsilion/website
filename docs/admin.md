@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-[Vos premiers pas ici ?](#parametrage-de-la-plateforme){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_blank"}
+[Premiers pas ici ?](#parametrage-de-la-plateforme){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_blank"}
 
 [Votre répertoire]({{ katalog_repo }}){ .md-button .md-button--primary style="float:right; margin: 10px;" target="_blank"}
 

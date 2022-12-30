@@ -1,5 +1,6 @@
 ---
-comments: true
+hide: 
+  - toc
 ---
 
 
@@ -77,54 +78,3 @@ J'espère que ce tutoriel vous aidera à démarrer avec MkDocs. N'hésitez pas �
 
 
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script> <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script> <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>
-
-
-
-
-
-{% if page.meta.comments %}
-   <h2 id="__comments">{{ lang.t("meta.comments") }}</h2>
-   <!-- Insert generated snippet here -->
-   <script src="https://giscus.app/client.js"
-           data-repo="konsilion/website-giscus"
-           data-repo-id="R_kgDOIspq8w"
-           data-category="General"
-           data-category-id="DIC_kwDOIspq884CTVE0"
-           data-mapping="pathname"
-           data-strict="0"
-           data-reactions-enabled="1"
-           data-emit-metadata="0"
-           data-input-position="bottom"
-           data-theme="preferred_color_scheme"
-           data-lang="fr"
-           crossorigin="anonymous"
-           async>
-   </script>
-   <!-- Synchronize Giscus theme with palette -->
-   <script>
-    var giscus = document.querySelector("script[src*=giscus]")
-    /* Set palette on initial load */
-    var palette = __md_get("__palette")
-    if (palette && typeof palette.color === "object") {
-      var theme = palette.color.scheme === "slate" ? "dark" : "light"
-      giscus.setAttribute("data-theme", theme) 
-    }
-    /* Register event handlers after documented loaded */
-    document.addEventListener("DOMContentLoaded", function() {
-      var ref = document.querySelector("[data-md-component=palette]")
-      ref.addEventListener("change", function() {
-        var palette = __md_get("__palette")
-        if (palette && typeof palette.color === "object") {
-          var theme = palette.color.scheme === "slate" ? "dark" : "light"
-
-          /* Instruct Giscus to change theme */
-          var frame = document.querySelector(".giscus-frame")
-          frame.contentWindow.postMessage(
-            { giscus: { setConfig: { theme } } },
-            "https://giscus.app"
-          )
-        }
-      })
-    })
-   </script>
-{% endif %}

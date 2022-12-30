@@ -48,17 +48,7 @@ Créez les fichiers markdown correspondants aux pages de votre site. Vous pouvez
   ```
 </div>
 
-### Au besoin, compléter avec du code HTML
-
-Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en utilisant des balises HTML. Par exemple, pour ajouter une image à votre page suivi d'un saut de ligne, vous pouvez utiliser la balise <img> et <br> comme ceci :
-
-``` html title="Ajout ponctuel d'éléments HTML"
-<img src="image.jpg" alt="Description de l'image">
-
-<br>
-```
-
-??? info "Pourquoi copier les quelques lignes de `<script>` ?"
+??? info "À quoi servent les lignes `<script>` ?"
 
     Un script est un programme informatique écrit dans le langage JavaScript. Ils sont utilisés pour ajouter de la fonctionnalité à votre plateforme web, comme des actions en réponse aux événements de l'utilisateur, des saisies de texte dans des formulaires ou des gestions de compatibilité entre Mkdocs et Datami.
 
@@ -72,6 +62,16 @@ Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en uti
 
     * Menu glissant :
 
+
+### Au besoin, compléter avec du code HTML
+
+Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en utilisant des balises HTML. Par exemple, pour ajouter une image à votre page suivi d'un saut de ligne, vous pouvez utiliser la balise <img> et <br> comme ceci :
+
+``` html title="Ajout ponctuel d'éléments HTML"
+<img src="image.jpg" alt="Description de l'image">
+
+<br>
+```
 
 ## Référencer votre page
 

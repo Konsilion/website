@@ -13,13 +13,21 @@ comments: true
 
 Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer.
 
-## Créer le fichier et écrire le contenu
+## Créer la page et écrire le contenu
 
 [Étape 1 - Créer le fichier]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right; margin: 15px;" target="_self"}
 
 ---
 
-Créez les fichiers markdown correspondants aux pages de votre site. Vous pouvez utiliser un éditeur de texte simple pour cela. Chaque fichier markdown doit commencer par une ligne de front matter qui définit le titre de la page et d'autres paramètres. Par exemple :
+Créez le fichier markdown correspondant à la page de votre site en cliquant sur le bouton de l'étape 1. Ce fichier doit porter l'extension `.md`, par exemple : `accueil.md` ou `ma-page.md`.
+
+* Placer le fichier dans `pages` ou un sous dossier `pages/sous-dossier/ma-page.md`
+
+* Pas d'espace dans le nom de votre fichier
+
+* Copier le modèle suivant dans le fichier et enregistrer.
+
+Chaque fichier markdown doit commencer par une ligne de front matter qui définit le titre de la page et d'autres paramètres. Par exemple :
 
 <div style="max-width: 650px; margin: 50px auto;" markdown>
   ``` html title="Page Web - Modèle de base"

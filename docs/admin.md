@@ -86,16 +86,19 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
 === "Espaces de stockages"
     <div class="ksln-grid">
         <div class="ksln-cards">
-            <h3>Images</h3>
+            <h3><b>Images</b></h3>
             <a class="md-button md-button--secondary" href="{{ katalog_repo }}/blob/master/klouds/img" target="_blank">Lien</a>
+            <br>
         </div>
         <div class="ksln-cards">
-            <h3>Documents</h3>
+            <h3><b>Documents</b></h3>
             <a class="md-button md-button--secondary" href="{{ katalog_repo }}/blob/master/klouds/docs" target="_blank">Lien</a>
+            <br>
         </div>
         <div class="ksln-cards">
-            <h3>Autres</h3>
+            <h3><b>Autres</b></h3>
             <a class="md-button md-button--secondary" href="{{ katalog_repo }}/blob/master/klouds/other" target="_blank">Lien</a>
+            <br>
         </div>
     </div>
     

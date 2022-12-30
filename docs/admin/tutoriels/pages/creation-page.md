@@ -17,7 +17,7 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer 
 
 === "Étape 1"
 
-    [Étape 1 - Créer le fichier]({{ katalog_repo }}/new/master/docs/pages){ .md-button .md-button--primary style="float:right; margin: 15px;" target="_blank"}
+    [Étape 1 - Créer le fichier]({{ katalog_repo }}/new/master/docs/pages){ .md-button .md-button--secondary style="float:right; margin: 15px;" target="_blank"}
 
     ## Créer la page et écrire le contenu
 
@@ -74,7 +74,7 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer 
 
 === "Étape 2" 
 
-    [Étape 2 - Modifier mkdocs.yml]({{ katalog_repo }}/edit/master/mkdocs.yml){ .md-button .md-button--primary style="float:right; margin: 15px;" target="_blank"}
+    [Étape 2 - Modifier mkdocs.yml]({{ katalog_repo }}/edit/master/mkdocs.yml){ .md-button .md-button--secondary style="float:right; margin: 15px;" target="_blank"}
 
     ## Référencer votre page
 

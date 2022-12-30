@@ -60,28 +60,24 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
     <div class="ksln-grid">
         <div class="ksln-cards">
             <h3><b>Créer un catalogue</b></h3>
-            <hr>
             Présenter vos données, ressources et autres intérêts dans un catalogue Web (de multiples disposition existes, les découvrir).
             <hr>
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Modifier un catalogue</b></h3>
-            <hr>
             Modifier une catalogue Web existant en toute simplicité.
             <hr>
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Lier un catalogue</b></h3>
-            <hr>
             Afficher dans votre site des catalogues partenaires externes. Ainsi garder un oeil sur ce qu'il se fait autour de vous.
             <hr>
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Supprimer un catalogue</b></h3>
-            <hr>
             Supprimer ou de-référencer un catalogue Web.
             <hr>
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
@@ -94,28 +90,24 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
     <div class="ksln-grid">
         <div class="ksln-cards">
             <h3><b>Gérer les contributions</b></h3>
-            <hr>
             Accedez à la liste des contributions en attente faites sur votre site.
             <hr>
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Gérer les droits d'administration</b></h3>
-            <hr>
             Définissez la modération par les droits d'accès, de lecture et d'écriture de votre plateforme.
             <hr>
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Associer un nom de domaine</b></h3>
-            <hr>
             Relier ce site web à l'un de vos domaines ou sous-domaines (ex: konsilion.fr).
             <hr>
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Initialiser votre plateforme</b></h3>
-            <hr>
             Enregistrer trois informations essentielles au bon fonctionnement de votre plateforme (fichier konsilion.json).
             <hr>
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
@@ -131,34 +123,29 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
 <div class="ksln-grid">
     <div class="ksln-cards">
         <h3><b>Tour du propriétaire</b></h3>
-        <hr>
         En moins de 2 minutes, faite le tour des grandes fonctionnalités et usages de la plateforme.
         <hr>
         <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
     </div>
     <div class="ksln-cards">
         <h3><b>Personnaliser la plateforme</b></h3>
-        <hr>
         Changer la couleur, les logos, le nom ou encore l'architecture de votre site.
         <hr>
         <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
     </div>
     <div class="ksln-cards">
         <h3><b>Activer la contribution</b></h3>
-        <hr>
         Permettre une contribution libre et sans limite de votre contenu (modération possible).
         <hr>
         <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
     </div>
     <div class="ksln-cards">
         <h3><b>FAQ</b></h3>
-        <hr>
         Quelques autres questions auquelles nous apportons des réponses.
         <hr>
         <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
     </div>
 </div>   
-
 
 
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/admin.js"></script>

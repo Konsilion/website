@@ -3,7 +3,13 @@ hide:
     - toc
 ---
 
-[Retour]({{ katalog_repo }}/pages/accueil){ .md-button .md-button--primary style="float:right; margin: 10px;" target="_blank"}
+
+![Klouds](https://cdn-icons-png.flaticon.com/512/3208/3208676.png){ .md-button .md-button--primary onclick="window.open(' {{ katalog_repo }} ','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
+
+
+# Configuration
+
+[Retour]({{ katalog_repo }}/pages/accueil){ .md-button .md-button--primary style="float:left; margin: 10px;" target="_blank"}
 
 [Premiers pas ici ?](#parametrage-de-la-plateforme){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_self"}
 
@@ -11,10 +17,7 @@ hide:
 
 ---
 
-
-# Configuration
-
-![Klouds](https://cdn-icons-png.flaticon.com/512/3208/3208676.png){ .md-button .md-button--primary onclick="window.open(' {{ katalog_repo }} ','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
+<br><br>
 
 Le **panneau de configuration** vous permet de gérer et de configurer votre site de manière efficace. Vous pouvez utiliser le panneau de configuration pour diverses tâches, comme la création de nouvelles pages, la gestion des modifications du contenu existant et la gestion des droits d'administration. 
 

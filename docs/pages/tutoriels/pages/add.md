@@ -19,7 +19,7 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer 
 
 ## Créer la page et écrire le contenu
 
-[Étape 1 - Créer le fichier]({{ katalog_site }}/admin){ .md-button .md-button--primary style="float:right; margin: 15px;" target="_self"}
+[Étape 1 - Créer le fichier]({{ katalog_repo }}/new/master/docs/pages){ .md-button .md-button--primary style="float:right; margin: 15px;" target="_self"}
 
 ---
 
@@ -94,7 +94,7 @@ Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en uti
     
 ## Référencer votre page
 
-[Étape 2 - Modifier mkdocs.yml]({{ katalog_site }}/admin){ .md-button .md-button--primary style="float:right; margin: 15px;" target="_self"}
+[Étape 2 - Modifier mkdocs.yml]({{ katalog_repo }}/edit/master/mkdocs.yml){ .md-button .md-button--primary style="float:right; margin: 15px;" target="_self"}
 
 ---
 

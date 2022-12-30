@@ -5,6 +5,9 @@ hide:
 ---
 
 
+[TOC]
+
+
 [Retour]({{ katalog_site }}/admin){ .md-button .md-button--primary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_self"}
 
 <hr>
@@ -14,8 +17,6 @@ hide:
 ---
 
 Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer en deux étapes seulement.
-
-[TOC]
 
 ## Créer la page et écrire le contenu
 

@@ -5,8 +5,6 @@ hide:
 
 [Retour]({{ katalog_site }}/admin){ .md-button .md-button--primary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_self"}
 
-[Créer une page]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_self"}
- 
 <hr><br>
 
 # Tout ce qu'il faut savoir sur les pages Web.
@@ -16,6 +14,10 @@ hide:
 Voici un tutoriel qui vous expliquera comment écrire une page web avec Katalog :
 
 ## Créer le fichier et écrire le contenu
+
+[Créer le fichier]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_self"}
+
+---
 
 Créez les fichiers markdown correspondants aux pages de votre site. Vous pouvez utiliser un éditeur de texte simple pour cela. Chaque fichier markdown doit commencer par une ligne de front matter qui définit le titre de la page et d'autres paramètres. Par exemple :
 
@@ -40,6 +42,10 @@ Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en uti
 
 
 ## Référencer votre page
+
+[Référencer ma page]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_self"}
+
+---
 
 Dans le répertoire du projet, vous trouverez un fichier mkdocs.yml qui contient les paramètres de votre projet. Ouvrez ce fichier et modifiez-le pour définir le titre de votre site et les pages que vous souhaitez inclure. Par exemple :
 

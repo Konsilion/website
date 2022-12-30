@@ -50,9 +50,9 @@ Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en uti
 <img src="image.jpg" alt="Description de l'image">
 ```
 
-### Pourquoi copier les quelques lignes de `<script>` ?
+### 
 
-!!! infor ""
+??? info "Pourquoi copier les quelques lignes de `<script>` ?"
 
     Un script est un programme informatique écrit dans le langage JavaScript. Ils sont utilisés pour ajouter de la fonctionnalité à votre plateforme web, comme des actions en réponse aux événements de l'utilisateur, des saisies de texte dans des formulaires ou des gestions de compatibilité entre Mkdocs et Datami.
 

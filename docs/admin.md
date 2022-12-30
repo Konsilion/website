@@ -15,6 +15,8 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
 
 Voici le nom de mon site : {{ site_name }}
 
+Voici le nom du site  : {{ config.site_name }}
+
 ---
 
 ## Fonctionnalités

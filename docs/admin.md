@@ -3,8 +3,6 @@ hide:
     - toc
 ---
 
-[Stockages]({{ katalog_site }}/katalog/klouds/home){ .md-button .md-button--primary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_self"}
-
 [Répertoire Git]({{ katalog_repo }}){ .md-button .md-button--primary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_blank"}
 
 [Quitter]({{ katalog_site }}/pages/accueil){ .md-button .md-button--primary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_self"}
@@ -90,7 +88,7 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
     <div class="ksln-cards">
         <h3>Images</h3>
         <hr>
-        <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+        <a class="md-button md-button--secondary" href="{{ katalog_site }}/blob/master/klouds/img" target="_self">Lien</a>
     </div>
     <div class="ksln-cards">
         <h3>Documents</h3>

@@ -15,24 +15,9 @@ hide:
 
 Voici un tutoriel qui vous expliquera comment écrire une page web avec Katalog :
 
-Dans le répertoire du projet, vous trouverez un fichier mkdocs.yml qui contient les paramètres de votre projet. Ouvrez ce fichier et modifiez-le pour définir le titre de votre site et les pages que vous souhaitez inclure. Par exemple :
-
-
-``` yaml title="Navigation dans mkdocs.yml"
-site_name: Mon site MkDocs
-
-nav:
-  - Accueil: index.md
-  - Tutoriels:
-    - Introduction: tutorial-intro.md
-    - Étape 1: tutorial-step1.md
-    - Étape 2: tutorial-step2.md
-  - À propos: about.md
-```
-
+## Créer le fichier et écrire le contenu
 
 Créez les fichiers markdown correspondants aux pages de votre site. Vous pouvez utiliser un éditeur de texte simple pour cela. Chaque fichier markdown doit commencer par une ligne de front matter qui définit le titre de la page et d'autres paramètres. Par exemple :
-
 
 ``` yaml title="Navigation dans mkdocs.yml"
 ---
@@ -50,6 +35,28 @@ Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en uti
 ``` html title="Ajout ponctuel d'éléments HTML"
 <img src="image.jpg" alt="Description de l'image">
 ```
+
+### Pourquoi copier les quelques lignes de `<script>`
+
+
+## Référencer votre page
+
+Dans le répertoire du projet, vous trouverez un fichier mkdocs.yml qui contient les paramètres de votre projet. Ouvrez ce fichier et modifiez-le pour définir le titre de votre site et les pages que vous souhaitez inclure. Par exemple :
+
+``` yaml title="Navigation dans mkdocs.yml"
+site_name: Mon site MkDocs
+
+nav:
+  - Accueil: index.md
+  - Tutoriels:
+    - Introduction: tutorial-intro.md
+    - Étape 1: tutorial-step1.md
+    - Étape 2: tutorial-step2.md
+  - À propos: about.md
+```
+
+
+
 
 Pour prévisualiser votre site en local, utilisez la commande mkdocs serve dans votre terminal. Vous pouvez alors accéder à votre site en ouvrant votre navigateur et en saisissant l'adresse http://localhost:8000.
 

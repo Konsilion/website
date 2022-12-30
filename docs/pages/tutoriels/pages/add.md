@@ -23,15 +23,15 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer.
 
 ---
 
-Créez le fichier markdown correspondant à la page de votre site en cliquant sur le bouton de l'étape 1. Ce fichier doit porter l'extension `.md`, par exemple : `accueil.md` ou `ma-page.md`.
+Créez le fichier markdown correspondant à la page de votre site en cliquant sur ce bouton. 
+
+Ce fichier doit porter l'extension `.md`, par exemple : `accueil.md` ou `ma-page.md`.
 
 * Placer le fichier dans `pages` ou un sous dossier `pages/sous-dossier/ma-page.md`
 
 * Pas d'espace dans le nom de votre fichier
 
 * Copier le modèle suivant dans le fichier et enregistrer.
-
-Chaque fichier markdown doit commencer par une ligne de front matter qui définit le titre de la page et d'autres paramètres. Par exemple :
 
 <div style="max-width: 650px; margin: 50px auto;" markdown>
   ``` html title="Page Web - Modèle de base"
@@ -55,6 +55,8 @@ Chaque fichier markdown doit commencer par une ligne de front matter qui défini
   <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>
   ```
 </div>
+
+Chaque fichier markdown doit commencer par une ligne de front matter qui définit le titre de la page et d'autres paramètres. Par exemple :
 
 ??? info "À quoi servent les lignes `<script>` ?"
 
@@ -96,18 +98,19 @@ Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en uti
 
 Dans le répertoire du projet, vous trouverez un fichier mkdocs.yml qui contient les paramètres de votre projet. Ouvrez ce fichier et modifiez-le pour définir le titre de votre site et les pages que vous souhaitez inclure. Par exemple :
 
-``` yaml title="Navigation dans mkdocs.yml"
-site_name: Mon site MkDocs
+<div style="max-width: 650px; margin: 50px auto;" markdown>
+    ``` yaml title="Navigation dans mkdocs.yml"
+    site_name: Mon site MkDocs
 
-nav:
-  - Accueil: index.md
-  - Tutoriels:
-    - Introduction: tutorial-intro.md
-    - Étape 1: tutorial-step1.md
-    - Étape 2: tutorial-step2.md
-  - À propos: about.md
-```
-
+    nav:
+      - Accueil: index.md
+      - Tutoriels:
+        - Introduction: tutorial-intro.md
+        - Étape 1: tutorial-step1.md
+        - Étape 2: tutorial-step2.md
+      - À propos: about.md
+    ```
+</div>
 
 
 

@@ -17,7 +17,7 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer.
 
 ## Créer le fichier et écrire le contenu
 
-[Étape 1 - Créer le fichier]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right;" target="_self"}
+[Étape 1 - Créer le fichier]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_self"}
 
 ---
 
@@ -46,13 +46,15 @@ Créez les fichiers markdown correspondants aux pages de votre site. Vous pouvez
   ```
 </div>
 
-Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en utilisant des balises HTML. Par exemple, pour ajouter une image à votre page, vous pouvez utiliser la balise <img> comme ceci :
+### Au besoin, compléter avec du code HTML
+
+Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en utilisant des balises HTML. Par exemple, pour ajouter une image à votre page suivi d'un saut de ligne, vous pouvez utiliser la balise <img> et <br> comme ceci :
 
 ``` html title="Ajout ponctuel d'éléments HTML"
 <img src="image.jpg" alt="Description de l'image">
-```
 
-### 
+<br>
+```
 
 ??? info "Pourquoi copier les quelques lignes de `<script>` ?"
 
@@ -71,7 +73,7 @@ Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en uti
 
 ## Référencer votre page
 
-[Étape 2 - Référencer la page]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right;" target="_self"}
+[Étape 2 - Référencer la page]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_self"}
 
 ---
 

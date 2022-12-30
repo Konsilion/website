@@ -9,7 +9,7 @@ hide:
 
 # Configuration
 
-???+ tip "Accès rapide"
+???+ abstract inline end "Accès rapide"
 
     [Retour]({{ katalog_site }}/pages/accueil){ .md-button .md-button--secondary style="float:left; margin: 10px;" target="_self"}
 

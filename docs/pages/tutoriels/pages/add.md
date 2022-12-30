@@ -9,9 +9,13 @@ hide:
 
 # Créer une page Web
 
-[Créer une page]({{ katalog_repo }}/new/master/docs/pages/){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_self"}
-    
 ---
+
+[Créer une page]({{ katalog_repo }}/new/master/docs/pages/){ .md-button .md-button--secondary style="float:left; margin: 10px;" target="_self"}
+    
+!!! info inline end "Table des matières"
+   
+   [TOC]
 
 Voici un tutoriel qui vous expliquera comment écrire une page web avec Katalog :
 

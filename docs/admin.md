@@ -6,9 +6,9 @@ hide:
 
 ![Klouds](https://cdn-icons-png.flaticon.com/512/3208/3208676.png){ .md-button .md-button--primary onclick="window.open(' {{ katalog_site }}/katalog/klouds/home ','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
-[Accueil du site]({{ katalog_site }}/pages/accueil){ .md-button .md-button--primary style="float:right; margin: 10px; padding: 5px 15px;" target="_self"}
+[Accueil du site]({{ katalog_site }}/pages/accueil){ .md-button .md-button--primary style="float:left; margin: 10px; padding: 5px 15px;" target="_self"}
 
-[Votre répertoire]({{ katalog_repo }}){ .md-button .md-button--primary style="float:right; margin: 10px; padding: 5px 15px;" target="_blank"}
+[Votre répertoire]({{ katalog_repo }}){ .md-button .md-button--primary style="float:left; margin: 10px; padding: 5px 15px;" target="_blank"}
  
 <br><hr><br>
 

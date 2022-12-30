@@ -4,6 +4,8 @@ hide:
 comments: true
 ---
 
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js"></script>
+
 [Retour]({{ katalog_site }}/admin){ .md-button .md-button--primary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_self"}
 
 ---
@@ -113,5 +115,3 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer 
     </div>
 
 ---
-
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js"></script> 

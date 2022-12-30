@@ -9,13 +9,14 @@ hide:
 
 # Configuration
 
+---
+
 [Retour]({{ katalog_site }}/pages/accueil){ .md-button .md-button--secondary style="float:left; margin: 10px;" target="_self"}
 
 [Votre répertoire]({{ katalog_repo }}){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_blank"}
 
 [Premiers pas ici ?](#parametrage-de-la-plateforme){ .md-button .md-button--primary style="float:right; margin: 10px;" target="_self"}
 
----
 
 <br><br>
 

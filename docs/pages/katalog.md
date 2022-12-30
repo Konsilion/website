@@ -5,6 +5,8 @@ hide:
 
 
 
+
+
 # Katalog - Plateforme de ressources ouvertes
 
 ## L'OpenSource au service du partage et de la diffusion des savoirs 🤍
@@ -108,8 +110,6 @@ Alors n'hésitez pas et optez pour Katalog pour une gestion de contenu efficace 
     ## Vive l'Open Source 💪
     
     Un grand merci à squidfunk pour Mkdocs-material et à la coopérative multi pour Datami. Ensemble nous allons plus vite et plus loin !
-
-    <br>
 
     === "Mkdocs material"
 

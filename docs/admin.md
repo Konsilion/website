@@ -31,28 +31,24 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
     <div class="ksln-grid">
         <div class="ksln-cards">
             <h3><b>Créer une page</b></h3>
-            <hr>
             De l'article de blog à une page contact, créer et diffuser le contenu Web que vous souhaitez, sans compétence particulière.
             <hr>
             <a class="md-button md-button--secondary" href="../pages/tutoriels/pages/add" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Modifier une page</b></h3>
-            <hr>
             Modifier une page Web existante en toute simplicité.
             <hr>
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Commenter une page</b></h3>
-            <hr>
             Donner la possibilité aux utilisateurs de consulter et de commenter une page.
             <hr>
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Supprimer une page</b></h3>
-            <hr>
             Supprimer ou de-référencer une page Web. 
             <hr>
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>

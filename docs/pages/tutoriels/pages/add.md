@@ -86,12 +86,14 @@ Pour utiliser le markdown, il suffit d'ajouter des symboles spéciaux devant ou 
 
 Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en utilisant des balises HTML. Par exemple, pour ajouter une image à votre page suivi d'un saut de ligne, vous pouvez utiliser la balise <img> et <br> comme ceci :
 
-``` html title="Ajout ponctuel d'éléments HTML"
-<img src="image.jpg" alt="Description de l'image">
+<div style="max-width: 650px; margin: 50px auto;" markdown>
+    ``` html title="Ajout ponctuel d'éléments HTML"
+    <img src="image.jpg" alt="Description de l'image">
 
-<br>
-```
-
+    <br>
+    ```
+</div>
+    
 ## Référencer votre page
 
 [Étape 2 - Modifier mkdocs.yml]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right; margin: 15px;" target="_self"}

@@ -48,7 +48,7 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
         <div class="ksln-cards">
             <h3><b>Mettre en place les commentaires</b></h3>
             <hr>
-            Modifier une page Web existante en toute simplicité.
+            Donner la possibilité aux utilisateurs de consulter et de commenter une page.
             <hr>
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>        

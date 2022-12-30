@@ -27,7 +27,7 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
             <hr>
             De l'article de blog à une page contact, créer et diffuser le contenu Web que vous souhaitez, sans compétence particulière.
             <hr>
-            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+            <a class="md-button md-button--primary" href="../pages/tutoriels/pages/add" target="_blank">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Modifier une page</b></h3>

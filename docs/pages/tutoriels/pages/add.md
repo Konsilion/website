@@ -54,7 +54,7 @@ Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en uti
 
 Un script est un programme informatique écrit dans le langage JavaScript. Ils sont utilisés pour ajouter de la fonctionnalité à votre plateforme web, comme des actions en réponse aux événements de l'utilisateur, des saisies de texte dans des formulaires ou des gestions de compatibilité entre Mkdocs et Datami.
 
-Les scripts JavaScript sont généralement inclus dans le code HTML d'une page web à l'aide de la balise <script>.
+Les scripts JavaScript sont généralement inclus dans le code HTML d'une page web à l'aide de la balise `<script>`.
   
 Ils ne sont **pas obligatoires pour les pages**, mais voici les fonctionnalités qu'ils apportent :
   

@@ -8,7 +8,7 @@ hide:
 
 ---
 
-## Paramètrage de la plateforme
+# Paramètrage de la plateforme
 
 ---
 

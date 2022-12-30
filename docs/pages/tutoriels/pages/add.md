@@ -1,3 +1,8 @@
+---
+hide:
+   - toc
+---
+
 # Créer une page Web
 
 Voici un tutoriel qui vous expliquera comment écrire une page web avec Katalog :
@@ -20,7 +25,8 @@ nav:
 
 Créez les fichiers markdown correspondants aux pages de votre site. Vous pouvez utiliser un éditeur de texte simple pour cela. Chaque fichier markdown doit commencer par une ligne de front matter qui définit le titre de la page et d'autres paramètres. Par exemple :
 
-<pre><code>
+
+``` yaml title="Navigation dans mkdocs.yml"
 ---
 title: Introduction
 template: tutorial.html
@@ -29,15 +35,13 @@ template: tutorial.html
 # Introduction
 
 Bienvenue dans notre tutoriel sur MkDocs !
-</code></pre>
-
-
+```
 
 Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en utilisant des balises HTML. Par exemple, pour ajouter une image à votre page, vous pouvez utiliser la balise <img> comme ceci :
 
-<pre><code>
-  <img src="image.jpg" alt="Description de l'image">
-</code></pre>
+``` html title="Ajout ponctuel d'éléments HTML"
+<img src="image.jpg" alt="Description de l'image">
+```
 
 Pour prévisualiser votre site en local, utilisez la commande mkdocs serve dans votre terminal. Vous pouvez alors accéder à votre site en ouvrant votre navigateur et en saisissant l'adresse http://localhost:8000.
 

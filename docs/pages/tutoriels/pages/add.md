@@ -1,12 +1,12 @@
 ---
-comments: true
 hide:
     - toc
+comments: true
 ---
 
 [Retour]({{ katalog_site }}/admin){ .md-button .md-button--primary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_self"}
 
-<hr>
+---
 
 # Comment créer et éditer une page Web ?
 
@@ -14,12 +14,11 @@ hide:
 
 Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer en deux étapes seulement.
 
-
 === "Étape 1"
 
     ## Créer la page et écrire le contenu
 
-    [Étape 1 - Créer le fichier]({{ katalog_repo }}/new/master/docs/pages){ .md-button .md-button--primary style="float:right; margin: 15px;" target="_self"}
+    [Étape 1 - Créer le fichier]({{ katalog_repo }}/new/master/docs/pages){ .md-button .md-button--primary style="float:right; margin: 15px;" target="_blank"}
 
     Créez le fichier markdown correspondant à la page de votre site en cliquant sur ce bouton. 
 
@@ -32,26 +31,26 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer 
     * Copier le modèle suivant dans le fichier et enregistrer.
 
     <div style="max-width: 650px; margin: 50px auto;" markdown>
-      ``` html title="Page Web - Modèle de base"
-      ---
-      title: Introduction
-      comments: true
-      hide:
+        ``` html title="Page Web - Modèle de base"
+        ---
+        title: Introduction
+        comments: true
+        hide:
         - toc
-      ---
+        ---
 
-      # Introduction
+        # Introduction
 
-      Bienvenue dans notre tutoriel sur MkDocs !
+        Bienvenue dans notre tutoriel sur MkDocs !
 
-      (votre texte ici ...)
+        (votre texte ici ...)
 
 
 
-      <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>
-      <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script> 
-      <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>
-      ```
+        <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>
+        <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script> 
+        <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>
+        ```
     </div>
 
     Chaque fichier markdown doit commencer par une ligne de front matter qui définit le titre de la page et d'autres paramètres. Par exemple :
@@ -74,7 +73,7 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer 
  
     ## Référencer votre page
 
-    [Étape 2 - Modifier mkdocs.yml]({{ katalog_repo }}/edit/master/mkdocs.yml){ .md-button .md-button--primary style="float:right; margin: 15px;" target="_self"}
+    [Étape 2 - Modifier mkdocs.yml]({{ katalog_repo }}/edit/master/mkdocs.yml){ .md-button .md-button--primary style="float:right; margin: 15px;" target="_blank"}
 
     Dans le répertoire du projet, vous trouverez un fichier mkdocs.yml qui contient les paramètres de votre projet. Ouvrez ce fichier en cliquant sur le bouton et modifiez-le pour définir l'arborescence de vos pages. Par exemple :
 
@@ -110,6 +109,5 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer 
         <br>
         ```
     </div>
-
 
 ---

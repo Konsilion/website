@@ -4,18 +4,14 @@ hide:
 ---
 
 [Retour]({{ katalog_site }}/admin){ .md-button .md-button--primary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_self"}
+
+[Créer une page]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_self"}
  
 <hr><br>
 
 # Créer une page Web
 
 ---
-
-[Créer une page]({{ katalog_repo }}/new/master/docs/pages/){ .md-button .md-button--secondary style="float:left; margin: 10px;" target="_self"}
-    
-!!! info inline end "Table des matières"
-   
-   [TOC]
 
 Voici un tutoriel qui vous expliquera comment écrire une page web avec Katalog :
 

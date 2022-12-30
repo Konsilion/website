@@ -85,6 +85,24 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
     </div>
 
 
+=== "Espaces de stockages"
+
+    <div class="ksln-cards">
+        <h3>Images</h3>
+        <hr>
+        <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+    </div>
+    <div class="ksln-cards">
+        <h3>Documents</h3>
+        <hr>
+        <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+    </div>
+    <div class="ksln-cards">
+        <h3>Autres</h3>
+        <hr>
+        <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+    </div>
+
 === "Administration"
 
     <div class="ksln-grid">

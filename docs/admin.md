@@ -4,9 +4,9 @@ hide:
 ---
 
 
+![Retour acceuil du site](https://cdn-icons-png.flaticon.com/512/4468/4468458.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
-
-![Repertoire GitHub](https://cdn-icons-png.flaticon.com/512/911/911385.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
+![Repertoire GitHub](https://cdn-icons-png.flaticon.com/512/911/911385.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float: right; position: absolute; top:120px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
 [Retour accueil du site]({{ katalog_site }}/pages/accueil){ .md-button .md-button--primary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_self"}
 

@@ -85,17 +85,17 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
 
 === "Espaces de stockages"
     
-    <br>
+    <p></p>
     === "Image"
 
         <div class="ksln-grid">
             <div class="ksln-cards">
-                <h3><b>Déposer</b></h3>
+                <h3><b>Déposer une image</b></h3>
                 <a class="md-button md-button--secondary" href="{{ katalog_repo }}/upload/master/docs/kloud/img" target="_blank">Lien</a>
                 <br><br>
             </div>
             <div class="ksln-cards">
-                <h3><b>Consulter</b></h3>
+                <h3><b>Consulter vos images</b></h3>
                 <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/img" target="_blank">Lien</a>
                 <br><br>
             </div>
@@ -105,12 +105,12 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
     
         <div class="ksln-grid">
             <div class="ksln-cards">
-                <h3><b>Déposer</b></h3>
+                <h3><b>Déposer un document</b></h3>
                 <a class="md-button md-button--secondary" href="{{ katalog_repo }}/upload/master/docs/kloud/doc" target="_blank">Lien</a>
                 <br><br>
             </div>
             <div class="ksln-cards">
-                <h3><b>Consulter</b></h3>
+                <h3><b>Consulter vos documents</b></h3>
                 <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/doc" target="_blank">Lien</a>
                 <br><br>
             </div>

@@ -85,6 +85,8 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
 
 === "Espaces de stockages"
     
+    <br>   
+    
     === "Image"
 
         <div class="ksln-grid">

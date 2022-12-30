@@ -7,6 +7,8 @@ hide:
 
 
 
+
+
 ![logo-accueil](https://user-images.githubusercontent.com/99027754/209585047-f1e419f1-8f55-43d2-bfc6-6d51aec13ecf.png){style="max-width: 100%; width: 450px"}
 
 ---
@@ -30,7 +32,7 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
     Wikipédia 10-2022 – *Nous vous présentons la définition de Wikipédia car elle issue d’une réflexion collaborative, amenée à évoluer.*
 
 
-![Paramètres](https://cdn-icons-png.flaticon.com/512/148/148913.png){ .md-button .md-button--primary onclick="window.open('../../admin','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
+![Paramètres](https://cdn-icons-png.flaticon.com/512/148/148913.png){ .md-button .md-button--primary onclick="window.open({{ katalog_site }}/admin,'_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
 <br>
 

@@ -46,6 +46,18 @@ Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en uti
 
 ### Pourquoi copier les quelques lignes de `<script>`
 
+Un script est un programme informatique écrit dans le langage JavaScript. Ils sont utilisés pour ajouter de la fonctionnalité à votre plateforme web, comme des actions en réponse aux événements de l'utilisateur, des saisies de texte dans des formulaires ou des gestions de compatibilité entre Mkdocs et Datami.
+
+Les scripts JavaScript sont généralement inclus dans le code HTML d'une page web à l'aide de la balise <script>.
+  
+Ils ne sont **pas obligatoires pour les pages**, mais voici les fonctionnalités qu'ils apportent :
+  
+* Modifier la page en cours :
+
+* Créer une page voisine :
+  
+* Menu glissant :
+
 
 ## Référencer votre page
 
@@ -78,4 +90,6 @@ J'espère que ce tutoriel vous aidera à démarrer avec MkDocs. N'hésitez pas �
 
 
 
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script> <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script> <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script> 
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>

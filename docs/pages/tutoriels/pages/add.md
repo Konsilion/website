@@ -22,13 +22,15 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer 
 
     Créez le fichier markdown correspondant à la page de votre site en cliquant sur ce bouton. 
 
-    Ce fichier doit porter l'extension `.md`, par exemple : `accueil.md` ou `ma-page.md`.
+    * Ce fichier doit porter l'extension `.md`, par exemple : `accueil.md` ou `ma-page.md`,
 
-    * Placer le fichier dans `pages` ou un sous dossier `pages/sous-dossier/ma-page.md`
+    * Pas d'espace dans le nom de votre fichier,
 
-    * Pas d'espace dans le nom de votre fichier
+    * Placer le fichier dans `pages` ou un sous dossier `pages/sous-dossier/ma-page.md`,
 
-    * Copier le modèle suivant dans le fichier et enregistrer.
+    * Copier le modèle suivant dans le fichier,
+    
+    * et enregistrer.
 
     <div style="max-width: 650px; margin: 50px auto;" markdown>
         ``` html title="Page Web - Modèle de base"

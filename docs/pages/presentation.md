@@ -5,6 +5,9 @@ hide:
 
 
 
+
+
+
 # Développons ensemble les technologies de demain.
 
 Konsilion propose une suite d'outils permettant la production, la diffusion et la collaboration autour des savoirs.
@@ -51,6 +54,7 @@ Konsilion propose une suite d'outils permettant la production, la diffusion et l
     <br>
     Avec **Katalog**, équipez-vous dès à présent d’une vitrine permettant le suivi, le partage et l’appropriation de vos réalisations et projets.
 
+    <br>
     <div class="ksln-grid">
         <div class="ksln-cards"><b>Site Web - En quelques clics</b></div>
         <div class="ksln-cards"><b>Penser pour la collaboration</b></div>
@@ -78,11 +82,11 @@ Konsilion propose une suite d'outils permettant la production, la diffusion et l
 
 === "Logiciels supports"
 
+    <br>
     <div class="ksln-grid">
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://raw.githubusercontent.com/multi-coop/datami-documentation-content/main/images/logos/logo-DATAMI-rect-colors-03.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
             <b>Datami</b></h3>
-            <hr>
             Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
             <hr>
             <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
@@ -90,7 +94,6 @@ Konsilion propose une suite d'outils permettant la production, la diffusion et l
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://git-scm.com/images/logo@2x.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
             <b>Git</b></h3>
-            <hr>
             Git est un système de contrôle de version distribué, gratuit et open source, conçu pour traiter tous les projets, des plus petits aux plus grands, avec rapidité et efficacité.
             <hr>
             <a class="md-button md-button--primary" href="https://git-scm.com/" target="_blank">Lien</a>
@@ -98,7 +101,6 @@ Konsilion propose une suite d'outils permettant la production, la diffusion et l
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
             <b>GitHub</b></h3>
-            <hr>
             Conçu pour la collaboration. Célèbre pour sa sécurité intégrée. Bienvenue sur la plate-forme préférée des développeurs.
             <hr>
             <a class="md-button md-button--primary" href="https://github.com" target="_blank">Lien</a>
@@ -106,7 +108,6 @@ Konsilion propose une suite d'outils permettant la production, la diffusion et l
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2zfWDl3CQAww-IWPScALfQ3-J5tqSuPw30fxTGe_gV0GJoxkBgP1a_ELUQGzc3Y6xuS4&usqp=CAU" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
             <b>MkDocs</b></h3>
-            <hr>
             Écrivez votre documentation en Markdown et créez un site statique professionnel en minutes – adapté et personnalisable pour tous les appareils.
             <hr>
             <a class="md-button md-button--primary" href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Lien</a>

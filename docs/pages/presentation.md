@@ -5,7 +5,6 @@ hide:
 
 
 
-
 # Développons ensemble les technologies de demain.
 
 Konsilion propose une suite d'outils permettant la production, la diffusion et la collaboration autour des savoirs.
@@ -52,7 +51,6 @@ Konsilion propose une suite d'outils permettant la production, la diffusion et l
     <br>
     Avec **Katalog**, équipez-vous dès à présent d’une vitrine permettant le suivi, le partage et l’appropriation de vos réalisations et projets.
 
-    <br>
     <div class="ksln-grid">
         <div class="ksln-cards"><b>Site Web - En quelques clics</b></div>
         <div class="ksln-cards"><b>Penser pour la collaboration</b></div>
@@ -80,7 +78,6 @@ Konsilion propose une suite d'outils permettant la production, la diffusion et l
 
 === "Logiciels supports"
 
-    <br>
     <div class="ksln-grid">
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://raw.githubusercontent.com/multi-coop/datami-documentation-content/main/images/logos/logo-DATAMI-rect-colors-03.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">

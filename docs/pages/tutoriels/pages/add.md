@@ -16,9 +16,9 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer 
 
 === "Étape 1"
 
-    ## Créer la page et écrire le contenu
-
     [Étape 1 - Créer le fichier]({{ katalog_repo }}/new/master/docs/pages){ .md-button .md-button--primary style="float:right; margin: 15px;" target="_blank"}
+
+    ## Créer la page et écrire le contenu
 
     Créez le fichier markdown correspondant à la page de votre site en cliquant sur ce bouton. 
 
@@ -72,10 +72,10 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer 
         * Menu glissant :
 
 === "Étape 2" 
- 
-    ## Référencer votre page
 
     [Étape 2 - Modifier mkdocs.yml]({{ katalog_repo }}/edit/master/mkdocs.yml){ .md-button .md-button--primary style="float:right; margin: 15px;" target="_blank"}
+
+    ## Référencer votre page
 
     Dans le répertoire du projet, vous trouverez un fichier mkdocs.yml qui contient les paramètres de votre projet. Ouvrez ce fichier en cliquant sur le bouton et modifiez-le pour définir l'arborescence de vos pages. Par exemple :
 

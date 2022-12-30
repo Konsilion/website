@@ -23,26 +23,28 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer.
 
 Créez les fichiers markdown correspondants aux pages de votre site. Vous pouvez utiliser un éditeur de texte simple pour cela. Chaque fichier markdown doit commencer par une ligne de front matter qui définit le titre de la page et d'autres paramètres. Par exemple :
 
-``` html title="Page Web - Modèle de base" style="width: 500px;"
----
-title: Introduction
-comments: true
-hide:
-  - toc
----
+<div style="max-width: 500px;" markdown>
+  ``` html title="Page Web - Modèle de base"
+  ---
+  title: Introduction
+  comments: true
+  hide:
+    - toc
+  ---
 
-# Introduction
+  # Introduction
 
-Bienvenue dans notre tutoriel sur MkDocs !
+  Bienvenue dans notre tutoriel sur MkDocs !
 
-(votre texte ici ...)
+  (votre texte ici ...)
 
 
 
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script> 
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>
-```
+  <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>
+  <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script> 
+  <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>
+  ```
+</div>
 
 Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en utilisant des balises HTML. Par exemple, pour ajouter une image à votre page, vous pouvez utiliser la balise <img> comme ceci :
 

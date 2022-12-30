@@ -9,6 +9,10 @@ hide:
 
 # Créer une page Web
 
+[Créer une page]({{ katalog_repo }}/new/master/docs/pages/){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_self"}
+    
+---
+
 Voici un tutoriel qui vous expliquera comment écrire une page web avec Katalog :
 
 Dans le répertoire du projet, vous trouverez un fichier mkdocs.yml qui contient les paramètres de votre projet. Ouvrez ce fichier et modifiez-le pour définir le titre de votre site et les pages que vous souhaitez inclure. Par exemple :

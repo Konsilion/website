@@ -27,21 +27,21 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
             <hr>
             De l'article de blog à une page contact, créer et diffuser le contenu Web que vous souhaitez, sans compétence particulière.
             <hr>
-            <a class="md-button md-button--primary" href="../pages/tutoriels/pages/add" target="_blank">Lien</a>
+            <a class="md-button md-button--primary" href="../pages/tutoriels/pages/add" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Modifier une page</b></h3>
             <hr>
             Modifier une page Web existante en toute simplicité.
             <hr>
-            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Supprimer une page</b></h3>
             <hr>
             Supprimer ou de-référencer une page Web. 
             <hr>
-            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
     </div>
 
@@ -53,28 +53,28 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
             <hr>
             Présenter vos données, ressources et autres intérêts dans un catalogue Web (de multiples disposition existes, les découvrir).
             <hr>
-            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Modifier un catalogue</b></h3>
             <hr>
             Modifier une catalogue Web existant en toute simplicité.
             <hr>
-            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Lier un catalogue</b></h3>
             <hr>
             Afficher dans votre site des catalogues partenaires externes. Ainsi garder un oeil sur ce qu'il se fait autour de vous.
             <hr>
-            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Supprimer un catalogues</b></h3>
             <hr>
             Supprimer ou de-référencer un catalogue Web.
             <hr>
-            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
     </div>
 
@@ -87,21 +87,21 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
             <hr>
             Accedez à la liste des contributions en attente faites sur votre site.
             <hr>
-            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Gérer les droits d'administration</b></h3>
             <hr>
             Définissez la modération par les droits d'accès, de lecture et d'écriture de votre plateforme.
             <hr>
-            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
-        </div>        
+            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+        </div>
         <div class="ksln-cards">
             <h3><b>Associer un nom de domaine</b></h3>
             <hr>
-            Relier ce site web à un de vos domaines ou sous-domaines (ex: konsilion.fr).
+            Relier ce site web à l'un de vos domaines ou sous-domaines (ex: konsilion.fr).
             <hr>
-            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+            <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
     </div>
 
@@ -117,28 +117,28 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
         <hr>
         En moins de 2 minutes, faite le tour des grandes fonctionnalités et usages de la plateforme.
         <hr>
-        <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+        <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
     </div>
     <div class="ksln-cards">
         <h3><b>Personnaliser la plateforme</b></h3>
         <hr>
         Changer la couleur, les logos, le nom ou encore l'architecture de votre site.
         <hr>
-        <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+        <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
     </div>
     <div class="ksln-cards">
         <h3><b>Activer la contribution</b></h3>
         <hr>
         Permettre une contribution libre et sans limite de votre contenu (modération possible).
         <hr>
-        <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+        <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
     </div>
     <div class="ksln-cards">
         <h3><b>FAQ</b></h3>
         <hr>
         Quelques autres questions auquelles nous apportons des réponses.
         <hr>
-        <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+        <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
     </div>
 </div>   
 
@@ -147,7 +147,7 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
 
 <!-- * Copier ce <a id="PageModel" onclick="myFunction();" style="cursor:pointer;"> modèle de page Konsilion</a>. -->
 
-<!-- * Créer votre <a id="PageLink" href="" target="_blank"> nouvelle page</a>. -->
+<!-- * Créer votre <a id="PageLink" href="" target="_self"> nouvelle page</a>. -->
 
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/admin.js"></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>

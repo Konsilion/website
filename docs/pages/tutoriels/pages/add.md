@@ -8,15 +8,15 @@ hide:
 
 <hr><br>
 
-# Tout ce qu'il faut savoir sur les pages Web.
+# Comment créer et éditer une page Web ?
 
 ---
 
-Voici un tutoriel qui vous expliquera comment écrire une page web avec Katalog :
+Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer.
 
 ## Créer le fichier et écrire le contenu
 
-[Créer le fichier]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_self"}
+[Étape 1 - Créer le fichier]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right;" target="_self"}
 
 ---
 
@@ -48,7 +48,7 @@ Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en uti
 
 ## Référencer votre page
 
-[Référencer ma page]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_self"}
+[Étape 2 - Référencer la page]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_self"}
 
 ---
 

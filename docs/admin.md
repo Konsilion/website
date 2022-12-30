@@ -1,7 +1,9 @@
 ---
 hide:
-    - toc
+  - toc
 ---
+
+
 
 [Répertoire Git]({{ katalog_repo }}){ .md-button .md-button--primary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_blank"}
 
@@ -11,7 +13,7 @@ hide:
 
 # Configuration
 
-[Premiers pas ici ?]({{ katalog_site }}/pages/tutoriels/admin/param-site){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_self"}
+[Premiers pas ici ?]({{ katalog_site }}/admin/tutoriels/parametrage){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_self"}
     
 ---
 
@@ -31,7 +33,7 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
             <h3><b>Créer une page</b></h3>
             De l'article de blog à une page contact, créer et diffuser le contenu Web que vous souhaitez, sans compétence particulière.
             <hr>
-            <a class="md-button md-button--secondary" href="../pages/tutoriels/pages/add" target="_self">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/creation-page" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Modifier une page</b></h3>

@@ -51,7 +51,7 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
             Donner la possibilité aux utilisateurs de consulter et de commenter une page.
             <hr>
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
-        </div>        
+        </div>
         <div class="ksln-cards">
             <h3><b>Supprimer une page</b></h3>
             <hr>

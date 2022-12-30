@@ -21,9 +21,11 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer.
 
 ---
 
+<br>
+
 Créez les fichiers markdown correspondants aux pages de votre site. Vous pouvez utiliser un éditeur de texte simple pour cela. Chaque fichier markdown doit commencer par une ligne de front matter qui définit le titre de la page et d'autres paramètres. Par exemple :
 
-<div style="max-width: 500px;" markdown>
+<div style="max-width: 650px; margin: 25px auto;" markdown>
   ``` html title="Page Web - Modèle de base"
   ---
   title: Introduction

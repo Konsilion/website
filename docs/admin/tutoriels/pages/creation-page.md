@@ -1,7 +1,6 @@
 ---
 hide:
   - toc
-comments: true
 ---
 
 
@@ -115,3 +114,5 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer 
     </div>
 
 ---
+
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script>

@@ -55,7 +55,7 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer 
         ```
     </div>
 
-    Chaque fichier markdown doit commencer par une ligne de front matter qui définit le titre de la page et d'autres paramètres. Par exemple :
+    Chaque fichier markdown doit commencer par une ligne de front matter qui définit le titre de la page et d'autres paramètres.
 
     ??? info "À quoi servent les lignes `<script>` ?"
 

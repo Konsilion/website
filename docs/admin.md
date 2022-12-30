@@ -128,7 +128,7 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
         <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
     </div>
     <div class="ksln-cards">
-        <h3><b>Personnaliser la plateforme</b></h3>
+        <h3><b>Personnaliser le site</b></h3>
         Changer la couleur, les logos, le nom ou encore l'architecture de votre site.
         <hr>
         <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>

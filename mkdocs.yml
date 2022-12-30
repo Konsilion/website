@@ -47,7 +47,7 @@ site_description: Développer, proposer et promouvoir la Low-technologie.
 theme:
     language: fr
     palette:
-        primary: blue grey
+        primary: white
         accent: green
         scheme: default
     logo: https://github.com/Konsilion/katalog-template/blob/master/docs/kloud/img/logo.png?raw=true

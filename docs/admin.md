@@ -112,6 +112,13 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
             <hr>
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
+        <div class="ksln-cards">
+            <h3><b>Initialiser votre plateforme</b></h3>
+            <hr>
+            Enregistrer trois informations essentielles au bon fonctionnement de votre plateforme (fichier konsilion.json).
+            <hr>
+            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+        </div>        
     </div>
 
 

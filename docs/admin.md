@@ -6,6 +6,8 @@ hide:
 
 
 
+
+
 ![Retour acceuil du site](https://cdn-icons-png.flaticon.com/512/4468/4468458.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
 ![Repertoire GitHub](https://cdn-icons-png.flaticon.com/512/911/911385.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float: right; position: absolute; top:120px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
@@ -85,7 +87,10 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
 
         <div class="ksln-grid">
             <div class="ksln-cards">
-                <h3><b>Déposer une image</b></h3>
+                <h3>
+                <img src="https://raw.githubusercontent.com/multi-coop/datami-documentation-content/main/images/logos/logo-DATAMI-rect-colors-03.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+                <b>Déposer une image</b>
+                </h3>
                 <a class="md-button md-button--secondary" href="{{ katalog_repo }}/upload/master/docs/kloud/img" target="_blank">Lien</a>
                 <br><br>
             </div>

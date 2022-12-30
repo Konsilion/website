@@ -5,13 +5,15 @@ hide:
 
 
 
+
+
 [Répertoire Git]({{ katalog_repo }}){ .md-button .md-button--primary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_blank"}
 
 [Quitter]({{ katalog_site }}/pages/accueil){ .md-button .md-button--primary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_self"}
 
 ---
 
-# Configuration
+# Panneau de configuration
 
 [Premiers pas ici ?]({{ katalog_site }}/admin/tutoriels/parametrage){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_self"}
     

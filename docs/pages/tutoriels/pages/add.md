@@ -1,7 +1,5 @@
 ---
 comments: true
-hide: 
-  - toc
 ---
 
 
@@ -23,7 +21,7 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer.
 
 Créez les fichiers markdown correspondants aux pages de votre site. Vous pouvez utiliser un éditeur de texte simple pour cela. Chaque fichier markdown doit commencer par une ligne de front matter qui définit le titre de la page et d'autres paramètres. Par exemple :
 
-<div style="max-width: 650px; margin: 25px auto;" markdown>
+<div style="max-width: 650px; margin: 50px auto;" markdown>
   ``` html title="Page Web - Modèle de base"
   ---
   title: Introduction
@@ -60,6 +58,13 @@ Créez les fichiers markdown correspondants aux pages de votre site. Vous pouvez
 
     * Menu glissant :
 
+### En savoir plus sur l'écriture Markdown
+
+Le markdown est un langage de balisage léger qui permet de formater du texte de manière simple et rapide. Il a été créé en 2004 par John Gruber et Aaron Swartz dans le but de rendre la mise en forme de documents plus facile et plus rapide. Le markdown est souvent utilisé pour la rédaction de documents sur internet, comme des articles de blog, des documents de documentation, etc.
+
+Pour utiliser le markdown, il suffit d'ajouter des symboles spéciaux devant ou autour des mots ou des phrases que vous voulez mettre en forme.
+
+[Débuter avec Markdown](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/){ .md-button .md-button--secondary}
 
 ### Au besoin, compléter avec du code HTML
 

@@ -3,7 +3,7 @@ hide:
    - toc
 ---
 
-[Retour]({{ katalog_site }}/pages/accueil){ .md-button .md-button--primary style="float:right; margin: 25px 5px; padding: 5px 15px;" target="_self"}
+[Retour]({{ katalog_site }}/admin){ .md-button .md-button--primary style="float:right; margin: 25px 5px; padding: 5px 15px;" target="_self"}
  
 <hr>
 

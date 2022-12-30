@@ -61,7 +61,7 @@ Ils ne sont **pas obligatoires pour les pages**, mais voici les fonctionnalités
 
 ## Référencer votre page
 
-[Étape 2 - Référencer la page]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right; margin: 0 0 25px 5px; padding: 5px 15px;" target="_self"}
+[Étape 2 - Référencer la page]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right;" target="_self"}
 
 ---
 

@@ -13,7 +13,9 @@ hide:
 
 ---
 
-<div style="float:right;" markdown>[TOC]</div>
+<div style="float:right;" markdown>
+    [TOC]
+</div>
 
 Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer.
 

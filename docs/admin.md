@@ -8,7 +8,7 @@ hide:
 
 [Répertoire Git]({{ katalog_repo }}){ .md-button .md-button--primary style="float:right; margin: 10px; padding: 5px 15px;" target="_blank"}
 
-[Accueil du site]({{ katalog_site }}/pages/accueil){ .md-button .md-button--primary style="float:right; margin: 10px; padding: 5px 15px;" target="_self"}
+[Quitter]({{ katalog_site }}/pages/accueil){ .md-button .md-button--primary style="float:right; margin: 10px; padding: 5px 15px;" target="_self"}
  
 <hr><br>
 

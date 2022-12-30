@@ -11,7 +11,7 @@ hide:
 
 # Configuration
 
-[Premiers pas ici ?](#parametrage-de-la-plateforme){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_self"}
+[Premiers pas ici ?]({{ katalog_site }}/pages/tutoriels/admin/param-site){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_self"}
     
 ---
 

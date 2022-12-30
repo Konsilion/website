@@ -4,6 +4,8 @@ hide:
 ---
 
 
+
+
 ![Retour acceuil du site](https://cdn-icons-png.flaticon.com/512/4468/4468458.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
 ![Repertoire GitHub](https://cdn-icons-png.flaticon.com/512/911/911385.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float: right; position: absolute; top:120px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
@@ -16,8 +18,6 @@ hide:
 ---
 
 Le **panneau de configuration** vous permet de gérer et de configurer votre site. Utiliser le panneau de configuration pour diverses tâches telles que la création de pages web, la gestion  du contenu existant, accéder aux espaces de stockages, etc. 
-
-Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configuration depuis n'importe où et à tout moment afin de suivre l'état de votre plateforme.
 
 === "Pages Web"
 

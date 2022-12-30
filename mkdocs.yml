@@ -53,6 +53,7 @@ theme:
     logo: https://github.com/Konsilion/katalog-template/blob/master/docs/kloud/img/logo.png?raw=true
     favicon: https://user-images.githubusercontent.com/99027754/209714307-ab199f0d-509b-404f-9dd8-d8bd8fb99e37.png
     name: material
+    custom_dir: overrides
     features:
       - navigation.indexes
       - navigation.tracking

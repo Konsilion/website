@@ -3,6 +3,8 @@ hide:
    - toc
 ---
 
+![Paramètres](https://cdn-icons-png.flaticon.com/512/148/148913.png){ .md-button .md-button--primary onclick="window.open('../../../../admin','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
+
 # Créer une page Web
 
 Voici un tutoriel qui vous expliquera comment écrire une page web avec Katalog :

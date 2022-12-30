@@ -97,7 +97,7 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer 
 
     Pour utiliser le markdown, il suffit d'ajouter des symboles spéciaux devant ou autour des mots ou des phrases que vous voulez mettre en forme.
 
-    [Débuter avec Markdown](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/){ .md-button .md-button--secondary}
+    [Débuter avec Markdown](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/){ .md-button .md-button--secondary target="_blank"}
 
     ### Au besoin, compléter avec du code HTML
 

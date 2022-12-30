@@ -87,15 +87,15 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
     <div class="ksln-grid">
         <div class="ksln-cards">
             <h3>Images</h3>
-            <a class="md-button md-button--secondary" href="{{ katalog_site }}/blob/master/klouds/img" target="_blank">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/blob/master/klouds/img" target="_blank">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3>Documents</h3>
-            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/blob/master/klouds/docs" target="_blank">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3>Autres</h3>
-            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/blob/master/klouds/other" target="_blank">Lien</a>
         </div>
     </div>
     

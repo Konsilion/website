@@ -93,12 +93,12 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
             <div class="ksln-cards">
                 <h3><b>Consulter</b></h3>
                 <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/img" target="_blank">Lien</a>
-                <br>
+                <br><br>
             </div>
             <div class="ksln-cards">
                 <h3><b>Déposer</b></h3>
                 <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/docs" target="_blank">Lien</a>
-                <br>
+                <br><br>
             </div>
         </div>
         
@@ -108,12 +108,12 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
             <div class="ksln-cards">
                 <h3><b>Consulter</b></h3>
                 <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/img" target="_blank">Lien</a>
-                <br>
+                <br><br>
             </div>
             <div class="ksln-cards">
                 <h3><b>Déposer</b></h3>
                 <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/docs" target="_blank">Lien</a>
-                <br>
+                <br><br>
             </div>
         </div> 
         
@@ -121,14 +121,9 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
     
         <div class="ksln-grid">
             <div class="ksln-cards">
-                <h3><b>Consulter</b></h3>
+                <h3><b>Nicolas Brémond</b></h3>
                 <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/img" target="_blank">Lien</a>
-                <br>
-            </div>
-            <div class="ksln-cards">
-                <h3><b>Déposer</b></h3>
-                <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/docs" target="_blank">Lien</a>
-                <br>
+                <br><br>
             </div>
         </div>         
         

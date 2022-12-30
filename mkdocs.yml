@@ -78,7 +78,7 @@ copyright: Une plateforme open-source codé avec ❤ par Konsilion - Licence jur
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 plugins:
   - search
-  - macro
+  - macros
 
 markdown_extensions:
   - admonition

@@ -4,7 +4,10 @@ Voici un tutoriel qui vous expliquera comment écrire une page web avec Katalog 
 
 Dans le répertoire du projet, vous trouverez un fichier mkdocs.yml qui contient les paramètres de votre projet. Ouvrez ce fichier et modifiez-le pour définir le titre de votre site et les pages que vous souhaitez inclure. Par exemple :
 
-<pre><code>site_name: Mon site MkDocs
+
+``` yaml title="Navigation dans mkdocs.yml"
+site_name: Mon site MkDocs
+
 nav:
   - Accueil: index.md
   - Tutoriels:
@@ -12,7 +15,8 @@ nav:
     - Étape 1: tutorial-step1.md
     - Étape 2: tutorial-step2.md
   - À propos: about.md
-</code></pre>
+```
+
 
 Créez les fichiers markdown correspondants aux pages de votre site. Vous pouvez utiliser un éditeur de texte simple pour cela. Chaque fichier markdown doit commencer par une ligne de front matter qui définit le titre de la page et d'autres paramètres. Par exemple :
 

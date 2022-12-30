@@ -1,12 +1,7 @@
-
-
-
-
-
-
-
-
-
+---
+hide:
+    - toc
+---
 
 ![Retour acceuil du site](https://cdn-icons-png.flaticon.com/512/4468/4468458.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
@@ -80,10 +75,10 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
     </div>
 
 
-=== "Fichiers & Documents"
+=== "Espaces de stockages"
     
     <p></p>
-    === "Images"
+    === "Médiathèques"
 
         <div class="ksln-grid">
             <div class="ksln-cards">
@@ -100,35 +95,30 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             </div>
         </div>
         
-    === "Documents"
-    
-        <div class="ksln-grid">
-            <div class="ksln-cards">
-                <h3>
-                <img src="https://cdn-icons-png.flaticon.com/512/337/337932.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-                <b>Consulter</b></h3>
-                <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/doc" target="_blank">Lien</a>
-                <br><br>
-            </div>
-            <div class="ksln-cards">
-                <h3><b>Déposer un document</b></h3>
-                <a class="md-button md-button--secondary" href="{{ katalog_repo }}/upload/master/docs/kloud/doc" target="_blank">Lien</a>
-                <br><br>
-            </div>
-        </div> 
-        
     === "Dépôts de fichiers - Klouds"
-    
-        <div class="ksln-grid">
-            <div class="ksln-cards">
-                <h3><b>Nicolas Brémond</b></h3>
-                <a class="md-button md-button--secondary" href="#" target="_blank">Lien</a>
-                <br><br>
+
+        === "Projets"
+
+            <div class="ksln-grid">
+                <div class="ksln-cards">
+                    <h3><b>Nicolas Brémond</b></h3>
+                    <a class="md-button md-button--secondary" href="#" target="_blank">Lien</a>
+                    <br><br>
+                </div>
             </div>
-        </div>
-        
+         
+        === "Utilisateurs"
+
+            <div class="ksln-grid">
+                <div class="ksln-cards">
+                    <h3><b>Nicolas Brémond</b></h3>
+                    <a class="md-button md-button--secondary" href="#" target="_blank">Lien</a>
+                    <br><br>
+                </div>
+            </div>
+
         ---
-        
+
         <div class="ksln-grid">
             <div class="ksln-cards">
                 <b>Créer un dépôt de fichiers</b>
@@ -142,8 +132,8 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
         </div>
 
         si vous n'avez pas de compte GitHub, vous pouvez en créer un en <a href="https://github.com/signup" target="_blank">suivant ce lien</a>
+   
         
-    
 === "Administration"
 
     <div class="ksln-grid">
@@ -173,6 +163,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
         </div>        
     </div>
 
+---
 
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/admin.js"></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>

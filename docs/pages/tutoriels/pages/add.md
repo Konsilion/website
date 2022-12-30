@@ -92,23 +92,20 @@ Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en uti
 
 ## Référencer votre page
 
-[Étape 2 - Référencer la page]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right; margin: 15px;" target="_self"}
+[Étape 2 - Modifier mkdocs.yml]({{ katalog_site }}/admin){ .md-button .md-button--secondary style="float:right; margin: 15px;" target="_self"}
 
 ---
 
-Dans le répertoire du projet, vous trouverez un fichier mkdocs.yml qui contient les paramètres de votre projet. Ouvrez ce fichier et modifiez-le pour définir le titre de votre site et les pages que vous souhaitez inclure. Par exemple :
+Dans le répertoire du projet, vous trouverez un fichier mkdocs.yml qui contient les paramètres de votre projet. Ouvrez ce fichier en cliquant sur le bouton et modifiez-le pour définir l'arborescence de vos pages. Par exemple :
 
 <div style="max-width: 650px; margin: 50px auto;" markdown>
-    ``` yaml title="Navigation dans mkdocs.yml"
-    site_name: Mon site MkDocs
-
+    ``` yaml title="Éditer la navigation/ référencement dans mkdocs.yml"
     nav:
-      - Accueil: index.md
+      - Accueil: pages/accueil.md
       - Tutoriels:
-        - Introduction: tutorial-intro.md
-        - Étape 1: tutorial-step1.md
-        - Étape 2: tutorial-step2.md
-      - À propos: about.md
+        - Introduction: pages/ma-page.md
+        - Étape 1: pages/etape-1/ma-deuxieme-page.md
+      - À propos: pages/contact.md
     ```
 </div>
 

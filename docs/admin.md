@@ -25,21 +25,21 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
         <div class="ksln-cards">
             <h3><b>Créer une page</b></h3>
             <hr>
-            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+            De l'article de blog à une page contact, créer et diffuser le contenu Web que vous souhaitez, sans compétence particulière.
             <hr>
             <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Modifier une page</b></h3>
             <hr>
-            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+            Modifier une page Web existante en toute simplicité.
             <hr>
             <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Supprimer une page</b></h3>
             <hr>
-            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+            Supprimer ou de-référencer une page Web. 
             <hr>
             <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
         </div>
@@ -51,28 +51,28 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
         <div class="ksln-cards">
             <h3><b>Créer un catalogue</b></h3>
             <hr>
-            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+            Présenter vos données, ressources et autres intérêts dans un catalogue Web (de multiples disposition existes, les découvrir).
             <hr>
             <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Modifier un catalogue</b></h3>
             <hr>
-            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+            Modifier une catalogue Web existant en toute simplicité.
             <hr>
             <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Lier un catalogue</b></h3>
             <hr>
-            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+            Afficher dans votre site des catalogues partenaires externes. Ainsi garder un oeil sur ce qu'il se fait autour de vous.
             <hr>
             <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Supprimer un catalogues</b></h3>
             <hr>
-            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+            Supprimer ou de-référencer un catalogue Web.
             <hr>
             <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
         </div>
@@ -85,21 +85,21 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
         <div class="ksln-cards">
             <h3><b>Gérer les contributions</b></h3>
             <hr>
-            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+            Accedez à la liste des contributions en attente faites sur votre site.
             <hr>
             <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Gérer les droits d'administration</b></h3>
             <hr>
-            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+            Définissez la modération par les droits d'accès, de lecture et d'écriture de votre plateforme.
             <hr>
             <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
         </div>        
         <div class="ksln-cards">
             <h3><b>Associer un nom de domaine</b></h3>
             <hr>
-            Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+            Relier ce site web à un de vos domaines ou sous-domaines (ex: konsilion.fr).
             <hr>
             <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
         </div>
@@ -115,28 +115,28 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
     <div class="ksln-cards">
         <h3><b>Tour du propriétaire</b></h3>
         <hr>
-        Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+        En moins de 2 minutes, faite le tour des grandes fonctionnalités et usages de la plateforme.
         <hr>
         <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
     </div>
     <div class="ksln-cards">
         <h3><b>Personnaliser la plateforme</b></h3>
         <hr>
-        Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+        Changer la couleur, les logos, le nom ou encore l'architecture de votre site.
         <hr>
         <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
     </div>
     <div class="ksln-cards">
         <h3><b>Activer la contribution</b></h3>
         <hr>
-        Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+        Permettre une contribution libre et sans limite de votre contenu (modération possible).
         <hr>
         <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
     </div>
     <div class="ksln-cards">
         <h3><b>FAQ</b></h3>
         <hr>
-        Nous sommes arrivés à la conclusion que le mouvement open data impliquait que n'importe qui puisse contribuer sur n'importe quelle sorte de donnée ouverte, sans que leurs compétences techniques ne soient un frein.
+        Quelques autres questions auquelles nous apportons des réponses.
         <hr>
         <a class="md-button md-button--primary" href="https://datami-docs.multi.coop/?locale=fr" target="_blank">Lien</a>
     </div>

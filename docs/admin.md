@@ -1,9 +1,3 @@
----
-hide:
-  - toc
----
-
-
 
 
 
@@ -86,15 +80,16 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
     </div>
 
 
-=== "Espaces de stockages"
-                    
-    === "Image"
-
-        <img src="https://cdn-icons-png.flaticon.com/512/1829/1829589.png" style="margin: 10px 5px; max-width: 75px;">
+=== "Fichiers & Documents"
+    
+    <p></p>
+    === "Images"
 
         <div class="ksln-grid">
             <div class="ksln-cards">
-                <h3><b>Consulter</b></h3>
+                <h3>
+                <img src="https://cdn-icons-png.flaticon.com/512/1829/1829589.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+                <b>Consulter</b></h3>
                 <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/img" target="_blank">Lien</a>
                 <br><br>
             </div>
@@ -107,11 +102,11 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
         
     === "Documents"
     
-        <img src="https://cdn-icons-png.flaticon.com/512/337/337932.png" style="margin: 10px 5px; max-width: 75px;">
-
         <div class="ksln-grid">
             <div class="ksln-cards">
-                <h3><b>Consulter</b></h3>
+                <h3>
+                <img src="https://cdn-icons-png.flaticon.com/512/337/337932.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+                <b>Consulter</b></h3>
                 <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/doc" target="_blank">Lien</a>
                 <br><br>
             </div>
@@ -122,7 +117,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             </div>
         </div> 
         
-    === "Utilisateurs"
+    === "Dépôts de fichiers - Klouds"
     
         <div class="ksln-grid">
             <div class="ksln-cards">
@@ -130,7 +125,23 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
                 <a class="md-button md-button--secondary" href="#" target="_blank">Lien</a>
                 <br><br>
             </div>
-        </div>         
+        </div>
+        
+        ---
+        
+        <div class="ksln-grid">
+            <div class="ksln-cards">
+                <b>Créer un dépôt de fichiers</b>
+                <hr>
+                Pour créer un espaces communs où regrouper vos fichiers par projets, utilisateurs, etc. Pour cela un simple compte GitHub suffit.
+                <br><br>
+                <button class="md-button md-button--primary" onclick="window.open('https://github.com/Konsilion/katalog-template/generate');"> Créer un espace Kloud</button>
+                <br>
+                <br>
+            </div>
+        </div>
+
+        si vous n'avez pas de compte GitHub, vous pouvez en créer un en <a href="https://github.com/signup" target="_blank">suivant ce lien</a>
         
     
 === "Administration"

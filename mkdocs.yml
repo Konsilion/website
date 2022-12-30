@@ -62,7 +62,7 @@ theme:
 
 extra:
   generator: false
-  katalog_repo: "https://github.com/squidfunk/mkdocs-material"
+  katalog_repo: "https://github.com/konsilion/website"
 
 # MENTIONS 
 # --------------------------------------------------------------------------------------------------------------------------------------------------

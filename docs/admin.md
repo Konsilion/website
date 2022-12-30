@@ -87,17 +87,17 @@ Grâce à sa disponibilité en ligne, vous pouvez accéder au panneau de configu
     <div class="ksln-grid">
         <div class="ksln-cards">
             <h3><b>Images</b></h3>
-            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/blob/master/klouds/img" target="_blank">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/img" target="_blank">Lien</a>
             <br>
         </div>
         <div class="ksln-cards">
             <h3><b>Documents</b></h3>
-            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/blob/master/klouds/docs" target="_blank">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/docs" target="_blank">Lien</a>
             <br>
         </div>
         <div class="ksln-cards">
             <h3><b>Autres</b></h3>
-            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/blob/master/klouds/other" target="_blank">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/other" target="_blank">Lien</a>
             <br>
         </div>
     </div>

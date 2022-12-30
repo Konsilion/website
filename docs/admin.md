@@ -10,9 +10,9 @@ hide:
 
  [Votre répertoire]({{ katalog_repo }}){ .md-button .md-button--primary style="float:right; margin: 10px; padding: 5px 15px;" target="_blank"}
  
- ---
+<br><br>
 
-<br>
+---
 
 # Configuration
 

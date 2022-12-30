@@ -6,17 +6,15 @@ hide:
 
 ![Klouds](https://cdn-icons-png.flaticon.com/512/3208/3208676.png){ .md-button .md-button--primary onclick="window.open(' {{ katalog_site }}/katalog/klouds/home ','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
+ [Retour]({{ katalog_site }}/pages/accueil){ .md-button .md-button--secondary style="float:left; margin: 10px; border-radius: 10px; padding: 5px 10px;" target="_self"}
+
+ [Votre répertoire]({{ katalog_repo }}){ .md-button .md-button--secondary style="float:left; margin: 10px; border-radius: 10px; padding: 5px 10px;" target="_blank"}
+    
 
 # Configuration
 
-???+ abstract inline end "Accès rapide"
-
-    [Retour]({{ katalog_site }}/pages/accueil){ .md-button .md-button--secondary style="float:left; margin: 10px;" target="_self"}
-
     [Premiers pas ici ?](#parametrage-de-la-plateforme){ .md-button .md-button--primary style="float:right; margin: 10px;" target="_self"}
-
-    [Votre répertoire]({{ katalog_repo }}){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_blank"}
-
+    
 ---
 
 Le **panneau de configuration** vous permet de gérer et de configurer votre site de manière efficace. Vous pouvez utiliser le panneau de configuration pour diverses tâches, comme la création de nouvelles pages, la gestion des modifications du contenu existant et la gestion des droits d'administration. 

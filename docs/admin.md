@@ -20,10 +20,6 @@ hide:
 
 Le **panneau de configuration** vous permet de gérer et de configurer votre site. Utiliser le panneau de configuration pour diverses tâches telles que la création de pages web, la gestion  du contenu existant, accéder aux espaces de stockages, etc. 
 
-## Fonctionnalités
-
----
-
 === "Pages Web"
 
     <div class="ksln-grid">

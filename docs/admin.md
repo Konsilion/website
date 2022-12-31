@@ -153,7 +153,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             <div class="ksln-grid">
                 <div class="ksln-cards">
                     <h3><b>Nicolas Brémond</b></h3>
-                    <a class="md-button md-button--secondary" href="#" target="_blank">Lien</a>
+                    <a class="md-button md-button--secondary" href="#" target="_blank">Voir le Kloud</a>
                     <br><br>
                 </div>
             </div>
@@ -174,7 +174,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
                 <h3><b>En savoir plus</b></h3>
                 Afin de mieux comprendre la logique proposées derrière les Klouds et l'organisation de vos ressources numériques.
                 <br><br>
-                <button class="md-button md-button--primary" onclick="window.open('https://github.com/Konsilion/katalog-template/generate');"> Créer un espace Kloud</button>
+                <button class="md-button md-button--primary" onclick="window.open('https://github.com/Konsilion/katalog-template/generate');">En savoir plus</button>
                 <br>
                 <br>
             </div>

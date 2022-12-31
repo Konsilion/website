@@ -81,8 +81,6 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
     === "Klouds"
     
         <p></p>
-        [Créer un Kloud](https://github.com/Konsilion/kloud-template/generate){ .md-button .md-button--primary target="_self"}
-        
         === "Projets"
 
             <div class="ksln-grid">
@@ -124,13 +122,13 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
         <div class="ksln-grid">
             <div class="ksln-cards">
                 <h3>
-                <img src="https://cdn-icons-png.flaticon.com/512/1829/1829589.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+                <img src="https://cdn-icons-png.flaticon.com/512/716/716784.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
                 <b>Consulter</b></h3>
                 <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/img" target="_blank">Lien</a>
                 <br><br>
             </div>
             <div class="ksln-cards">
-                <h3><b>Déposer une image</b></h3>
+                <h3><b>Déposer un fichier</b></h3>
                 <a class="md-button md-button--secondary" href="{{ katalog_repo }}/upload/master/docs/kloud/img" target="_blank">Lien</a>
                 <br><br>
             </div>

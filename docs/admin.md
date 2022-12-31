@@ -4,13 +4,6 @@ hide:
 ---
 
 
-
-
-
-
-
-
-
 ![Retour acceuil du site](https://github.com/Konsilion/website/blob/master/docs/kloud/img/fleche-retour.png?raw=true){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
 ![Repertoire GitHub](https://raw.githubusercontent.com/Konsilion/website/master/docs/kloud/img/logo-github.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float: right; position: absolute; top:120px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
@@ -169,14 +162,14 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
 
         <div class="ksln-grid">
             <div class="ksln-cards">
-                <b>Créer un dépôt de fichiers</b>
-                <hr>
+                <h3><b>Créer un dépôt de fichiers</b></h3>
                 Pour créer un espaces communs où regrouper vos fichiers par projets, utilisateurs, etc. Pour cela un simple compte GitHub suffit.
                 <br><br>
                 <button class="md-button md-button--primary" onclick="window.open('https://github.com/Konsilion/katalog-template/generate');"> Créer un espace Kloud</button>
                 <br>
                 <br>
             </div>
+            si vous n'avez pas de compte GitHub, vous pouvez en créer un en <a href="https://github.com/signup" target="_blank">suivant ce lien</a>
             <div class="ksln-cards">
                 <h3><b>En savoir plus</b></h3>
                 Afin de mieux comprendre la logique proposées derrière les Klouds et l'organisation de vos ressources numériques.
@@ -186,9 +179,6 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
                 <br>
             </div>
         </div>
-
-        si vous n'avez pas de compte GitHub, vous pouvez en créer un en <a href="https://github.com/signup" target="_blank">suivant ce lien</a>
-      
 
 ---
 

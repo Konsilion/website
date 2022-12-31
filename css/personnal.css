@@ -1,0 +1,5 @@
+/* ======= OVERWRITE COLOR MKDOCS - Deactivate ======= */
+
+:root > * {
+    --md-primary-fg-color: #505050 !important;
+}

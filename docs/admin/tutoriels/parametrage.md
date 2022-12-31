@@ -3,7 +3,7 @@ hide:
 - toc
 ---
 
-![Retour configuration](https://cdn-icons-png.flaticon.com/512/5720/5720446.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}/admin','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
+![Retour configuration](https://raw.githubusercontent.com/Konsilion/website/master/docs/kloud/img/fleche-retour.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}/admin','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
 
 # Paramètrage de la plateforme

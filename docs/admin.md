@@ -24,6 +24,37 @@ hide:
 
 Le **panneau de configuration** vous permet de gérer et de configurer votre site. Utiliser le panneau de configuration pour diverses tâches telles que la création de pages web, la gestion  du contenu existant, accéder aux espaces de stockages, etc. 
 
+
+=== "Administration"
+
+    <div class="ksln-grid">
+        <div class="ksln-cards">
+            <h3><b>Gérer les contributions</b></h3>
+            Accedez à la liste des contributions en attente faites sur votre site.
+            <hr>
+            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+        </div>
+        <div class="ksln-cards">
+            <h3><b>Gérer les droits d'administration</b></h3>
+            Définissez la modération par les droits d'accès, de lecture et d'écriture de votre plateforme.
+            <hr>
+            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+        </div>
+        <div class="ksln-cards">
+            <h3><b>Associer un nom de domaine</b></h3>
+            Relier ce site web à l'un de vos domaines ou sous-domaines (ex: konsilion.fr).
+            <hr>
+            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+        </div>
+        <div class="ksln-cards">
+            <h3><b>Paramétrer votre plateforme</b></h3>
+            Enregistrer trois informations essentielles au bon fonctionnement de votre plateforme (fichier konsilion.json).
+            <hr>
+            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+        </div>          
+    </div>
+
+
 === "Pages Web"
 
     <div class="ksln-grid">
@@ -157,36 +188,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
         </div>
 
         si vous n'avez pas de compte GitHub, vous pouvez en créer un en <a href="https://github.com/signup" target="_blank">suivant ce lien</a>
-
-                  
-=== "Administration"
-
-    <div class="ksln-grid">
-        <div class="ksln-cards">
-            <h3><b>Gérer les contributions</b></h3>
-            Accedez à la liste des contributions en attente faites sur votre site.
-            <hr>
-            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
-        </div>
-        <div class="ksln-cards">
-            <h3><b>Gérer les droits d'administration</b></h3>
-            Définissez la modération par les droits d'accès, de lecture et d'écriture de votre plateforme.
-            <hr>
-            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
-        </div>
-        <div class="ksln-cards">
-            <h3><b>Associer un nom de domaine</b></h3>
-            Relier ce site web à l'un de vos domaines ou sous-domaines (ex: konsilion.fr).
-            <hr>
-            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
-        </div>
-        <div class="ksln-cards">
-            <h3><b>Paramétrer votre plateforme</b></h3>
-            Enregistrer trois informations essentielles au bon fonctionnement de votre plateforme (fichier konsilion.json).
-            <hr>
-            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
-        </div>          
-    </div>
+      
 
 ---
 

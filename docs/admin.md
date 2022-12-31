@@ -81,6 +81,9 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
     === "Klouds"
     
         <p></p>
+        
+        Les espaces de stockages Kloud regroupent les fichiers qui se rapportent à un thème commun (une personne, un projet, etc.). Vous pouvez télécharger un modèle de Kloud en bas de cette page ou bien référencer un espace de stockage existant.
+        
         === "Projets"
 
             <div class="ksln-grid">
@@ -91,7 +94,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
                 </div>
             </div>
          
-        === "Utilisateurs"
+        === "Individus"
 
             <div class="ksln-grid">
                 <div class="ksln-cards">

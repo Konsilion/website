@@ -95,8 +95,11 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             </div>
         </div>
         
-    === "Dépôts de fichiers - Klouds"
-
+    === "Klouds"
+    
+        <p></p>
+        [Créer un Kloud](https://github.com/Konsilion/kloud-template/generate){ .md-button .md-button--primary target="_self"}
+        
         === "Projets"
 
             <div class="ksln-grid">

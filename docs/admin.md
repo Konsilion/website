@@ -169,7 +169,6 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
                 <br>
                 <br>
             </div>
-            si vous n'avez pas de compte GitHub, vous pouvez en créer un en <a href="https://github.com/signup" target="_blank">suivant ce lien</a>
             <div class="ksln-cards">
                 <h3><b>En savoir plus</b></h3>
                 Afin de mieux comprendre la logique proposées derrière les Klouds et l'organisation de vos ressources numériques.
@@ -180,6 +179,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             </div>
         </div>
 
+        si vous n'avez pas de compte GitHub, vous pouvez en créer un en <a href="https://github.com/signup" target="_blank">suivant ce lien</a>
 ---
 
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/admin.js"></script>

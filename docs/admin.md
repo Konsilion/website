@@ -9,9 +9,11 @@ hide:
 
 
 
+
+
 ![Retour acceuil du site](https://github.com/Konsilion/website/blob/master/docs/kloud/img/fleche-retour.png?raw=true){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
-![Repertoire GitHub](https://cdn-icons-png.flaticon.com/512/919/919847.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float: right; position: absolute; top:120px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
+![Repertoire GitHub](https://raw.githubusercontent.com/Konsilion/website/master/docs/kloud/img/logo-github.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float: right; position: absolute; top:120px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
 
 # Panneau de configuration

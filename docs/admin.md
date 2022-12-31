@@ -1,7 +1,9 @@
 ---
 hide:
-    - toc
+  - toc
 ---
+
+
 
 ![Retour acceuil du site](https://cdn-icons-png.flaticon.com/512/4468/4468458.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
@@ -162,11 +164,11 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
-            <h3><b>Initialiser votre plateforme</b></h3>
+            <h3><b>Paramétrer votre plateforme</b></h3>
             Enregistrer trois informations essentielles au bon fonctionnement de votre plateforme (fichier konsilion.json).
             <hr>
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
-        </div>        
+        </div>          
     </div>
 
 ---

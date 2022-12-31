@@ -142,8 +142,8 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
 
             <div class="ksln-grid">
                 <div class="ksln-cards">
-                    <h3><b>Nicolas Brémond</b></h3>
-                    <a class="md-button md-button--secondary" href="#" target="_blank">Lien</a>
+                    <h3><b>Numérique Low-tech</b></h3>
+                    <a class="md-button md-button--secondary" href="#" target="_blank">Voir le Kloud</a>
                     <br><br>
                 </div>
             </div>
@@ -165,7 +165,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
                 <h3><b>Créer un dépôt de fichiers</b></h3>
                 Pour créer un espaces communs où regrouper vos fichiers par projets, utilisateurs, etc. Pour cela un simple compte GitHub suffit.
                 <br><br>
-                <button class="md-button md-button--primary" onclick="window.open('https://github.com/Konsilion/katalog-template/generate');"> Créer un espace Kloud</button>
+                <button class="md-button md-button--primary" onclick="window.open('https://github.com/Konsilion/kloud-template/generate');"> Créer un espace Kloud</button>
                 <br>
                 <br>
             </div>

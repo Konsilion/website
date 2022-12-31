@@ -119,14 +119,14 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             <div class="ksln-cards">
                 <h3><b>Consulter</b></h3>
                 <img src="https://cdn-icons-png.flaticon.com/512/3603/3603249.png" style="margin: 5px; max-width: 75px; width: 100%; float: right; opacity:0.4;">
-                <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/img" target="_blank">Lien</a>
+                <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/media" target="_blank">Lien</a>
                 <br>
                 <br>
             </div>
             <div class="ksln-cards">
                 <h3><b>Déposer un fichier</b></h3>
                 <img src="https://cdn-icons-png.flaticon.com/512/9121/9121674.png" style="margin: 5px; max-width: 75px; width: 100%; float: right; opacity:0.4;">
-                <a class="md-button md-button--secondary" href="{{ katalog_repo }}/upload/master/docs/kloud/img" target="_blank">Lien</a>
+                <a class="md-button md-button--secondary" href="{{ katalog_repo }}/upload/master/media" target="_blank">Lien</a>
                 <br>
                 <br>
             </div>

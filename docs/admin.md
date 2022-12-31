@@ -13,7 +13,7 @@ hide:
 
 ![Retour acceuil du site](https://github.com/Konsilion/website/blob/master/docs/kloud/img/fleche-retour.png?raw=true){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
-![Repertoire GitHub](https://raw.githubusercontent.com/Konsilion/website/master/docs/kloud/img/logo-github.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float: right; position: absolute; top:120px; right:10px; height: 40px; padding: 10px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
+![Repertoire GitHub](https://raw.githubusercontent.com/Konsilion/website/master/docs/kloud/img/logo-github.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float: right; position: absolute; top:120px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
 
 # Panneau de configuration
@@ -124,18 +124,18 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
         La médiathèque permet la mise en ligne de ressources ponctuelles. Les ressources déposées ici sont universelles et non assignées à un projet ou un individus en particulier (voir Klouds).
         <div class="ksln-grid">
             <div class="ksln-cards">
-                <h3>
-                <img src="https://cdn-icons-png.flaticon.com/512/3603/3603249.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-                <b>Consulter</b></h3>
+                <h3><b>Consulter</b></h3>
                 <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/img" target="_blank">Lien</a>
-                <br><br>
+                <br>
+                <img src="https://cdn-icons-png.flaticon.com/512/3603/3603249.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+                <br>
             </div>
             <div class="ksln-cards">
-                <h3>
-                <img src="https://cdn-icons-png.flaticon.com/512/9121/9121674.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-                <b>Déposer un fichier</b></h3>
+                <h3><b>Déposer un fichier</b></h3>
                 <a class="md-button md-button--secondary" href="{{ katalog_repo }}/upload/master/docs/kloud/img" target="_blank">Lien</a>
-                <br><br>
+                <br>
+                <img src="https://cdn-icons-png.flaticon.com/512/9121/9121674.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+                <br>
             </div>
         </div>
         

@@ -31,6 +31,12 @@ hide:
         <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
     </div>
     <div class="ksln-cards">
+        <h3><b>(Re)-Initialiser votre plateforme</b></h3>
+        Enregistrer trois informations essentielles au bon fonctionnement de votre plateforme (fichier konsilion.json).
+        <hr>
+        <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+    </div>
+    <div class="ksln-cards">
         <h3><b>FAQ</b></h3>
         Quelques autres questions auquelles nous apportons des réponses.
         <hr>

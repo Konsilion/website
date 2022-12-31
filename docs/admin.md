@@ -77,7 +77,26 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
 
 === "Espaces de stockages"
     
-    <p></p>
+    <p></p>    
+    === "Médiathèques"
+
+        <div class="ksln-grid">
+            <div class="ksln-cards">
+                <h3>
+                <img src="https://cdn-icons-png.flaticon.com/512/2580/2580831.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+                <b>Consulter</b></h3>
+                <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/img" target="_blank">Lien</a>
+                <br><br>
+            </div>
+            <div class="ksln-cards">
+                <h3>
+                <img src="https://cdn-icons-png.flaticon.com/512/716/716784.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+                <b>Déposer un fichier</b></h3>
+                <a class="md-button md-button--secondary" href="{{ katalog_repo }}/upload/master/docs/kloud/img" target="_blank">Lien</a>
+                <br><br>
+            </div>
+        </div>
+        
     === "Klouds"
     
         <p></p>
@@ -119,25 +138,8 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
         </div>
 
         si vous n'avez pas de compte GitHub, vous pouvez en créer un en <a href="https://github.com/signup" target="_blank">suivant ce lien</a>
-    
-    === "Médiathèques"
 
-        <div class="ksln-grid">
-            <div class="ksln-cards">
-                <h3>
-                <img src="https://cdn-icons-png.flaticon.com/512/716/716784.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-                <b>Consulter</b></h3>
-                <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/docs/kloud/img" target="_blank">Lien</a>
-                <br><br>
-            </div>
-            <div class="ksln-cards">
-                <h3><b>Déposer un fichier</b></h3>
-                <a class="md-button md-button--secondary" href="{{ katalog_repo }}/upload/master/docs/kloud/img" target="_blank">Lien</a>
-                <br><br>
-            </div>
-        </div>
-           
-        
+                  
 === "Administration"
 
     <div class="ksln-grid">

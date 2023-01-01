@@ -18,6 +18,8 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
 
     Sauvegardez vos fichiers sur le Web, et accédez-y depuis n'importe quel appareil connecté à Internet.
 
+    ## Médiathèque
+
     La médiathèque permet la mise en ligne de ressources communes, universelles. Les ressources déposées ici ne sont pas assignables à un projet, ou à un individu en particulier.
     
     <div class="ksln-grid">

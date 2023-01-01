@@ -56,7 +56,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             <h3><b>En savoir plus</b></h3>
             Afin de mieux comprendre la logique proposées derrière les Klouds et l'organisation de vos ressources numériques.
             <br><br>
-            <button class="md-button md-button--primary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/klouds/en-savoirs-plus','_self');">En savoir plus</button>
+            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/klouds/en-savoirs-plus','_self');">En savoir plus</button>
             <br>
             <br>
         </div>

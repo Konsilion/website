@@ -17,90 +17,84 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
 === "Espaces de stockages"
 
     Sauvegardez vos fichiers sur le Web, et accédez-y depuis n'importe quel appareil connecté à Internet.
+
+    La médiathèque permet la mise en ligne de ressources communes, universelles. Les ressources déposées ici ne sont pas assignables à un projet, ou à un individu en particulier.
     
-    <p></p>    
-    === "Médiathèques"
-        
-        <p></p>
-
-        La médiathèque permet la mise en ligne de ressources communes, universelles. Les ressources déposées ici ne sont pas assignables à un projet, ou à un individu en particulier.
-        <div class="ksln-grid">
-            <div class="ksln-cards">
-                <h3><b>Consulter</b></h3>
-                <img src="https://cdn-icons-png.flaticon.com/512/3603/3603249.png" style="margin: 5px; max-width: 75px; width: 100%; float: right; opacity:0.4;">
-                <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/media" target="_blank">Lien</a>
-                <br>
-                <br>
-            </div>
-            <div class="ksln-cards">
-                <h3><b>Déposer un fichier</b></h3>
-                <img src="https://cdn-icons-png.flaticon.com/512/9121/9121674.png" style="margin: 5px; max-width: 75px; width: 100%; float: right; opacity:0.4;">
-                <a class="md-button md-button--secondary" href="{{ katalog_repo }}/upload/master/media" target="_blank">Lien</a>
-                <br>
-                <br>
-            </div>
+    <div class="ksln-grid">
+        <div class="ksln-cards">
+            <h3><b>Consulter</b></h3>
+            <img src="https://cdn-icons-png.flaticon.com/512/3603/3603249.png" style="margin: 5px; max-width: 75px; width: 100%; float: right; opacity:0.4;">
+            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/media" target="_blank">Lien</a>
+            <br>
+            <br>
         </div>
-        
-    === "Klouds"
-    
-        <p></p>
-        
-        Les espaces de stockages Kloud regroupent les fichiers qui se rapportent à un thème commun (une personne, un projet, etc.). Vous pouvez télécharger un modèle de Kloud en bas de cette page ou bien référencer un espace de stockage existant.
-        
-        [Accédez aux espaces de stockages]({{ katalog_site }}/katalog/klouds/home){ .md-button .mdbutton--secondary }
-
-        ---
-
-        <div class="ksln-grid">
-            <div class="ksln-cards">
-                <h3><b>Créer un dépôt de fichiers</b></h3>
-                Pour créer un espaces communs où regrouper vos fichiers par projets, utilisateurs, etc. Pour cela un simple compte GitHub suffit.
-                <br><br>
-                <button class="md-button md-button--primary" onclick="window.open('https://github.com/Konsilion/kloud-template/generate');"> Créer un espace Kloud</button>
-                <br>
-                <br>
-            </div>
-            <div class="ksln-cards">
-                <h3><b>En savoir plus</b></h3>
-                Afin de mieux comprendre la logique proposées derrière les Klouds et l'organisation de vos ressources numériques.
-                <br><br>
-                <button class="md-button md-button--primary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/klouds/en-savoirs-plus','_self');">En savoir plus</button>
-                <br>
-                <br>
-            </div>
+        <div class="ksln-cards">
+            <h3><b>Déposer un fichier</b></h3>
+            <img src="https://cdn-icons-png.flaticon.com/512/9121/9121674.png" style="margin: 5px; max-width: 75px; width: 100%; float: right; opacity:0.4;">
+            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/upload/master/media" target="_blank">Lien</a>
+            <br>
+            <br>
         </div>
+    </div>
 
-        si vous n'avez pas de compte GitHub, vous pouvez en créer un en <a href="https://github.com/signup" target="_blank">suivant ce lien</a>
+    ## Klouds
+
+    Les espaces de stockages Kloud regroupent les fichiers qui se rapportent à un thème commun (une personne, un projet, etc.). Vous pouvez télécharger un modèle de Kloud en bas de cette page ou bien référencer un espace de stockage existant.
+
+    [Vos espaces de stockages]({{ katalog_site }}/katalog/klouds/home){ .md-button .mdbutton--secondary }
+
+    ---
+
+    <div class="ksln-grid">
+        <div class="ksln-cards">
+            <h3><b>Créer un dépôt de fichiers</b></h3>
+            Pour créer un espaces communs où regrouper vos fichiers par projets, utilisateurs, etc. Pour cela un simple compte GitHub suffit.
+            <br><br>
+            <button class="md-button md-button--primary" onclick="window.open('https://github.com/Konsilion/kloud-template/generate');"> Créer un espace Kloud</button>
+            <br>
+            <br>
+        </div>
+        <div class="ksln-cards">
+            <h3><b>En savoir plus</b></h3>
+            Afin de mieux comprendre la logique proposées derrière les Klouds et l'organisation de vos ressources numériques.
+            <br><br>
+            <button class="md-button md-button--primary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/klouds/en-savoirs-plus','_self');">En savoir plus</button>
+            <br>
+            <br>
+        </div>
+    </div>
+
+    si vous n'avez pas de compte GitHub, vous pouvez en créer un en <a href="https://github.com/signup" target="_blank">suivant ce lien</a>
 
 
 === "Pages Web"
 
-    <div class="ksln-grid">
-        <div class="ksln-cards">
-            <h3><b>Créer une page</b></h3>
-            De l'article de blog à une page contact, créer et diffuser le contenu Web que vous souhaitez, sans compétence particulière.
-            <hr>
-            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-creer" target="_self">Lien</a>
-        </div>
-        <div class="ksln-cards">
-            <h3><b>Modifier une page</b></h3>
-            Modifier une page Web existante en toute simplicité.
-            <hr>
-            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-modifier" target="_self">Lien</a>
-        </div>
-        <div class="ksln-cards">
-            <h3><b>Commenter une page</b></h3>
-            Donner la possibilité aux utilisateurs de commenter une page.
-            <hr>
-            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-commenter" target="_self">Lien</a>
-        </div>
-        <div class="ksln-cards">
-            <h3><b>Supprimer une page</b></h3>
-            Supprimer ou de-référencer une page Web. 
-            <hr>
-            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-supprimer" target="_self">Lien</a>
-        </div>
+<div class="ksln-grid">
+    <div class="ksln-cards">
+        <h3><b>Créer une page</b></h3>
+        De l'article de blog à une page contact, créer et diffuser le contenu Web que vous souhaitez, sans compétence particulière.
+        <hr>
+        <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-creer" target="_self">Lien</a>
     </div>
+    <div class="ksln-cards">
+        <h3><b>Modifier une page</b></h3>
+        Modifier une page Web existante en toute simplicité.
+        <hr>
+        <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-modifier" target="_self">Lien</a>
+    </div>
+    <div class="ksln-cards">
+        <h3><b>Commenter une page</b></h3>
+        Donner la possibilité aux utilisateurs de commenter une page.
+        <hr>
+        <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-commenter" target="_self">Lien</a>
+    </div>
+    <div class="ksln-cards">
+        <h3><b>Supprimer une page</b></h3>
+        Supprimer ou de-référencer une page Web. 
+        <hr>
+        <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-supprimer" target="_self">Lien</a>
+    </div>
+</div>
 
 
 === "Catalogues Web"

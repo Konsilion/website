@@ -29,7 +29,6 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
     
     Wikipédia 10-2022 – *Nous vous présentons la définition de Wikipédia car elle issue d’une réflexion collaborative, amenée à évoluer.*
 
-<br>
 
 [On continue ?](../presentation/){ .md-button .md-button--primary style="float: left; margin-bottom: 75px;"}
 
@@ -37,11 +36,11 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
 
 [Votre propre site Web ?](../katalog/){ .md-button .md-button--secondary style="float: right;"}
 
+<br><br><br><br><br><br>
+
 ---
 
-<br><br>
-
-![Panneaux de configuration](https://cdn-icons-png.flaticon.com/512/148/148913.png){ .md-button .md-button--secondary onclick="window.open('{{ katalog_site }}/admin','_self');" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
+![Panneaux de configuration](https://cdn-icons-png.flaticon.com/512/148/148913.png){ .md-button .md-button--secondary onclick="window.open('{{ katalog_site }}/admin','_self');" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid #f1f1f1;"}
 
 
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>

@@ -26,14 +26,14 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
         <div class="ksln-cards">
             <h3><b>Consulter</b></h3>
             <img src="https://cdn-icons-png.flaticon.com/512/3603/3603249.png" style="margin: 5px; max-width: 75px; width: 100%; float: right; opacity:0.4;">
-            <button class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/media" target="_blank">Lien</button>
+            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_repo }}/tree/master/media','_self');">Lien</button>
             <br>
             <br>
         </div>
         <div class="ksln-cards">
             <h3><b>Déposer un fichier</b></h3>
             <img src="https://cdn-icons-png.flaticon.com/512/9121/9121674.png" style="margin: 5px; max-width: 75px; width: 100%; float: right; opacity:0.4;">
-            <button class="md-button md-button--secondary" href="{{ katalog_repo }}/upload/master/media" target="_blank">Lien</button>
+            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_repo }}/upload/master/media','_self');">Lien</button>
             <br>
             <br>
         </div>
@@ -74,25 +74,25 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             <h3><b>Créer une page</b></h3>
             De l'article de blog à une page contact, créer et diffuser le contenu Web que vous souhaitez, sans compétence particulière.
             <hr>
-            <button class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-creer" target="_self">Lien</button>
+            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/pages/page-creer','_self');"Lien</button>
         </div>
         <div class="ksln-cards">
             <h3><b>Modifier une page</b></h3>
             Modifier une page Web existante en toute simplicité.
             <hr>
-            <button class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-modifier" target="_self">Lien</button>
+            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/pages/page-modifier','_self');">Lien</button>
         </div>
         <div class="ksln-cards">
             <h3><b>Commenter une page</b></h3>
             Donner la possibilité aux utilisateurs de commenter une page.
             <hr>
-            <button class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-commenter" target="_self">Lien</button>
+            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/pages/page-commenter','_self');">Lien</button>
         </div>
         <div class="ksln-cards">
             <h3><b>Supprimer une page</b></h3>
             Supprimer ou de-référencer une page Web. 
             <hr>
-            <button class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-supprimer" target="_self">Lien</button>
+            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/pages/page-supprimer','_self');">Lien</button>
         </div>
     </div>
 
@@ -104,25 +104,25 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             <h3><b>Créer un catalogue</b></h3>
             Présenter vos données, ressources et autres intérêts dans un catalogue Web (de multiples disposition existes, les découvrir).
             <hr>
-            <button class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/katalogs/catalogue-creer" target="_self">Lien</button>
+            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/katalogs/catalogue-creer','_self');">Lien</button>
         </div>
         <div class="ksln-cards">
             <h3><b>Modifier un catalogue</b></h3>
             Modifier une catalogue Web existant en toute simplicité.
             <hr>
-            <button class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/katalogs/catalogue-modifier" target="_self">Lien</button>
+            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/katalogs/catalogue-modifier','_self');">Lien</button>
         </div>
         <div class="ksln-cards">
             <h3><b>Lier un catalogue</b></h3>
             Afficher dans votre site des catalogues partenaires externes. Ainsi garder un oeil sur ce qu'il se fait autour de vous.
             <hr>
-            <button class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/katalogs/catalogue-lier" target="_self">Lien</button>
+            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/katalogs/catalogue-lier','_self');">Lien</button>
         </div>
         <div class="ksln-cards">
             <h3><b>Supprimer un catalogue</b></h3>
             Supprimer ou de-référencer un catalogue Web.
             <hr>
-            <button class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/katalogs/catalogue-supprimer" target="_self">Lien</button>
+            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/katalogs/catalogue-supprimer','_self');">Lien</button>
         </div>
     </div>
 
@@ -133,25 +133,25 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             <h3><b>Gérer les contributions</b></h3>
             Accedez à la liste des contributions en attente faites sur votre site.
             <hr>
-            <button class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-gerer" target="_self">Lien</button>
+            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/admin/admin-gerer','_self');">Lien</button>
         </div>
         <div class="ksln-cards">
             <h3><b>Gérer les droits d'administration</b></h3>
             Définissez la modération par les droits d'accès, de lecture et d'écriture de votre plateforme.
             <hr>
-            <button class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-droits" target="_self">Lien</button>
+            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/admin/admin-droits','_self');">Lien</button>
         </div>
         <div class="ksln-cards">
             <h3><b>Associer un nom de domaine</b></h3>
             Relier ce site web à l'un de vos domaines ou sous-domaines (ex: konsilion.fr).
             <hr>
-            <button class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-domaine" target="_self">Lien</button>
+            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/admin/admin-domaine','_self');">Lien</button>
         </div>
         <div class="ksln-cards">
             <h3><b>Paramétrer votre plateforme</b></h3>
             Enregistrer trois informations essentielles au bon fonctionnement de votre plateforme (fichier konsilion.json).
             <hr>
-            <button class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-parametrer" target="_self">Lien</button>
+            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/admin/admin-parametrer','_self');">Lien</button>
         </div>          
     </div>
 

@@ -3,25 +3,15 @@ hide:
   - toc
 ---
 
+![Repertoire GitHub](https://raw.githubusercontent.com/Konsilion/website/master/media/logo-github.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
 
-
-
-
-
-
-
-![Repertoire GitHub](https://raw.githubusercontent.com/Konsilion/website/master/media/logo-github.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
-
+![Accueil du site](https://cdn-icons-png.flaticon.com/512/7321/7321292.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}','_self');" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
 
 # Panneau de configuration
 
-[Premiers pas ici ?]({{ katalog_site }}/admin/tutoriels/parametrage){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_self"}
-    
 ---
 
 Le **panneau de configuration** vous permet de gérer et de configurer votre site. Utiliser le panneau de configuration pour diverses tâches telles que la création de pages web, la gestion  du contenu existant, accéder aux espaces de stockages, etc. 
-
-
 
 === "Espaces de stockages"
 
@@ -169,6 +159,8 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>          
     </div>
+
+[Premiers pas ici ?]({{ katalog_site }}/admin/tutoriels/parametrage){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_self"}  
 
 ---
 

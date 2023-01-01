@@ -39,7 +39,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
 
     ### Klouds - Catalogue de vos stockages
 
-    [Tout vos espaces de stockages]({{ katalog_site }}/katalog/klouds/home){ .md-button .mdbutton--primary style="float: right; margin: 10px;"}
+    [Tout vos espaces de stockages]({{ katalog_site }}/katalog/klouds/home){ .md-button .md-button--primary style="float: right; margin: 10px;"}
 
     Les espaces de stockages Kloud regroupent les fichiers qui se rapportent à un thème commun (une personne, un projet, etc.). Vous pouvez télécharger un modèle de Kloud en bas de cette page ou bien référencer un espace de stockage existant.
 

@@ -74,7 +74,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             <h3><b>Créer une page</b></h3>
             De l'article de blog à une page contact, créer et diffuser le contenu Web que vous souhaitez, sans compétence particulière.
             <hr>
-            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/pages/page-creer','_self');"Lien</button>
+            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/pages/page-creer','_self');">Lien</button>
         </div>
         <div class="ksln-cards">
             <h3><b>Modifier une page</b></h3>

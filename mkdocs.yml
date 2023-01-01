@@ -39,6 +39,12 @@ site_author: Nicolas Brémond
 site_description: Développer, proposer et promouvoir la Low-technologie.
 
 
+# MENTIONS 
+# --------------------------------------------------------------------------------------------------------------------------------------------------
+
+copyright: Une plateforme open-source codé avec ❤ par Konsilion - Licence juridique Creative Commons CC-BY-NC 4.0 <br> Un grand merci à <u><a href="https://www.multi.coop/" target="_blank">multi</a></u> et <u><a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">mkdocs-material</a></u> pour le support technique 
+
+
 # LANGUE, COULEURS et LOGO
 #
 # [Liste des couleurs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color)
@@ -65,13 +71,6 @@ extra:
   generator: false
   katalog_repo: "https://github.com/konsilion/website"
   katalog_site: "https://konsilion.github.io/website"
-
-# MENTIONS 
-# --------------------------------------------------------------------------------------------------------------------------------------------------
-
-copyright: Une plateforme open-source codé avec ❤ par Konsilion - Licence juridique Creative Commons CC-BY-NC 4.0 <br> Un grand merci à <u><a href="https://www.multi.coop/" target="_blank">multi</a></u> et <u><a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">mkdocs-material</a></u> pour le support technique 
-
-
 
 
 

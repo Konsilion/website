@@ -7,6 +7,8 @@ hide:
 
 
 
+
+
 ![Retour configuration](https://raw.githubusercontent.com/Konsilion/website/master/media/fleche-retour.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}/admin','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
 
@@ -96,7 +98,7 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer 
 
 === "Aller plus loin"
 
-    ### En savoir plus sur l'écriture Markdown
+    ## En savoir plus sur l'écriture Markdown
 
     Le markdown est un langage de balisage léger qui permet de formater du texte de manière simple et rapide. Il a été créé en 2004 par John Gruber et Aaron Swartz dans le but de rendre la mise en forme de documents plus facile et plus rapide. Le markdown est souvent utilisé pour la rédaction de documents sur internet, comme des articles de blog, des documents de documentation, etc.
 
@@ -104,7 +106,7 @@ Voici un tutoriel qui vous expliquera comment ajouter une page web et l'éditer 
 
     [Débuter avec Markdown](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/){ .md-button .md-button--secondary target="_blank"}
 
-    ### Au besoin, compléter avec du code HTML
+    ## Au besoin, compléter avec du code HTML
 
     Vous pouvez également ajouter du contenu HTML dans vos fichiers markdown en utilisant des balises HTML. Par exemple, pour ajouter une image à votre page suivi d'un saut de ligne, vous pouvez utiliser la balise <img> et <br> comme ceci :
 

@@ -14,6 +14,8 @@ hide:
 
 
 
+
+
 ![Retour acceuil du site](https://raw.githubusercontent.com/Konsilion/website/master/media/fleche-retour.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
 ![Repertoire GitHub](https://raw.githubusercontent.com/Konsilion/website/master/media/logo-github.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float: right; position: absolute; top:120px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
@@ -30,6 +32,8 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
 
 
 === "Espaces de stockages"
+
+    Sauvegarder facilement vos fichiers sur le Web, vous pouvez ainsi accéder à vos fichiers depuis n'importe quel appareil connecté à Internet, et partager facilement vos ressources numériques avec d'autres personnes avec la technologie Git.
     
     <p></p>    
     === "Médiathèques"

@@ -155,6 +155,6 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
         </div>          
     </div>
 
-[Premiers pas ici ?]({{ katalog_site }}/admin/tutoriels/premiers-pas){ .md-button .md-button--primary style="float:right; margin: 10px;" target="_self"}  
+[Premiers pas ici ?]({{ katalog_site }}/admin/tutoriels/admin/parametrage/premiers-pas){ .md-button .md-button--primary style="float:right; margin: 10px;" target="_self"}  
 
 ---

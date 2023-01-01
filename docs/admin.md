@@ -8,6 +8,8 @@ hide:
 
 
 
+
+
 ![Repertoire GitHub](https://raw.githubusercontent.com/Konsilion/website/master/media/logo-github.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
 
@@ -30,7 +32,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
         
         <p></p>
 
-        La médiathèque permet la mise en ligne de ressources ponctuelles. Les ressources déposées ici sont universelles et non assignées à un projet ou un individus en particulier.
+        La médiathèque permet la mise en ligne de ressources communes, universelles. Les ressources déposées ici ne sont pas assignables à un projet, ou à un individus en particulier.
         <div class="ksln-grid">
             <div class="ksln-cards">
                 <h3><b>Consulter</b></h3>

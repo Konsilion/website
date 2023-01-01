@@ -18,7 +18,6 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
 
 === "Espaces de stockages"
 
-    <p></p>
     ### Médiathèque
 
     La médiathèque permet la mise en ligne de ressources communes, universelles. Les ressources déposées ici ne sont pas assignables à un projet, ou à un individu en particulier.
@@ -159,8 +158,3 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
 [Premiers pas ici ?]({{ katalog_site }}/admin/tutoriels/premiers-pas){ .md-button .md-button--primary style="float:right; margin: 10px;" target="_self"}  
 
 ---
-
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/admin.js"></script>
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script>

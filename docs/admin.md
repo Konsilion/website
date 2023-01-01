@@ -98,7 +98,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             <h3><b>Supprimer une page</b></h3>
             Supprimer ou de-référencer une page Web. 
             <hr>
-            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/supprimer" target="_self">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-supprimer" target="_self">Lien</a>
         </div>
     </div>
 

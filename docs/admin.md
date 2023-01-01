@@ -8,6 +8,8 @@ hide:
 
 
 
+
+
 ![Retour acceuil du site](https://raw.githubusercontent.com/Konsilion/website/master/media/fleche-retour.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
 ![Repertoire GitHub](https://raw.githubusercontent.com/Konsilion/website/master/media/logo-folder.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float: right; position: absolute; top:120px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
@@ -69,7 +71,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
         </div>
         <div class="ksln-cards">
             <h3><b>Commenter une page</b></h3>
-            Donner la possibilité aux utilisateurs de consulter et de commenter une page.
+            Donner la possibilité aux utilisateurs de commenter une page.
             <hr>
             <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
         </div>

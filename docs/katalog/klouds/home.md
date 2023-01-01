@@ -11,11 +11,3 @@ hide:
 
 
 <div id="DatamiMain"></div>
-
----
-
-<style>
-.SortAndFiltersSkeleton, .EditCsvSkeleton, .PagesNavigation {
-    display: none !important;
-}
-</style>

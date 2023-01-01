@@ -16,9 +16,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
 
 === "Espaces de stockages"
 
-    Sauvegardez vos fichiers sur le Web, et accédez-y depuis n'importe quel appareil connecté à Internet.
-
-    ## Médiathèque
+    ### Médiathèque
 
     La médiathèque permet la mise en ligne de ressources communes, universelles. Les ressources déposées ici ne sont pas assignables à un projet, ou à un individu en particulier.
     
@@ -39,7 +37,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
         </div>
     </div>
 
-    ## Klouds
+    ### Klouds
 
     Les espaces de stockages Kloud regroupent les fichiers qui se rapportent à un thème commun (une personne, un projet, etc.). Vous pouvez télécharger un modèle de Kloud en bas de cette page ou bien référencer un espace de stockage existant.
 
@@ -71,32 +69,32 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
 
 === "Pages Web"
 
-<div class="ksln-grid">
-    <div class="ksln-cards">
-        <h3><b>Créer une page</b></h3>
-        De l'article de blog à une page contact, créer et diffuser le contenu Web que vous souhaitez, sans compétence particulière.
-        <hr>
-        <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-creer" target="_self">Lien</a>
+    <div class="ksln-grid">
+        <div class="ksln-cards">
+            <h3><b>Créer une page</b></h3>
+            De l'article de blog à une page contact, créer et diffuser le contenu Web que vous souhaitez, sans compétence particulière.
+            <hr>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-creer" target="_self">Lien</a>
+        </div>
+        <div class="ksln-cards">
+            <h3><b>Modifier une page</b></h3>
+            Modifier une page Web existante en toute simplicité.
+            <hr>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-modifier" target="_self">Lien</a>
+        </div>
+        <div class="ksln-cards">
+            <h3><b>Commenter une page</b></h3>
+            Donner la possibilité aux utilisateurs de commenter une page.
+            <hr>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-commenter" target="_self">Lien</a>
+        </div>
+        <div class="ksln-cards">
+            <h3><b>Supprimer une page</b></h3>
+            Supprimer ou de-référencer une page Web. 
+            <hr>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-supprimer" target="_self">Lien</a>
+        </div>
     </div>
-    <div class="ksln-cards">
-        <h3><b>Modifier une page</b></h3>
-        Modifier une page Web existante en toute simplicité.
-        <hr>
-        <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-modifier" target="_self">Lien</a>
-    </div>
-    <div class="ksln-cards">
-        <h3><b>Commenter une page</b></h3>
-        Donner la possibilité aux utilisateurs de commenter une page.
-        <hr>
-        <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-commenter" target="_self">Lien</a>
-    </div>
-    <div class="ksln-cards">
-        <h3><b>Supprimer une page</b></h3>
-        Supprimer ou de-référencer une page Web. 
-        <hr>
-        <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-supprimer" target="_self">Lien</a>
-    </div>
-</div>
 
 
 === "Catalogues Web"

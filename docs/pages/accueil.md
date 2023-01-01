@@ -29,7 +29,7 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
     
     Wikipédia 10-2022 – *Nous vous présentons la définition de Wikipédia car elle issue d’une réflexion collaborative, amenée à évoluer.*
 
-<br><br>
+<br>
 
 [On continue ?](../presentation/){ .md-button .md-button--primary style="float: left; margin-bottom: 75px;"}
 

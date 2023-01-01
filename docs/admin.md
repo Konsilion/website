@@ -64,7 +64,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
                 <h3><b>En savoir plus</b></h3>
                 Afin de mieux comprendre la logique proposées derrière les Klouds et l'organisation de vos ressources numériques.
                 <br><br>
-                <button class="md-button md-button--primary" onclick="window.open('https://github.com/Konsilion/katalog-template/generate');">En savoir plus</button>
+                <button class="md-button md-button--primary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/klouds/en-savoirs-plus','_self');">En savoir plus</button>
                 <br>
                 <br>
             </div>
@@ -80,25 +80,25 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             <h3><b>Créer une page</b></h3>
             De l'article de blog à une page contact, créer et diffuser le contenu Web que vous souhaitez, sans compétence particulière.
             <hr>
-            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/creation-page" target="_self">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-creer" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Modifier une page</b></h3>
             Modifier une page Web existante en toute simplicité.
             <hr>
-            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-modifier" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Commenter une page</b></h3>
             Donner la possibilité aux utilisateurs de commenter une page.
             <hr>
-            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-commenter" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Supprimer une page</b></h3>
             Supprimer ou de-référencer une page Web. 
             <hr>
-            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/supprimer" target="_self">Lien</a>
         </div>
     </div>
 
@@ -110,25 +110,25 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             <h3><b>Créer un catalogue</b></h3>
             Présenter vos données, ressources et autres intérêts dans un catalogue Web (de multiples disposition existes, les découvrir).
             <hr>
-            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/katalogs/catalogue-creer" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Modifier un catalogue</b></h3>
             Modifier une catalogue Web existant en toute simplicité.
             <hr>
-            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/katalogs/catalogue-modifier" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Lier un catalogue</b></h3>
             Afficher dans votre site des catalogues partenaires externes. Ainsi garder un oeil sur ce qu'il se fait autour de vous.
             <hr>
-            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/katalogs/catalogue-lier" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Supprimer un catalogue</b></h3>
             Supprimer ou de-référencer un catalogue Web.
             <hr>
-            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/katalogs/catalogue-supprimer" target="_self">Lien</a>
         </div>
     </div>
 
@@ -139,29 +139,29 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             <h3><b>Gérer les contributions</b></h3>
             Accedez à la liste des contributions en attente faites sur votre site.
             <hr>
-            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-gerer" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Gérer les droits d'administration</b></h3>
             Définissez la modération par les droits d'accès, de lecture et d'écriture de votre plateforme.
             <hr>
-            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-droits" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Associer un nom de domaine</b></h3>
             Relier ce site web à l'un de vos domaines ou sous-domaines (ex: konsilion.fr).
             <hr>
-            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-domaine" target="_self">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Paramétrer votre plateforme</b></h3>
             Enregistrer trois informations essentielles au bon fonctionnement de votre plateforme (fichier konsilion.json).
             <hr>
-            <a class="md-button md-button--secondary" href="https://datami-docs.multi.coop/?locale=fr" target="_self">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-parametrer" target="_self">Lien</a>
         </div>          
     </div>
 
-[Premiers pas ici ?]({{ katalog_site }}/admin/tutoriels/parametrage){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_self"}  
+[Premiers pas ici ?]({{ katalog_site }}/admin/tutoriels/premiers-pas){ .md-button .md-button--secondary style="float:right; margin: 10px;" target="_self"}  
 
 ---
 

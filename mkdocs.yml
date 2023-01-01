@@ -99,8 +99,4 @@ extra_css:
   - https://konsilion.github.io/katalog-setup/css/konsilion-mkdocs.css
   - https://konsilion.fr/admin/css/colors.css
   
-extra_js:
-  - https://konsilion.github.io/katalog-setup/js/functionality/add-page.js
-
-
 # https://kit.fontawesome.com/f9666d4f53.js

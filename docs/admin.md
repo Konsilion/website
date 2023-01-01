@@ -4,12 +4,9 @@ hide:
 ---
 
 
-
-
-
 ![Repertoire GitHub](https://raw.githubusercontent.com/Konsilion/website/master/media/logo-github.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
 
-![Accueil du site](https://cdn-icons-png.flaticon.com/512/6659/6659395.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}','_self');" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
+![Accueil du site](https://raw.githubusercontent.com/Konsilion/website/master/media/fleche-retour.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}','_self');" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
 
 # Panneau de configuration
 
@@ -26,7 +23,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
         
         <p></p>
 
-        La médiathèque permet la mise en ligne de ressources communes, universelles. Les ressources déposées ici ne sont pas assignables à un projet, ou à un individus en particulier.
+        La médiathèque permet la mise en ligne de ressources communes, universelles. Les ressources déposées ici ne sont pas assignables à un projet, ou à un individu en particulier.
         <div class="ksln-grid">
             <div class="ksln-cards">
                 <h3><b>Consulter</b></h3>
@@ -50,7 +47,7 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
         
         Les espaces de stockages Kloud regroupent les fichiers qui se rapportent à un thème commun (une personne, un projet, etc.). Vous pouvez télécharger un modèle de Kloud en bas de cette page ou bien référencer un espace de stockage existant.
         
-        [Accès aux klouds]({{ katalog_site }}/katalog/klouds/home){ .md-button .mdbutton--secondary }
+        [Accédez aux espaces de stockages]({{ katalog_site }}/katalog/klouds/home){ .md-button .mdbutton--secondary }
 
         ---
 

@@ -3,6 +3,8 @@ hide:
 - toc
 ---
 
+![Retour configuration](https://raw.githubusercontent.com/Konsilion/website/master/media/fleche-retour.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}/admin','_self');" style="height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
+
 # Paramètrage de la plateforme
 
 ---

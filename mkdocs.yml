@@ -12,24 +12,26 @@
 nav:
 
     - Accueil: pages/accueil.md
-    
-    - Ingénierie collaborative:
-
-        - De quoi parlons nous ?: pages/presentation.md
-
-        - Katalog - CMS: pages/katalog.md
-        
-        - Konnect - DataScience: https://konnect.konsilion.fr
-        
-        - Konsilion - Hub: pages/konsilion-hub.md
-        
+            
     - Recherche & Développement:
-        
-        - Projets: katalog/projets/home.md
+    
+        - Ingénierie collaborative:
 
-        - Tâches: katalog/taches/home.md
+            - De quoi parlons nous ?: pages/presentation.md
+
+            - Katalog - CMS: pages/katalog.md
+
+            - Konnect - DataScience: https://konnect.konsilion.fr
+
+            - Konsilion - Hub: pages/konsilion-hub.md
         
-        - Ressources: katalog/ressources/home.md
+        - Projets & Ressources:
+        
+            - Projets: katalog/projets/home.md
+
+            - Tâches: katalog/taches/home.md
+
+            - Ressources: katalog/ressources/home.md
         
     - À propos: pages/informations.md
 

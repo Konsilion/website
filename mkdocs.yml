@@ -71,7 +71,6 @@ theme:
       - navigation.tracking
       - navigation.top
       - navigation.tabs
-      - navigation.sections
 
 
 extra:

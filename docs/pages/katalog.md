@@ -4,12 +4,9 @@ hide:
 ---
 
 
-
-
-
 # Katalog - Plateforme de ressources ouvertes
 
-## L'OpenSource au service du partage et de la diffusion des savoirs 🤍
+## L'OpenSource au service du partage et de la diffusion des savoirs 📚
 
 <br>
 
@@ -60,6 +57,8 @@ Alors n'hésitez pas et optez pour Katalog pour une gestion de contenu efficace 
 
     Rendre accessibles les résultats de la recherche par le **partage de nos ressources et savoirs**, voici l’enjeu de la **science ouverte**. L’ouverture est le gage d’une recherche mieux documentée, plus étayée et compilée. Diffusez ou retrouvez tout les savoirs dont vous avez besoin. Accessibles, **les connaissances n’ont plus de limites** et ne tiens qu’à nous d’en faire bon usage. 
     
+    ![technologies-konnect](https://user-images.githubusercontent.com/99027754/209567615-94205447-bbe3-408c-aafb-2baa5d9afbf5.png){: style="margin: 20px; max-width: 200px; width: 100%; float: right; opacity: 0.4;"}
+   
 
 === "Obtenir une plateforme Katalog"
     
@@ -180,6 +179,7 @@ Alors n'hésitez pas et optez pour Katalog pour une gestion de contenu efficace 
         * Copiez-collez les widgets dans n'importe quel site en quelques clics
 
         * Et le tout 100% gratuitement, sans abonnement, sans location de serveur... C'est un logiciel libre !
+
 
 
 

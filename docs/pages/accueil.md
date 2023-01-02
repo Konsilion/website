@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+  - navigation
 ---
 
 
@@ -42,6 +43,5 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
 ![Panneaux de configuration](https://cdn-icons-png.flaticon.com/512/148/148913.png){ .md-button .md-button--secondary onclick="window.open('{{ katalog_site }}/admin','_self');" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid #f1f1f1;"}
 
 
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>

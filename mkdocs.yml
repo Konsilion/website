@@ -19,6 +19,10 @@ nav:
 
         - Katalog - CMS: pages/katalog.md
         
+        - Konnect - DataScience: pages/konnect.md
+        
+        - Konsilion - Hub: pages/konsilion-hub.md
+        
     - Recherche & Développement:
         
         - Projets: katalog/projets/home.md
@@ -64,7 +68,7 @@ theme:
       - navigation.indexes
       - navigation.tracking
       - navigation.top
-
+      - navigation.tabs
 
 
 extra:

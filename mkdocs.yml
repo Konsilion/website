@@ -74,7 +74,7 @@ theme:
 extra:
   generator: false
   katalog_repo: "https://github.com/konsilion/website"
-  katalog_site: "https://konsilion.github.io/website"
+  katalog_site: "http://localhost:8000"
 
 
 

@@ -1,9 +1,7 @@
 {
-  "informations": {
-    "name": "Konsilion",
+  "Konsilion": {
     "descr": "",
     "model": "ressource",
     "cardview": "true"
-  },
-  "external": {}
+  }
 }

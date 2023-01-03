@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+  - navigation
 ---
 
 
@@ -107,16 +108,10 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/katalogs/catalogue-creer','_self');">Lien</button>
         </div>
         <div class="ksln-cards">
-            <h3><b>Modifier un catalogue</b></h3>
+            <h3><b>Paramètrer un catalogue</b></h3>
             Modifier une catalogue Web existant en toute simplicité.
             <hr>
             <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/katalogs/catalogue-modifier','_self');">Lien</button>
-        </div>
-        <div class="ksln-cards">
-            <h3><b>Lier un catalogue</b></h3>
-            Afficher dans votre site des catalogues partenaires externes. Ainsi garder un oeil sur ce qu'il se fait autour de vous.
-            <hr>
-            <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/katalogs/catalogue-lier','_self');">Lien</button>
         </div>
         <div class="ksln-cards">
             <h3><b>Supprimer un catalogue</b></h3>

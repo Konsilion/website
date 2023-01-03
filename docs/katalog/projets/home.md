@@ -10,14 +10,4 @@ hide:
 
 <div id="DatamiMain"></div>
 
-<hr>
-
-<h2>Afficher les catalogues externes</h2>
-
-<label class="ksln-switch"><input id="LoadAll" type="checkbox" onclick="document.getElementById('DatamiExternal').classList.toggle('hide');"><span class="slider round"></span></label>
-
-<div id="DatamiExternal" class="hide" style="padding-left:50px; border-left: 3px solid #EEE;"></div>
-
-!!! tip ""
-    
-    Rafraichir la page si rien ne s'affiche mis à part ce message
+<div id="DatamiExternal" class="hide" style="padding:50px 25px; border-left: 1px solid #DDD;">

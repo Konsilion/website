@@ -85,6 +85,7 @@ extra:
 plugins:
   - search
   - macros
+  - mkdocs-video
 
 markdown_extensions:
   - admonition

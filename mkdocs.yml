@@ -65,6 +65,9 @@ copyright: Une plateforme open-source codé avec ❤ par Konsilion - Licence jur
 
 
 
+extra_css:
+  - https://konsilion.fr/admin/css/colors.css
+
 
 
 # /!\   NE PAS MODIFIER CI-DESSOUS   /!\

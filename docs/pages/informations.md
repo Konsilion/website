@@ -7,6 +7,8 @@ hide:
 
 
 
+
+
 # À propos
 
 === "Notre motivation"
@@ -52,7 +54,9 @@ hide:
 ## **Contact**
 
 * contact@konsilion.fr
+
 * 06 61 26 23 26
+
 * Grenoble, ISÈRE
 
 

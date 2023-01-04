@@ -1,3 +1,13 @@
+theme:
+    name: material
+    custom_dir: overrides
+    features:
+      - navigation.indexes
+      - navigation.tracking
+      - navigation.top
+      - navigation.tabs
+      
+
 extra:
   generator: false
   katalog_repo: "https://github.com/konsilion/website"
@@ -26,5 +36,3 @@ extra_css:
   - https://konsilion.github.io/katalog-setup/css/konsilion-datami.css
   - https://konsilion.github.io/katalog-setup/css/konsilion-mkdocs.css
   - https://konsilion.fr/admin/css/colors.css
-  
-# https://kit.fontawesome.com/f9666d4f53.js

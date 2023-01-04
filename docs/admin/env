@@ -30,6 +30,6 @@ markdown_extensions:
   - pymdownx.snippets
       
 extra_css:
-  - ../css/colors.css
+  - ./docs/admin/css/colors.css
   - https://konsilion.github.io/katalog-setup/css/konsilion-datami.css
   - https://konsilion.github.io/katalog-setup/css/konsilion-mkdocs.css

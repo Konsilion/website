@@ -10,16 +10,19 @@ hide:
 
 
 
+
+
 # Katalog - Plateforme de ressources ouvertes
 
 ## L'OpenSource au service du partage et de la diffusion des savoirs 📚
 
 <br>
 
-=== "Présentation"
+Rendre accessibles les résultats de la recherche par le **partage de nos ressources et savoirs**, voici l’enjeu de la **science ouverte** et de **Katalog**. 
 
-    <p></p>
-    Rendre accessibles les résultats de la recherche par le **partage de nos ressources et savoirs**, voici l’enjeu de la **science ouverte**. L’ouverture est le gage d’une recherche mieux documentée, plus étayée et compilée. Diffusez ou retrouvez tout les savoirs dont vous avez besoin. Accessibles, **les connaissances n’ont plus de limites** et ne tiens qu’à nous d’en faire bon usage. 
+L’ouverture est le gage d’une recherche mieux documentée, plus étayée et compilée. Diffusez ou retrouvez tout les savoirs dont vous avez besoin. Accessibles, **les connaissances n’ont plus de limites** et ne tiens qu’à nous d’en faire bon usage. 
+
+=== "Présentation"
 
     <div class="ksln-grid">
         <div class="ksln-cards"><b>Site Web - En quelques clics</b>
@@ -52,7 +55,7 @@ hide:
 
     Katalog est basé sur la technologie Mkdocs et Datami et est une solution de gestion de contenu flexible et évolutive pour les entreprises et les organisations. 
 
-   * La technologie Mkdocs vous permet de créer du contenu en utilisant un langage de balisage simple et facile à apprendre, le Markdown. 
+    * La technologie Mkdocs vous permet de créer du contenu en utilisant un langage de balisage simple et facile à apprendre, le Markdown. 
 
     * La technologie Datami vous permet de gérer facilement les permissions d'accès et de modification du contenu et de suivre les changements au fil du temps.
 

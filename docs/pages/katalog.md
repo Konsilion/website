@@ -6,14 +6,6 @@ hide:
 
 
 
-
-
-
-
-
-
-
-
 # Katalog - Plateforme de ressources ouvertes
 
 ## L'OpenSource au service du partage et de la diffusion des savoirs 📚
@@ -21,6 +13,10 @@ hide:
 Rendre accessibles les résultats de la recherche par le **partage de nos ressources et savoirs**, voici l’enjeu de la **science ouverte** et de **Katalog**. 
 
 L’ouverture est le gage d’une recherche mieux documentée, plus étayée et compilée. Diffusez ou retrouvez tout les savoirs dont vous avez besoin. Accessibles, **les connaissances n’ont plus de limites** et ne tiens qu’à nous d’en faire bon usage. 
+
+!!! info ""
+
+    Ce site et tout ceux de Konsilion, sont générés avec une plateforme Katalog.
 
 <br>
 

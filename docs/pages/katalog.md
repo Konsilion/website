@@ -4,6 +4,8 @@ hide:
 ---
 
 
+
+
 # Katalog - Plateforme de ressources ouvertes
 
 ## L'OpenSource au service du partage et de la diffusion des savoirs 📚
@@ -75,6 +77,12 @@ Alors n'hésitez pas et optez pour Katalog pour une gestion de contenu efficace 
     </div>
 
     si vous n'avez pas de compte GitHub, vous pouvez en créer un en <a href="https://github.com/signup" target="_blank">suivant ce lien</a>
+
+    ??? tip "Exemple de création"
+
+        ![image de presentation creation repertoire](https://github.com/Konsilion/website/blob/master/media/create-repo.png?raw=true)
+
+        *Attendre quelques minutes après la validation afin de laisser votre plateforme arrivée sur le Web.*
 
     <hr>
     

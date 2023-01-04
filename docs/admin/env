@@ -32,5 +32,4 @@ markdown_extensions:
 extra_css:
   - https://konsilion.github.io/katalog-setup/css/konsilion-datami.css
   - https://konsilion.github.io/katalog-setup/css/konsilion-mkdocs.css
-
-# - admin/css/colors.css
+  - admin/css/colors.css

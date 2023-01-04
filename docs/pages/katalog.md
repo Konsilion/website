@@ -6,6 +6,8 @@ hide:
 
 
 
+
+
 # Katalog - Plateforme de ressources ouvertes
 
 ## L'OpenSource au service du partage et de la diffusion des savoirs 📚
@@ -17,8 +19,6 @@ L’ouverture est le gage d’une recherche mieux documentée, plus étayée et 
 !!! info ""
 
     Ce site et tout ceux de Konsilion, sont générés avec une plateforme Katalog.
-
-<br>
 
 === "Présentation"
 

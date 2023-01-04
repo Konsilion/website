@@ -39,6 +39,8 @@ nav:
 site_name: Konsilion - Low-technologie
 site_author: Nicolas Brémond
 site_description: Développer, proposer et promouvoir la Low-technologie.
+site_url: https://konsilion.fr
+
 
 
 # MENTIONS 
@@ -68,14 +70,10 @@ theme:
       - navigation.top
       - navigation.tabs
 
-
 extra:
   generator: false
   katalog_repo: "https://github.com/konsilion/website"
   katalog_site: "https://konsilion.fr"
-
-
-
 
 
 # AUTRES PARAMETRES - Ne pas modifier
@@ -102,3 +100,5 @@ extra_css:
   - https://konsilion.fr/admin/css/colors.css
   
 # https://kit.fontawesome.com/f9666d4f53.js
+
+INHERIT: ./docs/admin/env

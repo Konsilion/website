@@ -1,5 +1,7 @@
 {% if page.meta.comments %}
    <h2 id="__comments">{{ lang.t("meta.comments") }}</h2>
+   
+
    <script src="https://giscus.app/client.js"
            data-repo="konsilion/website"
            data-repo-id="R_kgDOIrdTlg"
@@ -15,6 +17,8 @@
            crossorigin="anonymous"
            async>
    </script>
+
+
    <!-- Synchronize Giscus theme with palette -->
    <script>
    var giscus = document.querySelector("script[src*=giscus]")

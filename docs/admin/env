@@ -1,1 +1,30 @@
+extra:
+  generator: false
+  katalog_repo: "https://github.com/konsilion/website"
+  katalog_site: "https://konsilion.fr"
 
+
+# AUTRES PARAMETRES - Ne pas modifier
+# --------------------------------------------------------------------------------------------------------------------------------------------------
+plugins:
+  - search
+  - macros
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+      
+extra_css:
+  - https://konsilion.github.io/katalog-setup/css/konsilion-datami.css
+  - https://konsilion.github.io/katalog-setup/css/konsilion-mkdocs.css
+  - https://konsilion.fr/admin/css/colors.css
+  
+# https://kit.fontawesome.com/f9666d4f53.js

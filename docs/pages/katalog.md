@@ -8,29 +8,18 @@ hide:
 
 
 
+
+
 # Katalog - Plateforme de ressources ouvertes
 
 ## L'OpenSource au service du partage et de la diffusion des savoirs 📚
 
 <br>
 
-Avec Katalog, vous pouvez facilement gérer et mettre à jour du contenu en ligne, comme des articles de blog, des pages et des catalogues de ressources, sans avoir à connaître aucun langage de programmation. 
-
-Katalog est basé sur la technologie Mkdocs et Datami et est une solution de gestion de contenu flexible et évolutive pour les entreprises et les organisations. 
-
-* La technologie Mkdocs vous permet de créer du contenu en utilisant un langage de balisage simple et facile à apprendre, le Markdown. 
-
-* La technologie Datami vous permet de gérer facilement les permissions d'accès et de modification du contenu et de suivre les changements au fil du temps.
-
-* En reliant vos catalogues avec ceux de vos proches et partenaires, vous pouvez compléter vos ressources et étendre vos connaissances en évitant de répéter l'existant.
-
-En tant qu'application open source, Katalog est accessible et modifiable par tous, ce qui signifie que vous pouvez personnaliser et adapter votre plateforme Katalog à vos besoins spécifiques. Avec des communautés actives de développeurs et d'utilisateurs, vous pouvez être sûr de bénéficier de mises à jour régulières et de soutien continu. 
-
-Alors n'hésitez pas et optez pour Katalog pour une gestion de contenu efficace et évolutive.
-
-<br>
-
 === "Présentation"
+
+    <p></p>
+    Rendre accessibles les résultats de la recherche par le **partage de nos ressources et savoirs**, voici l’enjeu de la **science ouverte**. L’ouverture est le gage d’une recherche mieux documentée, plus étayée et compilée. Diffusez ou retrouvez tout les savoirs dont vous avez besoin. Accessibles, **les connaissances n’ont plus de limites** et ne tiens qu’à nous d’en faire bon usage. 
 
     <div class="ksln-grid">
         <div class="ksln-cards"><b>Site Web - En quelques clics</b>
@@ -59,10 +48,22 @@ Alors n'hésitez pas et optez pour Katalog pour une gestion de contenu efficace 
         </div>   
     </div>
 
-    Rendre accessibles les résultats de la recherche par le **partage de nos ressources et savoirs**, voici l’enjeu de la **science ouverte**. L’ouverture est le gage d’une recherche mieux documentée, plus étayée et compilée. Diffusez ou retrouvez tout les savoirs dont vous avez besoin. Accessibles, **les connaissances n’ont plus de limites** et ne tiens qu’à nous d’en faire bon usage. 
+    Avec Katalog, vous pouvez facilement gérer et mettre à jour du contenu en ligne, comme des articles de blog, des pages et des catalogues de ressources, sans avoir à connaître aucun langage de programmation. 
+
+    Katalog est basé sur la technologie Mkdocs et Datami et est une solution de gestion de contenu flexible et évolutive pour les entreprises et les organisations. 
+
+   * La technologie Mkdocs vous permet de créer du contenu en utilisant un langage de balisage simple et facile à apprendre, le Markdown. 
+
+    * La technologie Datami vous permet de gérer facilement les permissions d'accès et de modification du contenu et de suivre les changements au fil du temps.
+
+    * En reliant vos catalogues avec ceux de vos proches et partenaires, vous pouvez compléter vos ressources et étendre vos connaissances en évitant de répéter l'existant.
+
+    En tant qu'application open source, Katalog est accessible et modifiable par tous, ce qui signifie que vous pouvez personnaliser et adapter votre plateforme Katalog à vos besoins spécifiques. Avec des communautés actives de développeurs et d'utilisateurs, vous pouvez être sûr de bénéficier de mises à jour régulières et de soutien continu. 
+
+    Alors n'hésitez pas et optez pour Katalog pour une gestion de contenu efficace et évolutive.   
     
     ![technologies-konnect](https://user-images.githubusercontent.com/99027754/209567615-94205447-bbe3-408c-aafb-2baa5d9afbf5.png){: style="margin: 20px; max-width: 200px; width: 100%; float: right; opacity: 0.4;"}
-   
+
 
 === "Obtenir une plateforme Katalog"
     

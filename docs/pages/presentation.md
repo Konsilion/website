@@ -4,11 +4,9 @@ hide:
 ---
 
 
+# Développons ensemble les technologies et savoirs de demain 
 
-
-# Pour une **Recherche & Développement** libre et collaborative
-
-## Développons ensemble les technologies et savoirs de demain 🤍
+## Pour une **Recherche & Développement** libre et collaborative 🤍
 
 <br>
 
@@ -185,6 +183,13 @@ hide:
             Transformez les carnets de notes Python en applications web grâce au framework open-source Mercury. Cachez le code et ajoutez des widgets interactifs. Les utilisateurs non techniques peuvent modifier les widgets et exécuter le notebook avec de nouveaux paramètres.
             <hr>
             <a class="md-button md-button--primary" href="https://mljar.com/mercury/" target="_blank">Lien</a>
+        </div>
+        <div class="ksln-cards" style="margin: 0px auto auto auto;">
+            <h3><img src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
+            <b>R - project</b></h3>
+            R est un logiciel et langage pour le calcul statistique et les graphiques. Il se compile et fonctionne sur une grande variété de plateformes UNIX, Windows et MacOS.
+            <hr>
+            <a class="md-button md-button--primary" href="https://www.r-project.org/" target="_blank">Lien</a>
         </div>
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FreeCAD016-logo.svg/langfr-70px-FreeCAD016-logo.svg.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">

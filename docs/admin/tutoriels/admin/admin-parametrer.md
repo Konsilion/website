@@ -6,42 +6,25 @@ hide:
 
 ![Retour configuration](https://raw.githubusercontent.com/Konsilion/website/master/media/fleche-retour.png){ .md-button .md-button--primary onclick="window.history.back();" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
 
-# Paramètrage de la plateforme
-
----
+# Personnaliser votre plateforme Katalog
 
 <div class="ksln-grid">
     <div class="ksln-cards">
-        <h3><b>Tour du propriétaire</b></h3>
-        En moins de 2 minutes, faite le tour des grandes fonctionnalités et usages de la plateforme.
-        <hr>
-        <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/admin/parametrage/premiers-pas','_self');">Lien</button>
-    </div>
-    <div class="ksln-cards">
-        <h3><b>Personnaliser le site</b></h3>
+        <h3><b>Paramètres - Mkdocs</b></h3>
         Changer la couleur, les logos, le nom ou encore l'architecture de votre site.
         <hr>
-        <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/admin/parametrage/personnalisation-site','_self');">Lien</button>
+        <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/parametrage/personnalisation-site">Lien</a>
     </div>
     <div class="ksln-cards">
-        <h3><b>Activer la contribution</b></h3>
+        <h3><b>Activer la contribution - Datami</b></h3>
         Permettre une contribution libre et sans limite de votre contenu (modération possible).
         <hr>
-        <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/admin/parametrage/activer-contribution','_self');">Lien</button>
-    </div>
-    <div class="ksln-cards">
-        <h3><b>(Re)-Initialiser votre plateforme</b></h3>
-        Enregistrer trois informations essentielles au bon fonctionnement de votre plateforme (fichier konsilion.json).
-        <hr>
-        <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/admin/parametrage/initialiser-plateforme','_self');">Lien</button>
-    </div>
-    <div class="ksln-cards">
-        <h3><b>FAQ</b></h3>
-        Quelques autres questions auquelles nous apportons des réponses.
-        <hr>
-        <button class="md-button md-button--secondary" onclick="window.open('{{ katalog_site }}/admin/tutoriels/admin/parametrage/faq','_self');">Lien</button>
+        <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/parametrage/activer-contribution">Lien</a>
     </div>
 </div>
 
+---
+
+Les paramètres présents ici ne sont pas à modifier tout les quatre matins. Ils définissent votre identité visuelle et l'experience utilisateur. Imaginé un magasin ou les articles changent de place et que vous cherchez, cherchez, ... C'est un peu pareil si vous venez à modifier trop souvent ces informations.
 
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script> 

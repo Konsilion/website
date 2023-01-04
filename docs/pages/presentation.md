@@ -15,7 +15,7 @@ hide:
 === "Pourquoi ?"
 
 
-    Pour une **collaboration ingéniseuse** sans limite, Konsilion propose une suite d'outils permettant la production, la diffusion et la collaboration autour des savoirs.
+    Pour une **collaboration ingénieuse** sans limite, Konsilion propose une suite d'outils permettant la production, la diffusion et la collaboration autour des savoirs.
     
     Voici quatres grands principes nécessaires à la réalisation de projets collaboratifs.
 
@@ -47,6 +47,11 @@ hide:
     Elle offre également une perspective plus large et diverse sur les problèmes à résoudre et donne accès à de nouvelles opportunités et visions de développement. conduisant ainsi à des solutions plus innovantes et durables, tout en renforçant les liens entre les différentes parties prenantes. 
 
     Il existe de nombreux modèles de R&D collaborative, allant des partenariats public-privé aux consortium de recherche en passant par les projets open source, et la forme la plus adaptée dépendra des objectifs et des ressources de chaque projet de R&D collaborative.
+
+    ### Extrait vidéo - Restitution Glocal Low-tech
+
+    [Présentation - Ingénierie collaborative](https://youtu.be/THa4EnlgLKc?t=9941){.md-button .md-button--primary target="_blank"}
+
 
 
 === "Katalog - CMS"
@@ -190,13 +195,7 @@ hide:
         </div>
     </div>
    
-### Extrait vidéo - Restitution Glocal Low-tech
 
-![type:video](https://youtu.be/THa4EnlgLKc?t=9941)   
-
-![type:video](https://www.youtube.com/embed/LXb3EKWsInQ)    
-    
-    
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>

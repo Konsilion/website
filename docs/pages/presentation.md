@@ -191,6 +191,11 @@ hide:
     </div>
    
 ### Extrait vidéo - Restitution Glocal Low-tech
+
+![type:video](https://youtu.be/THa4EnlgLKc?t=9941)   
+
+![type:video](https://www.youtube.com/embed/LXb3EKWsInQ)    
+    
     
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script>

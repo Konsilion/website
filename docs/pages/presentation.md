@@ -84,11 +84,11 @@ hide:
     Avec **Konnect**, équipez-vous dès à présent d’outils permettant la création, la mise à disposition de vos ressources et projets de (Data) Science.
 
     <div class="ksln-grid">
+        <div class="ksln-cards"><b>Penser pour la collaboration</b></div>
         <div class="ksln-cards"><b>Modélisations & Data</b></div>
         <div class="ksln-cards"><b>Prototypes & Laboratoires</b></div>
         <div class="ksln-cards"><b>Plans & Fabrication</b></div>
         <div class="ksln-cards"><b>Rapports & Documentation</b></div>
-        <div class="ksln-cards"><b>Supports techniques</b></div>
         <div class="ksln-cards"><b>Open source - 100% Gratuit</b></div>   
     </div>
 
@@ -107,29 +107,6 @@ hide:
     
     ![technologies-konnect](https://user-images.githubusercontent.com/99027754/206035683-e9b5f5bf-7495-45b6-930f-e198c37cd40b.png){: style="margin: 20px; max-width: 600px; width: 100%; float: right; opacity: 0.4;"}
         
-
-       
-        
-        
-
-=== "Konsilion - Hub"
-
-    <br>
-    Avec le **Hub**, accédez à des outils vous permettant de travailler ensemble sur le réseau sans avoir à installer quoi que ce soit.
-
-    <div class="ksln-grid">
-        <div class="ksln-cards"><b>Un compte unique</b></div>
-        <div class="ksln-cards"><b>Services essentiels</b></div>
-        <div class="ksln-cards"><b>Diffusion simplifiée</b></div>
-        <div class="ksln-cards"><b>Supports techniques</b></div>
-        <div class="ksln-cards"><b>Pas de serveur à gérer</b></div>
-        <div class="ksln-cards"><b>Open source - 100% Gratuit</b></div>   
-    </div>
-
-    [En savoir plus sur Konsilion - Hub](../konsilion-hub){ .md-button .md-button--primary style="float: right;"}
-    <hr><br>
-   
-
 
 === "Logiciels supports"
 
@@ -171,7 +148,7 @@ hide:
         </div>
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2zfWDl3CQAww-IWPScALfQ3-J5tqSuPw30fxTGe_gV0GJoxkBgP1a_ELUQGzc3Y6xuS4&usqp=CAU" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-            <b>MkDocs</b></h3>
+            <b>MkDocs - Material</b></h3>
             Écrivez votre documentation en Markdown et créez un site statique professionnel en minutes – adapté et personnalisable pour tous les appareils.
             <hr>
             <a class="md-button md-button--primary" href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Lien</a>
@@ -189,13 +166,6 @@ hide:
             JupyterLab est un environnement de développement interactif. Son interface permet aux utilisateurs de configurer et d'organiser des flux de travail pour de la science des données, du calcul scientifique, du journalisme informatique, etc.
             <hr>
             <a class="md-button md-button--primary" href="https://jupyter.org/" target="_blank">Lien</a>
-        </div>
-        <div class="ksln-cards" style="margin: 0px auto auto auto;">
-            <h3><img src="https://jupyter.org/assets/homepage/hublogo.svg" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-            <b>Jupyter Hub</b></h3>
-            C'est comme Jupyter Lab mais accèssible sur un serveur distant. Pas d'installation, mais nécessite une inscription. Cette solution est idéale pour la mise à disposition de carnets Jupyter à des néofites. Pour travailler sur vos ressources nous recommandons Jupyter Lab en local (voir Konnect).
-            <hr>
-            <a class="md-button md-button--primary" href="https://jupyter.org/hub" target="_blank">Lien</a>
         </div>
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://www.spyder-ide.org/static/images/spyder_logo.png?h=7f1693dc" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
@@ -218,17 +188,10 @@ hide:
             <hr>
             <a class="md-button md-button--primary" href="https://www.freecadweb.org" target="_blank">Lien</a>
         </div>
-        <div class="ksln-cards" style="margin: 0px auto auto auto;">
-            <h3><img src="https://framalibre.org/sites/default/files/leslogos/HedgeDoc-Logo%201.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
-            <b>Hedge Doc</b></h3>
-            HedgeDoc est un éditeur markdown collaboratif et open-source. Utilisez-le pour collaborer facilement sur des notes, des graphiques et même des présentations en temps réel. Tout ce que vous avez à faire est de partager le lien de votre note.
-            <hr>
-            <a class="md-button md-button--primary" href="https://hedgedoc.org/" target="_blank">Lien</a>
-        </div>
     </div>
+   
+### Extrait vidéo - Restitution Glocal Low-tech
     
-    
-
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>

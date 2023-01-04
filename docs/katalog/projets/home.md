@@ -1,4 +1,5 @@
 ---
+title: Catalogue Projets
 hide:
     - toc
 ---

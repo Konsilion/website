@@ -10,7 +10,7 @@ theme:
 extra:
   generator: false
   katalog_repo: "https://github.com/konsilion/website"
-  katalog_site: "http://localhost:8000"
+  katalog_site: "https://konsilion.fr"
 
 
 plugins:

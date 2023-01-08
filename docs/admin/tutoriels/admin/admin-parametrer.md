@@ -1,12 +1,14 @@
 ---
 hide:
-   - toc
-   - navigation
+  - toc
+  - navigation
 ---
+
+
 
 ![Retour configuration](https://raw.githubusercontent.com/Konsilion/website/master/media/fleche-retour.png){ .md-button .md-button--primary onclick="window.history.back();" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
 
-# Personnaliser votre plateforme Katalog
+# Paramétrer votre plateforme Katalog
 
 <div class="ksln-grid">
     <div class="ksln-cards">

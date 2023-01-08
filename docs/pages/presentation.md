@@ -6,6 +6,8 @@ hide:
 
 
 
+
+
 # Développons ensemble les technologies et savoirs de demain 
 
 ## Pour une **Recherche & Développement** libre et collaborative 🤍
@@ -68,11 +70,11 @@ hide:
 
     Katalog est ce que l’on appelle un *système de gestion de contenu*, conçu pour les utilisateurs qui cherchent à créer et à gérer facilement leur propre site web sans avoir besoin de connaissances techniques approfondies.
 
-    Katalog vous fournit également des espaces de stockage en ligne sécurisé pour stocker, synchroniser et partager vos fichiers (pdf, texte, images, codes, tableurs, etc.). 
+    Katalog vous fournit également des espaces de stockages en ligne sécurisés pour stocker, synchroniser et partager vos fichiers (pdf, texte, images, codes, tableurs, etc.). 
 
     Ayez également la possibilité de collaborer et de travailler ensemble sur des fichiers grâce à des outils de commentaire, de modification et de suivi des changements. 
 
-    Disponible gratuitement, avec des options de stockage supplémentaire, cette application open source est accessible et modifiable par tous, ce qui signifie que les développeurs et les utilisateurs peuvent contribuer au code source et l'adapter à leurs besoins.
+    Disponible gratuitement, avec des options de stockage supplémentaire, cette application open source est accessible et modifiable par tous, ce qui signifie que les développeurs et les utilisateurs peuvent contribuer au <a href="https://github.com/Konsilion/katalog-template" target="_blank" >code source</a> et l'adapter à leurs besoins.
 
     <br>
 
@@ -95,13 +97,13 @@ hide:
         <div class="ksln-cards"><b>Open source - 100% Gratuit</b></div>   
     </div>
 
-    Konnect est ce que l’on appelle un *orchestrateur de logiciels*, conçu pour les Data Scientist qui souhaite acquérir un set de base et évolutif pour la DataScience. 
+    Konnect est ce que l’on appelle un *orchestrateur de logiciels*, conçu pour les Data Scientist qui souhaite acquérir un set de base et évolutif. 
 
     Konnect vous fournit des logiciels tels que Git ou encore Conda, qui sont des incontournables pour une DataScience libre et collaborative. 
 
-    Ayez également la possibilité de créer des applications Web, facilement et rapidement, avec Mercury. Ces applications sont créées automatiquement à partir de vos Jupyter Notebook, et permet à de néofites de s'emparer de vos études, de leurs paramètres et des divers résultats. 
+    Ayez également la possibilité de créer des applications Web, facilement et rapidement, avec Mercury. Ces applications sont créées automatiquement à partir de vos Jupyter Notebook, et permet à de néophytes de s'emparer de vos études, de leurs paramètres et des divers résultats. 
 
-    Disponible gratuitement, cette application open source est accessible et modifiable par tous, ce qui signifie que les développeurs et les utilisateurs peuvent contribuer au code source et l'adapter à leurs besoins.
+    Disponible gratuitement, cette application open source est accessible et modifiable par tous, ce qui signifie que les développeurs et les utilisateurs peuvent contribuer au <a href="https://github.com/Konsilion/Konnect/" target="_blank">code source</a> et l'adapter à leurs besoins.
 
     <br>
 
@@ -131,7 +133,7 @@ hide:
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://git-scm.com/images/logo@2x.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
             <b>Git</b></h3>
-            Git est un système de contrôle de version distribué, gratuit et open source, conçu pour traiter tous les projets, des plus petits aux plus grands, avec rapidité et efficacité.
+            Git est un système de contrôle de version, gratuit et open source, conçu pour traiter tous les projets, des plus petits aux plus grands, avec rapidité et efficacité.
             <hr>
             <a class="md-button md-button--primary" href="https://git-scm.com/" target="_blank">Lien</a>
         </div>
@@ -145,21 +147,21 @@ hide:
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
             <b>Gitlab</b></h3>
-            De la planification à la production, GitLab rassemble les équipes, leurs ressources et leurs projets d'aider à la collaboration des développeurs.
+            De la planification à la production, GitLab rassemble les équipes, leurs ressources et leurs projets.
             <hr>
             <a class="md-button md-button--primary" href="https://about.gitlab.com/" target="_blank">Lien</a>
         </div>
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2zfWDl3CQAww-IWPScALfQ3-J5tqSuPw30fxTGe_gV0GJoxkBgP1a_ELUQGzc3Y6xuS4&usqp=CAU" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
             <b>MkDocs - Material</b></h3>
-            Écrivez votre documentation en Markdown et créez un site statique professionnel en minutes – adapté et personnalisable pour tous les appareils.
+            Écrivez votre documentation en Markdown et créez un site statique professionnel en quelques minutes – personnalisable pour tous les appareils.
             <hr>
             <a class="md-button md-button--primary" href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Lien</a>
         </div>
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://jupyterbook.org/en/stable/_images/logo-square.svg" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
             <b>Jupyter Book</b></h3>
-            Jupyter Book vous facilite la création et la publication de votre documentation scientifique. Il utilise le langage MyST Markdown dans les documents Markdown et notebook. Cela permet aux utilisateurs d'écrire des documents riches et de qualité.
+            Jupyter Book vous facilite la création et la publication de votre documentation scientifique. Il utilise le langage MyST Markdown. Cela permet aux utilisateurs d'écrire des documents riches et de qualité.
             <hr>
             <a class="md-button md-button--primary" href="https://jupyterbook.org" target="_blank">Lien</a>
         </div>
@@ -187,14 +189,14 @@ hide:
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
             <b>R - project</b></h3>
-            R est un logiciel et langage pour le calcul statistique et les graphiques. Il se compile et fonctionne sur une grande variété de plateformes UNIX, Windows et MacOS.
+            R est un logiciel et langage pour le calcul statistique et la mise sous forme graphique. Il se compile et fonctionne sur une grande variété de plateformes UNIX, Windows et MacOS.
             <hr>
             <a class="md-button md-button--primary" href="https://www.r-project.org/" target="_blank">Lien</a>
         </div>
         <div class="ksln-cards" style="margin: 0px auto auto auto;">
             <h3><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FreeCAD016-logo.svg/langfr-70px-FreeCAD016-logo.svg.png" style="margin: 5px; max-width: 75px; width: 100%; float: right;">
             <b>FreeCAD</b></h3>
-            FreeCAD est un modeleur 3D paramétrique open-source conçu principalement pour concevoir des objets réels de toute taille. La modélisation paramétrique vous permet de modifier facilement votre design en revenant dans l'historique de votre modèle et en modifiant ses paramètres.
+            FreeCAD est un modeleur 3D paramétrique open-source conçu principalement pour concevoir des objets réels de toutes tailles. La modélisation paramétrique vous permet de modifier facilement votre design en revenant dans l'historique de votre modèle et en modifiant ses paramètres.
             <hr>
             <a class="md-button md-button--primary" href="https://www.freecadweb.org" target="_blank">Lien</a>
         </div>

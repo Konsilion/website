@@ -4,6 +4,8 @@ hide:
 ---
 
 
+
+
 # Développons ensemble les technologies et savoirs de demain 
 
 ## Pour une **Recherche & Développement** libre et collaborative 🤍
@@ -20,31 +22,29 @@ hide:
     <div class="ksln-grid">
         <div class="ksln-cards"><b>Open community</b>
             <hr>
-            La communauté est du fait de la notion de collaboration, un pilier centrale. Incontournable, elle apporte soutient et intéligence collective, que nous pensons favorite face à la course à l'Inteligence Artificielle.
+            La communauté est un pilier centrale. Incontournable, elle apporte soutient et intelligence collective, que nous pensons favorite face à la course à l'Intelligence Artificielle.
         </div>
         <div class="ksln-cards"><b>Open data</b>
             <hr>
-            Les donnnées en libre accès sont essentielless pour alimenter les modèlisations, analyser leur pertinence et valider les hypothèses.
+            Les données en libre accès sont essentielles pour alimenter les modélisations, analyser leur pertinence et valider les hypothèses.
         </div>
         <div class="ksln-cards"><b>Open model</b>
             <hr>
-            Les modèles numériques sont développés afin d'anticiper une technique, un comportement et ses effets dans le "vrai monde". Ainsi déployés, les modèles permettent de corriger les écarts en comparant avec les mesures et résultats de prototypes.
+            Les modèles numériques sont développés afin d'anticiper une technique, un comportement et ses effets dans le "vrai monde". Les modèles permettent de corriger les écarts en les comparant aux mesures.
         </div>
         <div class="ksln-cards"><b>Open doc</b>
             <hr>
-            La documentation permet de traverser les âges et de pérenniser un projet. Utile à la médiation et pouvant être utilisée pour la formation, une documentation de qualité est essentielle pour qu'un projet soit constructif et transmissible.
+            La documentation permet de traverser les âges et de pérenniser un savoir. Utile à la médiation et pouvant être utilisée pour la formation, une documentation de qualité est essentielle pour qu'un projet soit constructif et transmissible.
         </div>
     </div>
 
     ---
 
-    La recherche et développement collaborative (R&D collaborative) est une méthode  qui implique la participation de plusieurs parties prenantes, comme des entreprises, des universités, des gouvernements et des organisations, sur un aspect ou un projet de recherche et de développement conjoint. 
+    La recherche et développement collaborative (R&D collaborative) est une méthode qui implique la participation de plusieurs parties prenantes, comme des entreprises, des universités, des gouvernements et des organisations, sur un aspect ou un projet de recherche et de développement conjoint. 
 
-    Le but de la R&D collaborative est de partager les connaissances, les ressources et les compétences de chaque partie pour atteindre un objectif commun de développement de nouvelles technologies, de produits ou de services. La R&D collaborative peut être bénéfique par rapport à la recherche et développement menée indépendamment par une seule entreprise ou organisation, car elle permet d'accélérer le développement de technologies ou produits en partageant les connaissances et les ressources de chaque partie. 
+    Le but de la R&D collaborative est de partager les connaissances, les ressources et les compétences de chaque partie afin d'atteindre un objectif commun. La R&D collaborative est bénéfique car elle permet d'accélérer le développement de technologies ou produits en partageant les connaissances et les ressources de chaque partie.
 
-    Elle offre également une perspective plus large et diverse sur les problèmes à résoudre et donne accès à de nouvelles opportunités et visions de développement. conduisant ainsi à des solutions plus innovantes et durables, tout en renforçant les liens entre les différentes parties prenantes. 
-
-    Il existe de nombreux modèles de R&D collaborative, allant des partenariats public-privé aux consortium de recherche en passant par les projets open source, et la forme la plus adaptée dépendra des objectifs et des ressources de chaque projet de R&D collaborative.
+    Elle offre également une perspective plus large et diverse sur les problèmes à résoudre et donne accès à de nouvelles opportunités et visions de développement, conduisant ainsi à des solutions plus innovantes et durables.
 
     ### Extrait vidéo - Restitution Glocal Low-tech
 

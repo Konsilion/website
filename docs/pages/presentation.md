@@ -1,12 +1,11 @@
 ---
+title: Ingénierie collaborative
+add: true
+edit: true
+comments: true
 hide:
-  - toc
+    -toc
 ---
-
-
-
-
-
 
 # Développons ensemble les technologies et savoirs de demain 
 
@@ -24,7 +23,7 @@ hide:
     <div class="ksln-grid">
         <div class="ksln-cards"><b>Open community</b>
             <hr>
-            La communauté est un pilier centrale. Incontournable, elle apporte soutient et intelligence collective, que nous pensons favorite face à la course à l'Intelligence Artificielle.
+            La communauté est un pilier centrale. Incontournable, elle apporte soutien et intelligence collective, que nous pensons favorite face à la course à l'Intelligence Artificielle.
         </div>
         <div class="ksln-cards"><b>Open data</b>
             <hr>
@@ -201,8 +200,5 @@ hide:
             <a class="md-button md-button--primary" href="https://www.freecadweb.org" target="_blank">Lien</a>
         </div>
     </div>
-   
-
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script>
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>
+    
+---

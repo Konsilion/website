@@ -1,14 +1,12 @@
 ---
+title: Katalog
+comments: true
+add: true
+edit: true
+slider: true
 hide:
   - toc
 ---
-
-
-
-
-
-
-
 
 # Katalog - Plateforme de ressources ouvertes
 
@@ -198,11 +196,7 @@ L’ouverture est le gage d’une recherche mieux documentée, plus étayée et 
 
 
 
-
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script>
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>
-
+---
 
 
 <script>

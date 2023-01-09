@@ -24,7 +24,7 @@ hide:
 
     1. Installer l'application Giscus en [suivant ce lien](https://github.com/apps/giscus){target="_blank"}
 
-    2. Paramètrer votre script giscus en [suivant ce lien](https://github.com/apps/giscus){target="_blank"}
+    2. Paramètrer votre script giscus en [suivant ce lien](https://giscus.app/fr){target="_blank"}
 
         * Dans **Mappage Pages ↔️ Discussions** > sélectionner : "Le titre de la discussion contient l'URL de la page"
 

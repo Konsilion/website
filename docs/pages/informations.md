@@ -1,12 +1,12 @@
 ---
+title: Qui sommes-nous ?
+add: true
+modify: false
+slider: false
 hide:
   - toc
   - navigation
 ---
-
-
-
-
 
 
 # À propos
@@ -58,10 +58,3 @@ hide:
 * 06 61 26 23 26
 
 * Grenoble, ISÈRE
-
-
-
----
-
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script>
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>

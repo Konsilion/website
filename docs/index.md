@@ -7,11 +7,17 @@ hide:
 
 ![logo-accueil](https://user-images.githubusercontent.com/99027754/209585047-f1e419f1-8f55-43d2-bfc6-6d51aec13ecf.png){style="max-width: 100%; width: 450px"}
 
----
-
 # Développer, proposer et promouvoir la Low-technologie.
 
 Nous proposons des outils et méthodes utiles au développement, à la fabrication et à l’appropriation de la Low-technologie.
+
+<br><br>
+
+[On continue ?](./pages/presentation/){ .md-button .md-button--primary style="float: left; margin-bottom: 75px;"}
+
+[Nous contacter](./pages/informations/#contact){ .md-button .md-button--secondary style="float: right; margin-left: 10px; margin-bottom:15px;"}
+
+<br><br><br>
 
 ??? tip "Qu'est ce que la Low-tech ?"
 
@@ -27,28 +33,18 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
     
     Wikipédia 10-2022 – *Nous vous présentons la définition de Wikipédia car elle issue d’une réflexion collaborative, amenée à évoluer.*
 
-<br>
 
-[On continue ?](./pages/presentation/){ .md-button .md-button--primary style="float: left; margin-bottom: 75px;"}
-
-[Nous contacter](./pages/informations/#contact){ .md-button .md-button--secondary style="float: right; margin-left: 10px; margin-bottom:15px;"}
-
-<br><br><br><br><br><br>
-
----
-
-![Panneaux de configuration](https://cdn-icons-png.flaticon.com/512/148/148913.png){ .md-button .md-button--secondary onclick="window.open('{{ katalog_site }}/admin','_self');" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid #f1f1f1;"}
-
+<br><br><br><br><br><br><br><br>
 
 <style>
    body{ 
-       background-image: url(http://www.atl-chaudronnerie.fr/img/slider/374-5-pales-eolienne-w.jpg);
+       background-image: url(https://img.freepik.com/free-vector/illustration-human-avatar-with-environment_53876-17627.jpg?w=1380&t=st=1674426096~exp=1674426696~hmac=2a6505eb181a5ab25706e9bbe73c2701cd336aa978023673872f7c15ff97cd55);
         background-repeat: no-repeat;
         background-position: center;background-size: cover; 
     }
     .md-container {
         background: rgb(255,255,255);
-        background: linear-gradient(180deg, rgba(255,255,255,0.75) 0%, rgba(255,255,255,1) 60%, rgba(255,255,255,1) 100%);
+        background: linear-gradient(180deg, rgba(255,255,255,0.9) 0%, rgba(255,255,255,0.9) 60%, rgba(255,255,255,0.7) 100%);
     }
     .md-content{
         margin: 50px auto;

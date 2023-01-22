@@ -10,9 +10,9 @@ hide:
     if (mdp != AdminMdp){ alert("Erreur"); window.history.back() }
 </script>
 
-![Repertoire GitHub](https://raw.githubusercontent.com/Konsilion/website/master/media/logo-github.png){ .md-button .md-button--primary href="{{ katalog_repo }}" target="_blank" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
+![Repertoire GitHub](https://raw.githubusercontent.com/Konsilion/website/master/media/logo-github.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
 
-![Accueil du site](https://raw.githubusercontent.com/Konsilion/website/master/media/fleche-retour.png){ .md-button .md-button--primary href="{{ katalog_site }}" target="_blank"  style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
+![Accueil du site](https://raw.githubusercontent.com/Konsilion/website/master/media/fleche-retour.png){ .md-button .md-button--primary  onclick="window.open('{{ katalog_site }}','_self');"  style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
 
 # Panneau de configuration
 
@@ -30,7 +30,7 @@ hide:
             <h3><b>Gérer les contributions</b></h3>
             Accedez à la liste des contributions en attente faites sur votre site.
             <hr>
-            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-gerer">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/pulls" target="_blank">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Gérer les droits d'administration</b></h3>

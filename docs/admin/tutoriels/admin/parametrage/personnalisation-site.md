@@ -10,23 +10,14 @@ hide:
 # Comment personnaliser votre plateforme ?
 
 
-## Modifier - Couleurs, titre ou encore logo
+### Bienvenue sur MkDocs ! 
 
-Bienvenue sur MkDocs ! Ce logiciel est à la base de votre plateforme Katalog. 
-
-
-[Votre fichier mkdocs.yml](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#custom-colors){.md-button .md-button--primary style="float: right" target="_blank"}
-
+Ce logiciel est à la base de votre plateforme Katalog. 
 
 C'est un générateur de site Web, dit statique, qui est extrement populaire (près de 28 000 utilisateurs sur GitHub). Open source, il bénficie d'une communauté active et d'un support bienveillant. Les paramètres de cette application sont tous présent dans un fichier mkdocs.yml et présentés dans la documentation.
 
+<br>
 
+[Documentation officielle](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#custom-colors){.md-button .md-button--primary style="float: left" target="_blank"}
 
-### Tout ce qu'il faut savoir
-
-
-[Documentation officielle](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#custom-colors){.md-button target="_blank"}
-
-
-
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script> 
+[Votre fichier mkdocs.yml]({{ katalog_repo }}/edit/master/mkdocs.yml){.md-button style="float: right" target="_blank"}

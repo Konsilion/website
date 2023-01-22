@@ -4,8 +4,6 @@ hide:
   - navigation
 ---
 
-
-
 ![Retour configuration](https://raw.githubusercontent.com/Konsilion/website/master/media/fleche-retour.png){ .md-button .md-button--primary onclick="window.history.back();" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
 
 # Paramétrer votre plateforme Katalog
@@ -24,9 +22,3 @@ hide:
         <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/parametrage/activer-contribution">Lien</a>
     </div>
 </div>
-
----
-
-Les paramètres présents ici ne sont pas à modifier tout les quatre matins. Ils définissent votre identité visuelle et l'experience utilisateur. Imaginé un magasin ou les articles changent de place et que vous cherchez, cherchez, ... C'est un peu pareil si vous venez à modifier trop souvent ces informations.
-
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script> 

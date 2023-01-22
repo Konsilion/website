@@ -2,7 +2,7 @@
 title: Ingénierie collaborative
 add: true
 edit: true
-comments: true
+comments: false
 hide:
     -toc
 ---
@@ -48,8 +48,9 @@ hide:
     Elle offre également une perspective plus large et diverse sur les problèmes à résoudre et donne accès à de nouvelles opportunités et visions de développement, conduisant ainsi à des solutions plus innovantes et durables.
 
     ### Extrait vidéo - Restitution Glocal Low-tech
+    
+    <iframe width="600" height="315" src="https://youtube.com/embed/THa4EnlgLKc?t=9941" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-    [Présentation - Ingénierie collaborative](https://youtu.be/THa4EnlgLKc?t=9941){.md-button .md-button--primary target="_blank"}
 
 
 

@@ -1,35 +1,63 @@
 ---
+title: Admin
 hide:
   - toc
   - navigation
 ---
 
+<script defer>
+    var mdp = prompt("Quels est votre Mot de Passe");
+    if (mdp != AdminMdp){ alert("Erreur"); window.history.back() }
+</script>
 
+![Repertoire GitHub](https://raw.githubusercontent.com/Konsilion/website/master/media/logo-github.png){ .md-button .md-button--primary href="{{ katalog_repo }}" target="_blank" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
 
-
-![Repertoire GitHub](https://raw.githubusercontent.com/Konsilion/website/master/media/logo-github.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
-
-![Accueil du site](https://raw.githubusercontent.com/Konsilion/website/master/media/fleche-retour.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_site }}','_self');" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
+![Accueil du site](https://raw.githubusercontent.com/Konsilion/website/master/media/fleche-retour.png){ .md-button .md-button--primary href="{{ katalog_site }}" target="_blank"  style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
 
 # Panneau de configuration
 
----
 
-Le **panneau de configuration** vous permet de gérer et de configurer votre site. Utiliser le panneau de configuration pour diverses tâches telles que la création de pages web, la gestion  du contenu existant, accéder aux espaces de stockages, etc. 
+=== "Administration"
+
+    <div class="ksln-grid">
+        <div class="ksln-cards">
+            <h3><b>Paramétrer votre plateforme</b></h3>
+            Vos premiers pas ici ? Appropriez vous votre site Web en modifiant les paramètres généraux.
+            <hr>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-parametrer">Lien</a>
+        </div>
+        <div class="ksln-cards">
+            <h3><b>Gérer les contributions</b></h3>
+            Accedez à la liste des contributions en attente faites sur votre site.
+            <hr>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-gerer">Lien</a>
+        </div>
+        <div class="ksln-cards">
+            <h3><b>Gérer les droits d'administration</b></h3>
+            Définissez la modération par les droits d'accès, de lecture et d'écriture de votre plateforme.
+            <hr>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-droits">Lien</a>
+        </div>
+        <div class="ksln-cards">
+            <h3><b>Associer un nom de domaine</b></h3>
+            Relier ce site web à l'un de vos domaines ou sous-domaines (ex: konsilion.fr).
+            <hr>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-domaine">Lien</a>
+        </div>
+    </div>
 
 === "Espaces de stockages"
 
     <p></p>
-    
-    La médiathèque permet la mise en ligne de ressources communes, universelles. Les ressources déposées ici ne sont pas assignables à un projet, ou à un individu en particulier.
+
+
+    [Accéder à votre médiathèque]({{ katalog_site }}/katalog/klouds/home){ .md-button .md-button--primary style="float: right; margin: 10px;"}
+
+    Retrouvez la liste des différents espaces de stockage enregistrés servant au partage de vos ressources et fichiers divers.
+
+    <hr>
+
     <div class="ksln-grid">
-        <div class="ksln-cards">
-            <h3><b>Consulter</b></h3>
-            <img src="https://cdn-icons-png.flaticon.com/512/3603/3603249.png" style="margin: 5px; max-width: 75px; width: 100%; float: right; opacity:0.4;">
-            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/media">Lien</a>
-            <br>
-            <br>
-        </div>
         <div class="ksln-cards">
             <h3><b>Déposer un fichier</b></h3>
             <img src="https://cdn-icons-png.flaticon.com/512/9121/9121674.png" style="margin: 5px; max-width: 75px; width: 100%; float: right; opacity:0.4;">
@@ -37,34 +65,14 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             <br>
             <br>
         </div>
-    </div>
-    <br>
-    ### Klouds - Catalogue de vos stockages de fichiers
-
-    [Consulter vos espaces de stockages]({{ katalog_site }}/katalog/klouds/home){ .md-button .md-button--primary style="float: right; margin: 10px;"}
-
-    Les espaces de stockages Kloud regroupent les fichiers qui se rapportent à un thème commun (une personne, un projet, etc.). Vous pouvez télécharger un modèle de Kloud en bas de cette page ou bien référencer un espace de stockage existant.
-
-    <div class="ksln-grid">
         <div class="ksln-cards">
-            <h3><b>Créer un dépôt de fichiers</b></h3>
-            Pour créer un espaces communs où regrouper vos fichiers par projets, utilisateurs, etc. Pour cela un simple compte GitHub suffit.
-            <br><br>
-            <a class="md-button md-button--secondary" href="https://github.com/Konsilion/kloud-template/generate');"> Créer un espace Kloud</a>
-            <br>
-            <br>
-        </div>
-        <div class="ksln-cards">
-            <h3><b>En savoir plus</b></h3>
-            Afin de mieux comprendre la logique proposées derrière les Klouds et l'organisation de vos ressources numériques.
-            <br><br>
-            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/klouds/en-savoir-plus">En savoir plus</a>
+            <h3><b>Vos dépôts express</b></h3>
+            <img src="https://cdn-icons-png.flaticon.com/512/3603/3603249.png" style="margin: 5px; max-width: 75px; width: 100%; float: right; opacity:0.4;">
+            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/media">Lien</a>
             <br>
             <br>
         </div>
     </div>
-
-    si vous n'avez pas de compte GitHub, vous pouvez en créer un en <a href="https://github.com/signup" target="_blank">suivant ce lien</a>
 
 
 === "Pages Web"
@@ -119,37 +127,6 @@ Le **panneau de configuration** vous permet de gérer et de configurer votre sit
             <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/katalogs/catalogue-supprimer">Lien</a>
         </div>
     </div>
-
-=== "Administration"
-
-    <div class="ksln-grid">
-        <div class="ksln-cards">
-            <h3><b>Gérer les contributions</b></h3>
-            Accedez à la liste des contributions en attente faites sur votre site.
-            <hr>
-            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-gerer">Lien</a>
-        </div>
-        <div class="ksln-cards">
-            <h3><b>Gérer les droits d'administration</b></h3>
-            Définissez la modération par les droits d'accès, de lecture et d'écriture de votre plateforme.
-            <hr>
-            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-droits">Lien</a>
-        </div>
-        <div class="ksln-cards">
-            <h3><b>Associer un nom de domaine</b></h3>
-            Relier ce site web à l'un de vos domaines ou sous-domaines (ex: konsilion.fr).
-            <hr>
-            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-domaine">Lien</a>
-        </div>
-        <div class="ksln-cards">
-            <h3><b>Paramétrer votre plateforme</b></h3>
-            Enregistrer trois informations essentielles au bon fonctionnement de votre plateforme (fichier konsilion.json).
-            <hr>
-            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-parametrer">Lien</a>
-        </div>          
-    </div>
-
-[Premiers pas ici ?]({{ katalog_site }}/admin/tutoriels/admin/admin-parametrer){ .md-button .md-button--primary style="float:right; margin: 10px;" target="_self"}  
 
 ---
 

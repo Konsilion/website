@@ -5,7 +5,6 @@ hide:
     - toc
 ---
 
-
 <div id="DatamiMain"></div>
 
-<div id="DatamiExternal" class="hide" style="padding-left:50px; border-left: 3px solid #EEE;"></div>
+<div id="DatamiExternal" style="display: none"></div>

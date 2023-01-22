@@ -16,18 +16,22 @@ hide:
     - toc
 ---
 
-???+ Quote inline end "Sommaire"
-    
-    [TOC]
-    
+[Commandez ici](#){.md-button .md-button--primary style="float: right"}
+   
 
 ## Introduction
 
+
+???+ Quote inline end "Sommaire"
+    
+    [TOC]
+
 L’ ordinateur Low-tech vous permet de personnaliser votre appareil en fonction de vos besoins en ajoutant ou en retirant des composants et des périphériques. Il est fabriqué, autant que possible, à partir de matériaux de récupération et de sources locales, ce qui en fait un choix durable et résilient. 
 
-[Commandez ici](#){.md-button .md-button--primary style="float: right"}
 
-<br>
+
+## Description technique
+
 
 ## Matériels & Plans 
 
@@ -52,7 +56,3 @@ L’ ordinateur Low-tech vous permet de personnaliser votre appareil en fonction
 ### Étape 2
 
 ### Étape 3
-
-
-
----

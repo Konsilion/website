@@ -9,11 +9,5 @@
     "url_csv": "https://github.com/Konsilion/katalog-template/blob/master/docs/katalog/ressources/data.csv",
     "url_origin": "https://konsilion.fr",
     "activate": "true"
-  },
-  "Lowtech-Lab": {
-    "descr": "",
-    "url_csv": "https://github.com/Konsilion/katalog-template/blob/master/docs/katalog/projets/data.csv",
-    "url_origin": "https://konsilion.fr",
-    "activate": "true"
   }
 }

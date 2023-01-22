@@ -1,6 +1,6 @@
 ---
 title: Katalog
-comments: true
+comments: false
 add: true
 edit: true
 slider: true
@@ -67,17 +67,19 @@ L’ouverture est le gage d’une recherche mieux documentée, plus étayée et 
 
 
 === "Obtenir une plateforme Katalog"
-    
-    <div class="ksln-grid">
-        <div class="ksln-cards">
-            <b>Création</b>
-            <hr>
-            Pour créer votre plateforme, un simple compte GitHub suffit.
-            <br><br>
-            <button class="md-button md-button--primary" onclick="window.open('https://github.com/Konsilion/katalog-template/generate');"> Créer ma plateforme</button>
-            <br>
-            <br>
-        </div>
+
+    <div class="ksln-cards">
+        <b>Création</b>
+        <hr>
+        Pour créer votre plateforme, un simple compte GitHub suffit.
+        <br><br>
+        <a class="md-button md-button--primary" href="https://github.com/Konsilion/katalog-template/generate" target="_blank"> Créer ma plateforme</a>
+        <br>
+        <br>
+        <small>
+          :octicons-light-bulb-16:
+          **Erreur 404 ?** : vous n'avez pas de compte GitHub, vous pouvez en créer un en <a href="https://github.com/signup" target="_blank">suivant ce lien</a>
+        </small>
     </div>
 
     ??? tip "Aide à la création"
@@ -88,33 +90,17 @@ L’ouverture est le gage d’une recherche mieux documentée, plus étayée et 
 
         *Attendre quelques minutes après la validation afin de laisser votre plateforme arrivée sur le Web.*
 
-    si vous n'avez pas de compte GitHub, vous pouvez en créer un en <a href="https://github.com/signup" target="_blank">suivant ce lien</a>
-
     <hr>
-    
-    ## **Création faite ?** - Renseignez les informations suivantes :
     <br>
-    <input class="kslt-btn-index" id="UserName" placeholder="Nom de votre compte GitHub ?">
-    <input class="kslt-btn-index" id="RepoName" placeholder="Nom pour votre plateforme / repository name ? (ex: katalog)">
-    <br>    
-    <div class="ksln-grid">
-        <div class="ksln-cards">
-            <b>Initialisation</b>
-            <hr>
-            Une fois les champs vous concernant, ci-dessus, remplis et votre plateforme créée, vous devez initialiser certains paramètres.
-            <br><br>
-            <button class="md-button md-button--primary" onclick="ConfigJson();"> Initialiser ma plateforme</button>
-            <br><br>
-        </div>
-        <div class="ksln-cards">
-            <b>Redirection vers votre site</b>
-            <hr>
-            Accédez à votre plateforme Katalog.
-            <br><br><br><br>
-            <button class="md-button md-button--secondary" onclick="AccessPlateform();" style=""> Accédez à ma plateforme</button>
-            <br><br>
-        </div>    
-    </div>
+    <div class="ksln-cards">
+        <b>Redirection vers votre site</b>
+        <hr>
+        <input class="kslt-btn-index" id="UserName" placeholder="Nom de votre compte GitHub ?">
+        <input class="kslt-btn-index" id="RepoName" placeholder="Nom pour votre plateforme / repository name ? (ex: katalog)">
+        <br><br><br>
+        <a class="md-button md-button--secondary" href="javascript:AccessPlateform();" style=""> Accédez à ma plateforme</a>
+        <br><br>
+    </div>    
 
 
 
@@ -194,9 +180,6 @@ L’ouverture est le gage d’une recherche mieux documentée, plus étayée et 
 
         * Et le tout 100% gratuitement, sans abonnement, sans location de serveur... C'est un logiciel libre !
 
-
-
----
 
 
 <script>

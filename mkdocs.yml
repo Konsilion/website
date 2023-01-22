@@ -38,8 +38,11 @@ site_description: Développer, proposer et promouvoir la Low-technologie.
 site_url: https://konsilion.fr
 repo_url: https://github.com/konsilion/website
 
-
-
+extra:
+  katalog_repo: "https://github.com/konsilion/website"
+  katalog_site: "http://localhost:8000"
+  katalog_mdp: ""
+  
 
 # LANGUE, COULEURS et LOGO
 #

@@ -5,9 +5,6 @@ hide:
 ---
 
 
-
-
-
 ![logo-accueil](https://user-images.githubusercontent.com/99027754/209585047-f1e419f1-8f55-43d2-bfc6-6d51aec13ecf.png){style="max-width: 100%; width: 450px"}
 
 ---
@@ -32,9 +29,9 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
 
 <br>
 
-[On continue ?](../presentation/){ .md-button .md-button--primary style="float: left; margin-bottom: 75px;"}
+[On continue ?](./pages/presentation/){ .md-button .md-button--primary style="float: left; margin-bottom: 75px;"}
 
-[Nous contacter](../informations/#contact){ .md-button .md-button--secondary style="float: right; margin-left: 10px; margin-bottom:15px;"}
+[Nous contacter](./pages/informations/#contact){ .md-button .md-button--secondary style="float: right; margin-left: 10px; margin-bottom:15px;"}
 
 <br><br><br><br><br><br>
 
@@ -43,5 +40,19 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
 ![Panneaux de configuration](https://cdn-icons-png.flaticon.com/512/148/148913.png){ .md-button .md-button--secondary onclick="window.open('{{ katalog_site }}/admin','_self');" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid #f1f1f1;"}
 
 
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script>
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>
+<style>
+   body{ 
+       background-image: url(http://www.atl-chaudronnerie.fr/img/slider/374-5-pales-eolienne-w.jpg);
+        background-repeat: no-repeat;
+        background-position: center;background-size: cover; 
+    }
+    .md-container {
+        background: rgb(255,255,255);
+        background: linear-gradient(180deg, rgba(255,255,255,0.75) 0%, rgba(255,255,255,1) 60%, rgba(255,255,255,1) 100%);
+    }
+    .md-content{
+        margin: 50px auto;
+        max-width: 1250px;
+        padding: 0 25px;
+    }    
+</style>

@@ -1,6 +1,6 @@
 theme:
     name: material
-    custom_dir: overrides
+    custom_dir: docs/admin/overrides
     features:
       - navigation.indexes
       - navigation.tracking
@@ -10,9 +10,6 @@ theme:
       
 extra:
   generator: false
-  katalog_repo: "https://github.com/konsilion/website"
-  katalog_site: "http://konsilion.fr"
-
 
 plugins:
   - search
@@ -35,7 +32,6 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
       
 extra_css:
-  - https://konsilion.github.io/katalog-setup/css/konsilion-datami.css
   - https://konsilion.github.io/katalog-setup/css/konsilion-mkdocs.css
-  - admin/css/colors.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css
+  - admin/css/colors.css

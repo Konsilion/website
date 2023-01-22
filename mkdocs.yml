@@ -40,8 +40,8 @@ repo_url: https://github.com/konsilion/website
 
 extra:
   katalog_repo: "https://github.com/konsilion/website"
-  katalog_site: "http://localhost:8000"
-  katalog_mdp: ""
+  katalog_site: "https://konsilion.fr"
+  katalog_mdp: "konsilion"
   
 
 # LANGUE, COULEURS et LOGO

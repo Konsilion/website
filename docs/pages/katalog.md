@@ -91,16 +91,20 @@ L’ouverture est le gage d’une recherche mieux documentée, plus étayée et 
         *Attendre quelques minutes après la validation afin de laisser votre plateforme arrivée sur le Web.*
 
     <hr>
-    <br>
-    <div class="ksln-cards">
-        <b>Redirection vers votre site</b>
-        <hr>
-        <input class="kslt-btn-index" id="UserName" placeholder="Nom de votre compte GitHub ?">
-        <input class="kslt-btn-index" id="RepoName" placeholder="Nom pour votre plateforme / repository name ? (ex: katalog)">
-        <br><br><br>
-        <a class="md-button md-button--secondary" href="javascript:AccessPlateform();" style=""> Accédez à ma plateforme</a>
-        <br><br>
-    </div>    
+    ## Création Faites ?
+    
+    <input class="kslt-btn-index" id="UserName" placeholder="Nom de votre compte GitHub ?">
+    <input class="kslt-btn-index" id="RepoName" placeholder="Nom pour votre plateforme / repository name ? (ex: katalog)">
+     
+    Vous devez modifier le <a href="" target="_blank">fichier CODEOWNER</a> afin d'indiquer que vous avez les droits sur ce dossier, pour cela à la place de @konsilion indiquez votre nom d'utilisateur Github @votreidentifiant
+    
+    <a class="md-button md-button--secondary" href="javascript:AccessCodeOwner();" style=""> Modifier votre fichier CODEOWNER</a>
+    
+    Après quelques minutes vous pouvez accèdez à votre panneaux de configuration afin de vous approprier votre site Web. Le mot de passe initial est vide, faite juste `Ok`.
+    
+    <a class="md-button md-button--secondary" href="javascript:AccessPlateform();" style=""> Accédez à votre plateforme</a>
+  
+
 
 
 
@@ -194,7 +198,17 @@ function ConfigJson() {
     }
 };
 
+function AccessCodeOwner() {
+
+    var name = document.getElementById("UserName").value;
+    var repo = document.getElementById("RepoName").value;
     
+    if(name != "" && repo != ""){
+        window.open("https://github.com/" + name + "/" + repo + "/edit/master/.github/CODEOWNERS");
+    } else {
+        alert("Un ou deux des champs à renseigner sont vides.");
+    }
+};   
     
 function AccessPlateform() {
 

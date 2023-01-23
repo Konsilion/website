@@ -31,8 +31,12 @@ hide:
         ---
         title: Introduction
         comments: true
+        slider: true
+        add: true
+        edit: true
         hide:
            - toc
+           - navigation
         ---
 
         # Introduction
@@ -41,29 +45,24 @@ hide:
 
         (votre texte ici ...)
 
-
-
-        <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>
-        <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script> 
-        <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>
         ```
     </div>
 
     Chaque fichier markdown doit commencer par une ligne de front matter qui définit le titre de la page et d'autres paramètres.
-
-    ??? info "À quoi servent les lignes `<script>` ?"
-
-        Un script est un programme informatique écrit dans le langage JavaScript. Ils sont utilisés pour ajouter de la fonctionnalité à votre plateforme web, comme des actions en réponse aux événements de l'utilisateur, des saisies de texte dans des formulaires ou des gestions de compatibilité entre Mkdocs et Datami.
-
-        Les scripts JavaScript sont généralement inclus dans le code HTML d'une page web à l'aide de la balise `<script>`.
-
-        Ils ne sont **pas obligatoires pour les pages**, mais voici les fonctionnalités qu'ils apportent :
-
-        * Modifier la page en cours :
-
-        * Créer une page voisine :
-
-        * Menu glissant :
+        
+    ### Les différents paramètres d'une page
+    
+    #### comments
+    
+    #### title
+    
+    #### edit
+    
+    #### add
+    
+    #### slider
+    
+    #### hide
 
 === "Étape 2" 
 
@@ -77,10 +76,10 @@ hide:
         ``` yaml title="Éditer la navigation/ référencement dans mkdocs.yml"
         nav:
           - Accueil: pages/accueil.md
-          - Tutoriels:
+          - Présentation:
             - Introduction: pages/ma-page.md
-            - Étape 1: pages/etape-1/ma-deuxieme-page.md
-          - À propos: pages/contact.md
+            - Notre histoire: pages/etape-1/ma-deuxieme-page.md
+          - Contact: pages/contact.md
         ```
     </div>
 
@@ -106,6 +105,3 @@ hide:
         ```
     </div>
 
----
-
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script>

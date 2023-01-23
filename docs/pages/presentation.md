@@ -2,6 +2,7 @@
 title: Ingénierie collaborative
 add: true
 edit: true
+slider: true
 comments: false
 hide:
     -toc

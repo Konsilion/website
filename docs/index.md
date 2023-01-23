@@ -17,7 +17,7 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
 
 [Nous contacter](./pages/informations/#contact){ .md-button .md-button--secondary style="float: right; margin-left: 10px; margin-bottom:15px;"}
 
-<br><br><br>
+<br><br><br><br><br>
 
 ??? tip "Qu'est ce que la Low-tech ?"
 
@@ -44,11 +44,14 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
     }
     .md-container {
         background: rgb(255,255,255);
-        background: linear-gradient(180deg, rgba(255,255,255,0.9) 0%, rgba(255,255,255,0.9) 60%, rgba(255,255,255,0.7) 100%);
+        background: linear-gradient(180deg, rgba(255,255,255,0.9) 0%, rgba(255,255,255,0.9) 15%, rgba(255,255,255,0.75) 60%, rgba(255,255,255,0.1) 100%);
     }
     .md-content{
         margin: 50px auto;
         max-width: 1250px;
         padding: 0 25px;
-    }    
+    }
+    .md-button--secondary {
+        background-color: rgba(255,255,255,0.8);
+    }
 </style>

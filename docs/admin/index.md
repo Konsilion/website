@@ -3,19 +3,26 @@ title: Admin
 hide:
   - toc
   - navigation
+version: 0.9
 ---
 
 <script defer>
     var mdp = prompt("Quels est votre Mot de Passe");
-    if (mdp != AdminMdp){ alert("Erreur"); window.history.back() }
+    if (mdp != AdminMdp){ alert("Mot de passe incorrect."); document.body.innerHTML = "Erreur dans le mot de passe. Recharger la page pour ressayer.";}
+    var LocalVersion = "{{ version }}";
 </script>
+
+<div id="UpdateAlert" style="display: none;">
+    <b style="color:red;">Une mise à jour est disponible</b> : Afin de mettre à jour votre plateforme et de bénificier des dernières mise à jour, vous pouvez suivre ce <a href="./tutoriels/admin/admin-update" target="_self">tutoriel</a>.
+    <hr>
+</div>
 
 ![Repertoire GitHub](https://raw.githubusercontent.com/Konsilion/website/master/media/logo-github.png){ .md-button .md-button--primary onclick="window.open('{{ katalog_repo }}','_blank');" style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
 
 ![Accueil du site](https://raw.githubusercontent.com/Konsilion/website/master/media/fleche-retour.png){ .md-button .md-button--primary  onclick="window.open('{{ katalog_site }}','_self');"  style="float:right; height: 40px; padding: 5px; margin: 5px; border-radius: 50px; border: 3px solid grey;"}
 
-# Panneau de configuration
 
+# Panneau de configuration
 
 === "Administration"
 
@@ -44,6 +51,12 @@ hide:
             <hr>
             <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/admin/admin-domaine">Lien</a>
         </div>
+        <div class="ksln-cards">
+            <h3><b>Système de commentaires</b></h3>
+            Donner la possibilité aux utilisateurs de commenter une page.
+            <hr>
+            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-commenter">Lien</a>
+        </div>
     </div>
 
 === "Espaces de stockages"
@@ -61,14 +74,14 @@ hide:
         <div class="ksln-cards">
             <h3><b>Déposer un fichier</b></h3>
             <img src="https://cdn-icons-png.flaticon.com/512/9121/9121674.png" style="margin: 5px; max-width: 75px; width: 100%; float: right; opacity:0.4;">
-            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/upload/master/media">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/upload/master/media" target="_blank">Lien</a>
             <br>
             <br>
         </div>
         <div class="ksln-cards">
             <h3><b>Vos dépôts express</b></h3>
             <img src="https://cdn-icons-png.flaticon.com/512/3603/3603249.png" style="margin: 5px; max-width: 75px; width: 100%; float: right; opacity:0.4;">
-            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/media">Lien</a>
+            <a class="md-button md-button--secondary" href="{{ katalog_repo }}/tree/master/media" target="_blank">Lien</a>
             <br>
             <br>
         </div>
@@ -89,12 +102,6 @@ hide:
             Modifier une page Web existante en toute simplicité.
             <hr>
             <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-modifier">Lien</a>
-        </div>
-        <div class="ksln-cards">
-            <h3><b>Commenter une page</b></h3>
-            Donner la possibilité aux utilisateurs de commenter une page.
-            <hr>
-            <a class="md-button md-button--secondary" href="{{ katalog_site }}/admin/tutoriels/pages/page-commenter">Lien</a>
         </div>
         <div class="ksln-cards">
             <h3><b>Supprimer une page</b></h3>
@@ -128,8 +135,5 @@ hide:
         </div>
     </div>
 
----
 
-<style>
-    .md-button {}
-</style>
+<script src="https://konsilion.github.io/katalog-setup/js/admin.js"></script>

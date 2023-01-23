@@ -92,6 +92,6 @@ hide:
 
     [Documentation officielle](https://datami-docs.multi.coop/?locale=fr){ .md-button .md-button--secondary style="float:right; margin: 15px 25px;" target="_blank"}
 
-    ## Pour la suite de Datami, c'est avec la <a href="https://www.multi.coop/?locale=fr">Coopérative Multi</a>.
+    ## Pour la suite de Datami, c'est avec la <a href="https://www.multi.coop/?locale=fr" target="_blank">Coopérative Multi</a>.
     
     

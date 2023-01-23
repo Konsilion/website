@@ -10,22 +10,36 @@ hide:
 
 === "Étape 1"
 
-    [Étape 1 - Télécharger le modèle]({{ katalog_repo }}/new/master/docs/pages){ .md-button .md-button--secondary style="float:right; margin: 15px 25px;" target="_blank"}
+    [Télécharger le modèle]({{ katalog_repo }}/new/master/docs/pages){ .md-button .md-button--secondary style="float:right; margin: 15px 25px;" target="_blank"}
 
-    ## Télécharger le dossier modèle et le renommer
+    ## Télécharger le dossier modèle
 
 === "Étape 2"
 
-    [Étape 2 - Déposer mon dossier]({{ katalog_repo }}/new/master/docs/pages){ .md-button .md-button--secondary style="float:right; margin: 15px 25px;" target="_blank"}
-
-    ## Faites glisser votre dossier fraichement renommé
+    ## Faites glisser les fichiers de ce dossier
+    
+    <input class="kslt-btn-index" id="KatalogName" placeholder="Nom de votre catalogue ?">
+    
+    <a class="md-button md-button--secondary" href="javascript:CreateKatalog();" style=""> Déposer les fichiers</a>
+    
     
 === "Étape 3"
 
-    [Étape 3 - Référencer mon catalogue]({{ katalog_repo }}/new/master/docs/pages){ .md-button .md-button--secondary style="float:right; margin: 15px 25px;" target="_blank"}
+    [Référencer mon catalogue]({{ katalog_repo }}/new/master/docs/pages){ .md-button .md-button--secondary style="float:right; margin: 15px 25px;" target="_blank"}
 
     ## Référencer votre catalogue
     
     Dans le répertoire du projet, vous trouverez un fichier mkdocs.yml qui contient les paramètres de votre projet. Ouvrez ce fichier en cliquant sur le bouton et modifiez-le pour définir l'arborescence de vos pages.
 
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script> 
+<script>
+function CreateKatalog() {
+
+    var name = document.getElementById("KatalogName").value;
+    
+    if(name != ""){
+        window.open("{{katalog_repo}}/upload/master/docs/katalog/" + name);
+    } else {
+        alert("Renseigner le nom de votre nouveau Catalogue Web.");
+    }
+};
+</script>
